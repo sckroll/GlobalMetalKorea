@@ -1,0 +1,290 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "A001",
+    "partNum": "199.484.7",
+    "size": "9.5x9.5\nx4",
+    "name": "Current Supply",
+    "position": "",
+    "description": "AC50,DEM250 … 740"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "A015",
+    "partNum": "358.684.9",
+    "size": "",
+    "name": "Current Supply Polished",
+    "position": "",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "A015G",
+    "partNum": "326.824.0",
+    "size": "",
+    "name": "Current Supply Tin Coated",
+    "position": "",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "A017",
+    "partNum": "424.914.0",
+    "size": "12x12\nx29",
+    "name": "Current Supply",
+    "position": "Upper",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "A017G",
+    "partNum": "424.914.0",
+    "size": "12x12\nx29",
+    "name": "Current Supply Tin Coated",
+    "position": "Upper",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "A018",
+    "partNum": "424.934.8",
+    "size": "12x12\nx30",
+    "name": "Current Supply",
+    "position": "Lower",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "A018G",
+    "partNum": "424.934.8",
+    "size": "12x12\nx30",
+    "name": "Current Supply Tin Coated",
+    "position": "Lower",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "",
+    "partNum": "323.404",
+    "size": "",
+    "name": "Teiescope",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "A200",
+    "partNum": "326.764.8",
+    "size": "",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "A021",
+    "partNum": "351.594\n(174.132)",
+    "size": "",
+    "name": "Dies block",
+    "position": "Upper",
+    "description": "AC-50 series\nAC-250. 315. 400.\n425. 612. 700. 740\nseries"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "A022",
+    "partNum": "185.763",
+    "size": "",
+    "name": "Schaft complete",
+    "position": "",
+    "description": "AC-50 series\nAC-250. 315. 400.\n425. 612. 700. 740\nseries"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "A023",
+    "partNum": "251.563.3",
+    "size": "30x16",
+    "name": "Suction Tube Special for Taper cutting",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "A027",
+    "partNum": "338.184.5",
+    "size": "",
+    "name": "Suction Tube",
+    "position": "Lower",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "A305",
+    "partNum": "326.834",
+    "size": "",
+    "name": "Guide",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "A031",
+    "partNum": "352.904.7",
+    "size": "",
+    "name": "Casting box",
+    "position": "",
+    "description": "AC-50 series\nAC-250. 315. 400.\n425. 612. 700. 740\nseries"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "A032",
+    "partNum": "368.624.8",
+    "size": "",
+    "name": "Dies block",
+    "position": "Lower",
+    "description": "AC-50 series\nAC-250. 315. 400.\n425. 612. 700. 740\nseries"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "A033",
+    "partNum": "377.704\n(427.444.5)",
+    "size": "",
+    "name": "Horizontal Arm",
+    "position": "Upper",
+    "description": "Replaced by (427.445.5)"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "A033-1",
+    "partNum": "377.704.2",
+    "size": "",
+    "name": "Horizontal Arm",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "A034",
+    "partNum": "396.414.5",
+    "size": "",
+    "name": "Suction Tube",
+    "position": "Lower",
+    "description": "AC100 … 370HSS"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "A035",
+    "partNum": "419.374.4",
+    "size": "",
+    "name": "Suction Tube Funnel Type",
+    "position": "",
+    "description": "AC220"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "A036",
+    "partNum": "419.594.7",
+    "size": "",
+    "name": "Suction Tube",
+    "position": "",
+    "description": "AC … HSS Series"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "",
+    "partNum": "352.624\nSET",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "",
+    "partNum": "352.624-A",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "",
+    "partNum": "352.624-B",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "",
+    "partNum": "351.624.1",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "",
+    "partNum": "351.644.0",
+    "size": "",
+    "name": "Horizontal Arm",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "",
+    "partNum": "351.564.2",
+    "size": "",
+    "name": "Fork",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "",
+    "partNum": "426.884.2",
+    "size": "",
+    "name": "Magnetic Brake",
+    "position": "",
+    "description": ""
+  }
+]

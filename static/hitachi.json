@@ -1,0 +1,290 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "H101",
+    "partNum": "Q1846 (C206)",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Hi-cut 203,304,345,460\nQ Series Manual"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "H101",
+    "partNum": "Q1846 (C206)",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Hi-cut 203,304,345,460\nQ Series Manual"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "H101",
+    "partNum": "Q1846 (C206)",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Hi-cut 203,304,345,460\nQ Series Manual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "H102",
+    "partNum": "Q1848 (C207)",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Hi-cut 203,304,345,460\nQ Series Manual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "H102",
+    "partNum": "Q1848 (C207)",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Hi-cut 203,304,345,460\nQ Series Manual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "H102",
+    "partNum": "Q1848 (C207)",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Hi-cut 203,304,345,460\nQ Series Manual"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "H103",
+    "partNum": "",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "Hi-cut Series Manual"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "H103",
+    "partNum": "659090001",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "Hi-cut Series Manual"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "H103",
+    "partNum": "65934201",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "Hi-cut Series Manual"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "H113",
+    "partNum": "43112 (C004)",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H-CUT 203R,203F,254R,355R S\nAWT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "H113",
+    "partNum": "43113 (C005)",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H-CUT 203R,203F,254R,355R S\nAWT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "H113",
+    "partNum": "43114 (C006)",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H-CUT 203R,203F,254R,355R S\nAWT"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "H114",
+    "partNum": "43060 (C001)",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H-CUT 203R,203F,254R,355R S\nAWT"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "H114",
+    "partNum": "43061 (C002)",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H-CUT 203R,203F,254R,355R S\nAWT"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "H114",
+    "partNum": "43062 (C003)",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H-CUT 203R,203F,254R,355R S\nAWT"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "H001",
+    "partNum": "Q1825 (C202) (S1325)",
+    "size": "10.7x3\n2",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "203,304,345,460,580"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "H002",
+    "partNum": "Q6172 (C297) (E8312)",
+    "size": "7.8x30",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "H-CUT 203M,304P,460P,508 P,Q\nAWT"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "H005",
+    "partNum": "43144 (C850)",
+    "size": "9x18\nx18",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "H-CUT 254RS,355RS"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "H005G",
+    "partNum": "43033 (C016)",
+    "size": "9x18\nx18",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "H-CUT 254RS,355RS"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "H006",
+    "partNum": "43017 (C851)",
+    "size": "12X6\nx6",
+    "name": "Power Feed Contact",
+    "position": "Upper",
+    "description": "H-CUT 254RS,355RS"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "H007",
+    "partNum": "",
+    "size": "20X6 X8",
+    "name": "Power Feed Contact",
+    "position": "",
+    "description": "H-CUT 355RS"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "H201",
+    "partNum": "",
+    "size": "",
+    "name": "Water Nozzle",
+    "position": "",
+    "description": "H-CUT 203,304,345,460"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "H202",
+    "partNum": "",
+    "size": "",
+    "name": "Water Nozzle",
+    "position": "",
+    "description": "H-CUT 203,304,345,460"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "H203",
+    "partNum": "C261",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "",
+    "description": "H-CUT 203M, Q\nSeries\nHigh Speed"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "H203",
+    "partNum": "C260",
+    "size": "6",
+    "name": "Water Nozzle",
+    "position": "",
+    "description": "H-CUT 203M, Q\nSeries\nHigh Speed"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "H204",
+    "partNum": "Q6205 (C372)",
+    "size": "80X7 X46",
+    "name": "Nozzle Holder",
+    "position": "",
+    "description": "H-CUT 203M, Q\nSeries"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "H205",
+    "partNum": "Q6201 (C494)",
+    "size": "",
+    "name": "Nozzle Holder",
+    "position": "",
+    "description": "H-CUT 203M, Q\nSeries"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "H205-1",
+    "partNum": "Q6201 (C494)",
+    "size": "80x5\nx48",
+    "name": "Water Nozzle",
+    "position": "",
+    "description": "H-CUT 203M, Q\nSeries"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "H206",
+    "partNum": "",
+    "size": "80x5\nx48",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "H301",
+    "partNum": "Q6061 (C473)",
+    "size": "",
+    "name": "Cutter",
+    "position": "Upper",
+    "description": "Q Series Ceramic"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "H302",
+    "partNum": "Q6062 (C474)",
+    "size": "",
+    "name": "Cutter",
+    "position": "Upper",
+    "description": "Q Series Ceramic"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "H401",
+    "partNum": "",
+    "size": "",
+    "name": "Holder for H005",
+    "position": "",
+    "description": "H-CUT,254RS,355RS 203M"
+  }
+]

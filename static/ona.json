@@ -1,0 +1,290 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "O101",
+    "partNum": "AE6999011",
+    "size": "Ø0.205",
+    "name": "Guide Dies With AWF",
+    "position": "Upper",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "O101",
+    "partNum": "AE6999004",
+    "size": "Ø0.255",
+    "name": "Guide Dies With AWF",
+    "position": "Upper",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "O101",
+    "partNum": "AE6999008",
+    "size": "Ø0.305",
+    "name": "Guide Dies With AWF",
+    "position": "Upper",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "O102",
+    "partNum": "AE6999012",
+    "size": "Ø0.205",
+    "name": "Guide Dies With AWF",
+    "position": "Lower",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "O102",
+    "partNum": "AE6999003",
+    "size": "Ø0.255",
+    "name": "Guide Dies With AWF",
+    "position": "Lower",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "O102",
+    "partNum": "AE6999007",
+    "size": "Ø0.305",
+    "name": "Guide Dies With AWF",
+    "position": "Lower",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "O103",
+    "partNum": "E69200037R0 0",
+    "size": "Ø0.205",
+    "name": "Guide Dies",
+    "position": "Upper",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "O103",
+    "partNum": "E69200039R0 0",
+    "size": "Ø0.255",
+    "name": "Guide Dies",
+    "position": "Upper",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "O103",
+    "partNum": "E69200041R0 0",
+    "size": "Ø0.305",
+    "name": "Guide Dies",
+    "position": "Upper",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "O104",
+    "partNum": "E69200038R0 0",
+    "size": "Ø0.205",
+    "name": "Guide Dies",
+    "position": "Lower",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "O104",
+    "partNum": "E69200040R0 0",
+    "size": "Ø0.255",
+    "name": "Guide Dies",
+    "position": "Lower",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "O104",
+    "partNum": "E69200042R0 0",
+    "size": "Ø0.305",
+    "name": "Guide Dies",
+    "position": "Lower",
+    "description": "Prima series SW6.0x11.0mmT\nAWF type"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "O 001",
+    "partNum": "AE6699003",
+    "size": "18x6\nx6",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "O 002",
+    "partNum": "AE6699007",
+    "size": "18x8\nx6",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "O 003",
+    "partNum": "AE6699012",
+    "size": "8x16\nx16",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "O 004",
+    "partNum": "AE6699004",
+    "size": "6x16\nx16",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "O 005",
+    "partNum": "",
+    "size": "12.5x\n12.5x4",
+    "name": "Cutter",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "O 006",
+    "partNum": "AE66000005",
+    "size": "18.5x\n38x4",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "O 007A",
+    "partNum": "AE6699004",
+    "size": "",
+    "name": "Cutter",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "O 007B",
+    "partNum": "AE6699005",
+    "size": "",
+    "name": "Cutter",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "O201",
+    "partNum": "E8311219",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Prima EA250"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "O201",
+    "partNum": "E8311210",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Prima EA250 Old type With AWF = Lower Without AWF"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "O202",
+    "partNum": "E8311315",
+    "size": "Ø6.0 x 1.15t",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Prima E250"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "O202",
+    "partNum": "E8311279",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Prima EA250 For AWF"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "O202",
+    "partNum": "E8311225",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Prima EA250 For AWF"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "O203",
+    "partNum": "E8311371",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "Prima SA400"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "O203",
+    "partNum": "E8311317",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "Prima SA400"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "O203",
+    "partNum": "E8311370",
+    "size": "Ø7.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "Prima SA400"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "O204",
+    "partNum": "E8311364",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Prima SA400"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "O204",
+    "partNum": "E8311318",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Prima E250"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "O204",
+    "partNum": "E8311369",
+    "size": "Ø7.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "O205",
+    "partNum": "E8311211",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "",
+    "description": ""
+  }
+]

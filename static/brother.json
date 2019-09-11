@@ -1,0 +1,353 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "B100",
+    "partNum": "630745000",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-100"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "B100",
+    "partNum": "630769000",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-100"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "B100",
+    "partNum": "630787000",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-100"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "B101",
+    "partNum": "632267020",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-300,350"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "B101",
+    "partNum": "632267025",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-300,350"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "B101",
+    "partNum": "632267030",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-300,350"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "B102",
+    "partNum": "632989000",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "HS-3100,HS-3600 HS-50A\nAWT"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "B102",
+    "partNum": "632990000",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "HS-3100,HS-3600 HS-50A\nAWT"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "B102",
+    "partNum": "632991000",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "HS-3100,HS-3600 HS-50A\nAWT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "B103",
+    "partNum": "632992000",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "HS-3100,HS-3600 HS-50A\nAWT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "B103",
+    "partNum": "632993000",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "HS-3100,HS-3600 HS-50A\nAWT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "B103",
+    "partNum": "632994000",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "HS-3100,HS-3600 HS-50A\nAWT"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "B104",
+    "partNum": "632986000",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-3100,HS-3600 HS-50A\nManual"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "B104",
+    "partNum": "632987000",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-3100,HS-3600 HS-50A\nManual"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "B104",
+    "partNum": "632988000",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "HS-3100,HS-3600 HS-50A\nManual"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "B105",
+    "partNum": "659377001",
+    "size": "0.5",
+    "name": "",
+    "position": "Upper",
+    "description": "HS-3100,HS-3600 HS-50A"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "B106",
+    "partNum": "634038001",
+    "size": "0.5",
+    "name": "Separater",
+    "position": "",
+    "description": "HS-3100,HS-3600"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "B001",
+    "partNum": "632276000",
+    "size": "14x14\nx9",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "HS-300,HS-350"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "B002",
+    "partNum": "632904000",
+    "size": "4x10\nx19",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "HS-3100,HS-3600"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "B003\n(=SPM463)",
+    "partNum": "616942-001",
+    "size": "",
+    "name": "Cutter",
+    "position": "",
+    "description": "HS-50A/3600/3100"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "B201",
+    "partNum": "630877000",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "HS-300\nNozzle-100"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "B201-1",
+    "partNum": "",
+    "size": "36x36\nx19",
+    "name": "Nozzle Holder",
+    "position": "Upper & Lower",
+    "description": "HS-300 For B201"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "B202",
+    "partNum": "632902000",
+    "size": "42x42\nx19",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "HS-3100,HS- 3600,HS-50A"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "B202-1",
+    "partNum": "",
+    "size": "",
+    "name": "Screw Upper for B202 With AWT Option",
+    "position": "Upper",
+    "description": "HS-3100,HS- 3600,HS-50A For B202"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "B203",
+    "partNum": "632930000",
+    "size": "37.5x4\nx29",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HS-3100,HS- 3600,HS-50A\nNozzle AT-1506"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "B203-1",
+    "partNum": "",
+    "size": "",
+    "name": "Nut",
+    "position": "",
+    "description": "HS-3100,3600,50A\nNozzle AT-1506"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "B204",
+    "partNum": "632920000",
+    "size": "",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "HS-3100,3600,50A AT-1506"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "B205",
+    "partNum": "659398001",
+    "size": "",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "HS-50A AT-1507"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "B301",
+    "partNum": "632284000",
+    "size": "",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "HS-300"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "B401",
+    "partNum": "632269000",
+    "size": "23x12\nx10",
+    "name": "Guide Pully Plastic Material",
+    "position": "",
+    "description": "HS-300"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "B401C",
+    "partNum": "632269000",
+    "size": "23x12\nx10",
+    "name": "Guide Pully Ceramic Material",
+    "position": "",
+    "description": "HS-300"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "B401-1",
+    "partNum": "632269000",
+    "size": "30x12\nx10",
+    "name": "Guide Pully Plastic Material",
+    "position": "",
+    "description": "HS-300"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "B401-1C",
+    "partNum": "632269000",
+    "size": "30x12\nx10",
+    "name": "Guide Pully Ceramic Material",
+    "position": "",
+    "description": "HS-300"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "B402",
+    "partNum": "533532~001",
+    "size": "",
+    "name": "Bearing",
+    "position": "",
+    "description": "HS-300,500\nFor B401 SSLF1260ZZ"
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "B403",
+    "partNum": "",
+    "size": "40x12\nx12",
+    "name": "Pinch Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "B404",
+    "partNum": "",
+    "size": "40x8\nx25",
+    "name": "Capstan Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "B405",
+    "partNum": "",
+    "size": "50x40 x12.5",
+    "name": "Feed Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "B406",
+    "partNum": "",
+    "size": "50x40 x12.5",
+    "name": "Feed Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "B407",
+    "partNum": "",
+    "size": "",
+    "name": "Felt Pad",
+    "position": "",
+    "description": ""
+  }
+]

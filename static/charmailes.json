@@ -1,0 +1,1505 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "C101",
+    "partNum": "200,431,112",
+    "size": "0.202",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Ceramic Housing OD6.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "C101",
+    "partNum": "100,432,511",
+    "size": "0.252",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Ceramic Housing OD6.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "C101",
+    "partNum": "200,432,512",
+    "size": "0.302",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Ceramic Housing OD6.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "C102",
+    "partNum": "200,431,122",
+    "size": "0.202",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Ceramic Housing OD5.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "C102",
+    "partNum": "100,430,586",
+    "size": "0.252",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Ceramic Housing OD5.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "C102",
+    "partNum": "200,432,814",
+    "size": "0.302",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Ceramic Housing OD5.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "C103",
+    "partNum": "200,431,112",
+    "size": "0.202",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Stainless Housing OD6.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "C103",
+    "partNum": "100,432,511",
+    "size": "0.252",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Stainless Housing OD6.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "C103",
+    "partNum": "200,432,512",
+    "size": "0.302",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Stainless Housing OD6.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "C104",
+    "partNum": "200,431,122",
+    "size": "0.202",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Stainless Housing OD5.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "C104",
+    "partNum": "100,430,586",
+    "size": "0.252",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Stainless Housing OD5.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "C104",
+    "partNum": "200,432,814",
+    "size": "0.302",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Stainless Housing OD5.0 x 4.0mmT"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "C105",
+    "partNum": "100,441,423",
+    "size": "4",
+    "name": "Guide EXT.",
+    "position": "Upper",
+    "description": "Sapphire Robofil\n100,200,400,600"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "C106",
+    "partNum": "100,441,727",
+    "size": "",
+    "name": "Guide Lower CF  Wire Cut System",
+    "position": "Lower",
+    "description": "Sapphire Robofil\n100,200,400,600"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "C107",
+    "partNum": "204,339,860",
+    "size": "0.202",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Robofil 230,330"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "C107",
+    "partNum": "204,339,850",
+    "size": "0.252",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Robofil 230,330"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "C107",
+    "partNum": "204,339,840",
+    "size": "0.302",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "Robofil 230,330"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "C108",
+    "partNum": "200,640,078",
+    "size": "",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Located in Rethreading Module Robofil 2030,4030,6030"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "C109",
+    "partNum": "200,641,011",
+    "size": "",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "Located in Rethreading Module Robofil 2030,4030,6030"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "C001",
+    "partNum": "100,432,997\n(100,342,166)",
+    "size": "12x12\nx5",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": "Robofil 100,200,400,600\nUnPolished"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "C001-1",
+    "partNum": "100,432,997\n(100,342,166)",
+    "size": "12x12\nx5",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": "Robofil 100,200,400,600\npolish"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "C001G",
+    "partNum": "100,432,997",
+    "size": "12x12\nx5",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": "Robofil 100,200,400,600\nTin Coated"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "C002",
+    "partNum": "806,549",
+    "size": "25x6 x6.4",
+    "name": "Current Supply",
+    "position": "Lower",
+    "description": "Robofil 100,200,400,600"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "C003",
+    "partNum": "106,462",
+    "size": "9.5x\n3.8x3",
+    "name": "Current Supply",
+    "position": "Upper & Lower",
+    "description": "EF-320,330,630,930"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "C004",
+    "partNum": "100,441,275",
+    "size": "19x10 x1.0",
+    "name": "Centering Eye",
+    "position": "",
+    "description": "Robofil 310,510,x000"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "C005",
+    "partNum": "130,003,174\n(100,449,019)",
+    "size": "50x8\nx24",
+    "name": "Drive Roller Tin Coated (Left)",
+    "position": "",
+    "description": "Robofil 290,310,510"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "C005A",
+    "partNum": "130,003,174",
+    "size": "50x8\nx24",
+    "name": "Drive Roller (Left)",
+    "position": "",
+    "description": "Robofil 290,310,510"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "C006",
+    "partNum": "130,003,173\n(100,449,329)",
+    "size": "50x8\nx24",
+    "name": "Drive Roller Tin Coated With Groove (Right)",
+    "position": "",
+    "description": "Robofil 290,310,510"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "C006A",
+    "partNum": "130,003,173",
+    "size": "50x8\nx24",
+    "name": "Drive Roller With Groove (Right)",
+    "position": "",
+    "description": "Robofil 290,310,510"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "C007",
+    "partNum": "200,630,654",
+    "size": "12x12\nx10",
+    "name": "Current Supply",
+    "position": "Upper",
+    "description": "Robofil 2030si, 4030si, 6030si Series UnPolished"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "C007-1",
+    "partNum": "200,630,654",
+    "size": "12x12\nx10",
+    "name": "Current Supply",
+    "position": "Upper",
+    "description": "Robofil 2030si, 4030si, 6030si Series Polished"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "C008",
+    "partNum": "100,343,525\n(100,435,525",
+    "size": "",
+    "name": "Contact Brush Annealing (Holder 342.185)",
+    "position": "",
+    "description": "Robofil series\nFor Bushing holder 342.185"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "C009",
+    "partNum": "100,444,728",
+    "size": "15x15\nx24",
+    "name": "Contact Support",
+    "position": "Lower",
+    "description": "Robofil x000,x020 Series"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "C010",
+    "partNum": "100,444,750",
+    "size": "13x17\nx24",
+    "name": "Contact Support",
+    "position": "Upper",
+    "description": "Robofil 290,x10,330F Robofil x000,x020"
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "C011",
+    "partNum": "446,687",
+    "size": "15x16\nx6t",
+    "name": "Contact Brush",
+    "position": "Lower",
+    "description": "Robofil 3x0,5x0"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "C012",
+    "partNum": "446,736",
+    "size": "70x9",
+    "name": "Grounding Cable\nfor Contact Brush",
+    "position": "",
+    "description": "Robofil 290,x10"
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "C013",
+    "partNum": "104,447,530",
+    "size": "",
+    "name": "Current Supply",
+    "position": "Upper",
+    "description": "Robofil 3x0,5x0,100,1020"
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "C014",
+    "partNum": "200.434.002",
+    "size": "19x25",
+    "name": "Support Contact Lower Head",
+    "position": "Lower",
+    "description": "Robofil 230,330F,240,440"
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "C015",
+    "partNum": "100.441.275",
+    "size": "19x10 x0.8",
+    "name": "Centering eye",
+    "position": "",
+    "description": "Robofil 3xx. 5xx series"
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "C016",
+    "partNum": "135.011.543",
+    "size": "",
+    "name": "Holder",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "C017",
+    "partNum": "135.008.366",
+    "size": "",
+    "name": "Contact",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "C018",
+    "partNum": "",
+    "size": "",
+    "name": "Contact Brush Annealing",
+    "position": "",
+    "description": "Robofil series\nFor Bushing holder"
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "C019",
+    "partNum": "206,400,700",
+    "size": "",
+    "name": "Current Supply",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "C201",
+    "partNum": "100,432,351",
+    "size": "I.D= 7.0",
+    "name": "Nozzle Complete",
+    "position": "Upper & Lower",
+    "description": "Robofil 3x0,5x0"
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "C202",
+    "partNum": "100,443,733",
+    "size": "",
+    "name": "Plastic Nut",
+    "position": "Lower",
+    "description": "Robofil 3x0,5x0"
+  },
+  {
+    "photo": "Image_036.png",
+    "itemNum": "C203",
+    "partNum": "100,447,011",
+    "size": "",
+    "name": "Plastic Nut for Upper Head",
+    "position": "Upper",
+    "description": "Robofil 3x0,5x0"
+  },
+  {
+    "photo": "Image_037.png",
+    "itemNum": "C204",
+    "partNum": "100,448,473",
+    "size": "D=5.5 T=0.55",
+    "name": "Nozzle Flat type",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_038.png",
+    "itemNum": "C205",
+    "partNum": "100,449,031",
+    "size": "D=7.0 T=0.55",
+    "name": "Nozzle",
+    "position": "",
+    "description": "Robofil 3x0,5x0"
+  },
+  {
+    "photo": "Image_039.png",
+    "itemNum": "C206",
+    "partNum": "100,446,021",
+    "size": "D=5.5 T=0.55",
+    "name": "Water Nozzle Standard type",
+    "position": "",
+    "description": "Robofil 3x0,5x0,1020,M"
+  },
+  {
+    "photo": "Image_040.png",
+    "itemNum": "C207",
+    "partNum": "200.542.646\n(208.445.585)",
+    "size": "30x6\nx33",
+    "name": "Nozzle for Lower Head",
+    "position": "Lower",
+    "description": "Robofil 230,330F"
+  },
+  {
+    "photo": "Image_041.png",
+    "itemNum": "C209",
+    "partNum": "100,446,201",
+    "size": "Φ32\nx1.0",
+    "name": "Spring",
+    "position": "Upper",
+    "description": "Robofil series For lower water nozzle"
+  },
+  {
+    "photo": "Image_042.png",
+    "itemNum": "C210",
+    "partNum": "204.455.850\n(204.445.585)",
+    "size": "32 x12.3",
+    "name": "Flushing Nozzle for Taper cutting",
+    "position": "",
+    "description": "Robofil 310,1020 (SUS Cover)"
+  },
+  {
+    "photo": "Image_043.png",
+    "itemNum": "C211",
+    "partNum": "100,431,787",
+    "size": "I.D= 1.80",
+    "name": "Threading Nozzle Ceramic",
+    "position": "",
+    "description": "Robofil x100,3x0,5x0,x020\nRobofil x30F,290,x030 SI\nRobofil x40F"
+  },
+  {
+    "photo": "Image_044.png",
+    "itemNum": "C212",
+    "partNum": "100,431,958",
+    "size": "I.D= 0.80",
+    "name": "Threading Nozzle Ceramic",
+    "position": "",
+    "description": "Robofil 100,200,400,600\nRobofil x020,x30F,290 Robofil x030 SI,x40F"
+  },
+  {
+    "photo": "Image_045.png",
+    "itemNum": "C213",
+    "partNum": "135,001,193",
+    "size": "I.D= 6.0",
+    "name": "Nozzle",
+    "position": "",
+    "description": "Robofil 330,x40 Series"
+  },
+  {
+    "photo": "Image_046.png",
+    "itemNum": "C214",
+    "partNum": "135,001,194",
+    "size": "",
+    "name": "Clamping Nut",
+    "position": "",
+    "description": "Robofil 330,x40 Series"
+  },
+  {
+    "photo": "Image_047.png",
+    "itemNum": "C215",
+    "partNum": "135,005,189",
+    "size": "I.D= 12.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "Robofil 230,330F"
+  },
+  {
+    "photo": "Image_048.png",
+    "itemNum": "C216",
+    "partNum": "135,006,394",
+    "size": "",
+    "name": "Locking Nut Against nut M22*1",
+    "position": "",
+    "description": "Robofil x30F,x40F Series"
+  },
+  {
+    "photo": "Image_049.png",
+    "itemNum": "C217",
+    "partNum": "135,006,840",
+    "size": "I.D= 6.0",
+    "name": "Nozzle",
+    "position": "",
+    "description": "Robofil 330F,440F"
+  },
+  {
+    "photo": "Image_050.png",
+    "itemNum": "C218",
+    "partNum": "200.542.917",
+    "size": "Ø44.9\n*21T\nØ6.0",
+    "name": "Nozzle for Upper Head",
+    "position": "Upper",
+    "description": "Robofil x30F,x40F Series"
+  },
+  {
+    "photo": "Image_051.png",
+    "itemNum": "C219",
+    "partNum": "200.641.617",
+    "size": "I.D= 6.0",
+    "name": "Nozzle for Lower Head",
+    "position": "",
+    "description": "Robofil 330F,440F"
+  },
+  {
+    "photo": "Image_052.png",
+    "itemNum": "C219L",
+    "partNum": "200.641.617L",
+    "size": "",
+    "name": "Nozzel",
+    "position": "Lower",
+    "description": "Robofil 330F,440F"
+  },
+  {
+    "photo": "Image_053.png",
+    "itemNum": "C220",
+    "partNum": "135.011.828",
+    "size": "Ø6.0",
+    "name": "Nozzel",
+    "position": "Lower",
+    "description": "Robofil serise"
+  },
+  {
+    "photo": "Image_054.png",
+    "itemNum": "C221",
+    "partNum": "200.630.803",
+    "size": "Ø44.9\n*19.5T\nØ5.0",
+    "name": "Nozzel",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_055.png",
+    "itemNum": "C222",
+    "partNum": "135.006.840",
+    "size": "Ø44.8\n*18.5T\nØ6.0",
+    "name": "Nozzel",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_056.png",
+    "itemNum": "C223",
+    "partNum": "",
+    "size": "I.D= 0.5",
+    "name": "Threading Nozzle Ceramic",
+    "position": "",
+    "description": "Robofil x100,3x0,5x0,x020\nRobofil x30F,290,x030 SI\nRobofil x40F"
+  },
+  {
+    "photo": "Image_057.png",
+    "itemNum": "C224",
+    "partNum": "",
+    "size": "I.D= 0.8",
+    "name": "Threading Nozzle Ceramic",
+    "position": "",
+    "description": "Robofil 100,200,400,600\nRobofil x020,x30F,290 Robofil x030 SI,x40F"
+  },
+  {
+    "photo": "Image_058.png",
+    "itemNum": "C301",
+    "partNum": "100,434,447",
+    "size": "30x12\nx6",
+    "name": "Cutter",
+    "position": "",
+    "description": "Robofil 230,290,2030"
+  },
+  {
+    "photo": "Image_059.png",
+    "itemNum": "C302",
+    "partNum": "100,444,709",
+    "size": "D=12.0",
+    "name": "Tank Door Rubber Seal",
+    "position": "",
+    "description": "Robofil Series Roboform 100,200 Series"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "C303",
+    "partNum": "100,445,990",
+    "size": "19x5",
+    "name": "Counter cutter blade (Ceramic)",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "C304",
+    "partNum": "100,446,365",
+    "size": "D=36.0",
+    "name": "Crimping Gear wire Evacuation Lower Head",
+    "position": "Lower",
+    "description": "RFL 3x0/5x0"
+  },
+  {
+    "photo": "Image_062.png",
+    "itemNum": "C305",
+    "partNum": "100,448,679",
+    "size": "20x16\nx16",
+    "name": "Contact Sleeve",
+    "position": "Lower",
+    "description": "Robofil x030 Series"
+  },
+  {
+    "photo": "Image_063.png",
+    "itemNum": "C306",
+    "partNum": "100.542.999",
+    "size": "Φ40x Φ12x 6T",
+    "name": "Driving pulley",
+    "position": "",
+    "description": "Robofil 330F series For Lower head suitable\nMaterial : Tungsten carbide"
+  },
+  {
+    "photo": "Image_064.png",
+    "itemNum": "C306G",
+    "partNum": "100.542.999",
+    "size": "Φ40x Φ12x 6T",
+    "name": "Driving pulley",
+    "position": "",
+    "description": "Robofil 330F series For Lower head suitable\nTiN coated : Gold color"
+  },
+  {
+    "photo": "Image_065.png",
+    "itemNum": "C307 (C315)",
+    "partNum": "135001012\n(542,998)",
+    "size": "8x14",
+    "name": "Cutter Knife",
+    "position": "",
+    "description": "RFL 330F,440"
+  },
+  {
+    "photo": "Image_066.png",
+    "itemNum": "C308",
+    "partNum": "200,440,764",
+    "size": "8x14",
+    "name": "Axis for roller 204448190 &\n204448200",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_067.png",
+    "itemNum": "C309",
+    "partNum": "200,440,765",
+    "size": "",
+    "name": "Ceramic Roller Complate",
+    "position": "",
+    "description": "204448200+Axis\n200440764"
+  },
+  {
+    "photo": "Image_068.png",
+    "itemNum": "C310",
+    "partNum": "200,440,769",
+    "size": "",
+    "name": "Derin Roller Complate",
+    "position": "",
+    "description": "204448190+Axis\n200440764"
+  },
+  {
+    "photo": "Image_069.png",
+    "itemNum": "C311",
+    "partNum": "200,444,496",
+    "size": "",
+    "name": "Filter Canister Casket",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_070.png",
+    "itemNum": "C312",
+    "partNum": "204,448,190",
+    "size": "",
+    "name": "Roller Complate Lower Head Delrin",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_071.png",
+    "itemNum": "C313",
+    "partNum": "204,448,200",
+    "size": "",
+    "name": "Ceramic Roller Assy",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_072.png",
+    "itemNum": "C314",
+    "partNum": "200,448,792",
+    "size": "9x4.1",
+    "name": "Cutter",
+    "position": "",
+    "description": "Robofil x00,3x0,5x0,x020\nRobofil x30F,x40F"
+  },
+  {
+    "photo": "Image_073.png",
+    "itemNum": "C315 (C307)",
+    "partNum": "135,001,012\n(542.998)",
+    "size": "Φ8",
+    "name": "Counter Cutter",
+    "position": "",
+    "description": "Robofil x30F,x40F"
+  },
+  {
+    "photo": "Image_074.png",
+    "itemNum": "C316",
+    "partNum": "442,848",
+    "size": "",
+    "name": "Wire Cutter New Nr.\n200448792",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_075.png",
+    "itemNum": "C317",
+    "partNum": "100,446,253",
+    "size": "",
+    "name": "Cleaning Pad Rubber Type",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_076.png",
+    "itemNum": "C318",
+    "partNum": "200,449,142",
+    "size": "",
+    "name": "Grease Blasolube 301 900g can",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_077.png",
+    "itemNum": "C319",
+    "partNum": "100,445,423",
+    "size": "34x0.8\nx45h",
+    "name": "Spring for Water Nozzle",
+    "position": "Common",
+    "description": "Robofil 3xx, 5xx, 10xx series"
+  },
+  {
+    "photo": "Image_078.png",
+    "itemNum": "C320",
+    "partNum": "100,446,201",
+    "size": "35x1.0\nx25",
+    "name": "Spring for Water Nozzle",
+    "position": "Lower",
+    "description": "Robofil 3xx, 5xx, 10xx series"
+  },
+  {
+    "photo": "Image_079.png",
+    "itemNum": "C321",
+    "partNum": "100.447.060",
+    "size": "35x1.2\nx33",
+    "name": "Spring for Water Nozzle",
+    "position": "Common",
+    "description": "Robofil 3xx, 5xx, 10xx series"
+  },
+  {
+    "photo": "Image_080.png",
+    "itemNum": "C322",
+    "partNum": "100,441,726",
+    "size": "",
+    "name": "flushing nozzle",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_081.png",
+    "itemNum": "C323",
+    "partNum": "100,542,854",
+    "size": "",
+    "name": "pressure spring",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_082.png",
+    "itemNum": "C324",
+    "partNum": "100,543,287",
+    "size": "",
+    "name": "lower head",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_083.png",
+    "itemNum": "C325",
+    "partNum": "200.630.343",
+    "size": "",
+    "name": "Spring Left",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_084.png",
+    "itemNum": "C326",
+    "partNum": "200.630.344",
+    "size": "",
+    "name": "Spring Right",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_085.png",
+    "itemNum": "C330",
+    "partNum": "100,432,545",
+    "size": "14.5x\n2.5x11",
+    "name": "Clamping nut",
+    "position": "Upper",
+    "description": "Robofil 3x0,5x0 Series Robofil 190,290"
+  },
+  {
+    "photo": "Image_086.png",
+    "itemNum": "C331",
+    "partNum": "100.444.744\n(200.448.672)",
+    "size": "14.5x\n3.4x11",
+    "name": "Clamping nut",
+    "position": "Upper",
+    "description": "Robofil x10"
+  },
+  {
+    "photo": "Image_087.png",
+    "itemNum": "C332",
+    "partNum": "100.444.760",
+    "size": "14.5x\n1.6x11",
+    "name": "Clamping nut wire Guide",
+    "position": "Lower",
+    "description": "Robofil 2xx. 3xx. 5xx. 1020. M series\nSwivel nut"
+  },
+  {
+    "photo": "Image_088.png",
+    "itemNum": "C333",
+    "partNum": "100.448.671",
+    "size": "Φ 14.5x Φ1.7\nx11",
+    "name": "Nut",
+    "position": "Lower",
+    "description": "Robofil 1020.1 series Swivel nut"
+  },
+  {
+    "photo": "Image_089.png",
+    "itemNum": "C334",
+    "partNum": "100.448.672",
+    "size": "Φ 14.5x Φ3.5\nx11",
+    "name": "Nut",
+    "position": "Upper",
+    "description": "Robofil 1020.1 series Swivel nut"
+  },
+  {
+    "photo": "Image_090.png",
+    "itemNum": "C335",
+    "partNum": "200.442.870",
+    "size": "Φ14.5x Φ3.5\nx11",
+    "name": "Nut",
+    "position": "Upper",
+    "description": "Robofil 2xx. 3xx. 5xx. 1020. M series\nSwivel nut"
+  },
+  {
+    "photo": "Image_091.png",
+    "itemNum": "C336",
+    "partNum": "200.442.871",
+    "size": "Φ 14.5x Φ1.6\nx11",
+    "name": "Nut",
+    "position": "Lower",
+    "description": "Robofil 2xx. 3xx. 5xx. 1020. M series\nSwivel nut"
+  },
+  {
+    "photo": "Image_092.png",
+    "itemNum": "C337",
+    "partNum": "200,542,918",
+    "size": "14.5x\n3.5x16",
+    "name": "Nut",
+    "position": "Upper",
+    "description": "Robofil 2xx. 3xx. 5xx. 1020. M series\nSwivel nut"
+  },
+  {
+    "photo": "Image_093.png",
+    "itemNum": "C338",
+    "partNum": "135,001,191",
+    "size": "10X11.\n5\nX1.6",
+    "name": "Stainless Sleeve\nNut for Lower Guide",
+    "position": "Lower",
+    "description": "Robofil 2xx. 3xx. 5xx. 1020. M series\nSwivel nut"
+  },
+  {
+    "photo": "Image_094.png",
+    "itemNum": "C339",
+    "partNum": "432.466",
+    "size": "",
+    "name": "Nut",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_095.png",
+    "itemNum": "C340",
+    "partNum": "100.005.461",
+    "size": "",
+    "name": "Nut",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_096.png",
+    "itemNum": "C341",
+    "partNum": "206.308.280",
+    "size": "",
+    "name": "Holder for 430586",
+    "position": "",
+    "description": "RFI 330F.X40"
+  },
+  {
+    "photo": "Image_097.png",
+    "itemNum": "C342",
+    "partNum": "135.006.059",
+    "size": "10X11.\n5\nX1.8",
+    "name": "Nut",
+    "position": "",
+    "description": "RFI 330F.X40 (C341)"
+  },
+  {
+    "photo": "Image_098.png",
+    "itemNum": "C343",
+    "partNum": "200,449,538",
+    "size": "23.8X6 X22",
+    "name": "Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_099.png",
+    "itemNum": "C344",
+    "partNum": "100,446,380",
+    "size": "6X40",
+    "name": "SPRING ROD",
+    "position": "",
+    "description": "Robofil 510"
+  },
+  {
+    "photo": "Image_100.png",
+    "itemNum": "C349",
+    "partNum": "543.722",
+    "size": "",
+    "name": "Lead in tube to cutter",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_101.png",
+    "itemNum": "C350",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_102.png",
+    "itemNum": "C351",
+    "partNum": "100,432,353",
+    "size": "92x8x1 1",
+    "name": "Pinch roller Shaft",
+    "position": "",
+    "description": "Robofil 3x0,5x0 Series"
+  },
+  {
+    "photo": "Image_103.png",
+    "itemNum": "C352",
+    "partNum": "434,475",
+    "size": "L= 38.5",
+    "name": "Guide holding device",
+    "position": "",
+    "description": "Robofil x30F,x40F Series"
+  },
+  {
+    "photo": "Image_104.png",
+    "itemNum": "C353",
+    "partNum": "100,447,762",
+    "size": "",
+    "name": "Geared wheel",
+    "position": "",
+    "description": "Robofil 3x0,5x0"
+  },
+  {
+    "photo": "Image_105.png",
+    "itemNum": "C354",
+    "partNum": "100,942,008",
+    "size": "15\nx300㎜",
+    "name": "Ground Cable",
+    "position": "",
+    "description": "Robofil x40F"
+  },
+  {
+    "photo": "Image_106.png",
+    "itemNum": "C354-1",
+    "partNum": "100,942,007",
+    "size": "",
+    "name": "Ground Cable",
+    "position": "",
+    "description": "Robofil x40F"
+  },
+  {
+    "photo": "Image_107.png",
+    "itemNum": "C354-2",
+    "partNum": "100,942,009",
+    "size": "",
+    "name": "Ground Cable",
+    "position": "",
+    "description": "Robofil x40F"
+  },
+  {
+    "photo": "Image_108.png",
+    "itemNum": "C355",
+    "partNum": "135,006,130",
+    "size": "",
+    "name": "Power Cable",
+    "position": "Lower",
+    "description": "Robofil 440CC"
+  },
+  {
+    "photo": "Image_109.png",
+    "itemNum": "C356",
+    "partNum": "544,240",
+    "size": "",
+    "name": "Brake Roller Empty",
+    "position": "",
+    "description": "Robofil 3x0,5x0,x020,x30F\nRobofil x40F"
+  },
+  {
+    "photo": "Image_110.png",
+    "itemNum": "C357",
+    "partNum": "204,448,200",
+    "size": "",
+    "name": "Pulley Complete",
+    "position": "",
+    "description": "Robofil 1020,M"
+  },
+  {
+    "photo": "Image_111.png",
+    "itemNum": "C358",
+    "partNum": "135,009,523",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_112.png",
+    "itemNum": "C359",
+    "partNum": "200,543,838",
+    "size": "",
+    "name": "Wiper Plate",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_113.png",
+    "itemNum": "C360",
+    "partNum": "130,003,362",
+    "size": "20x 12/16\nx24",
+    "name": "Contact Sleeve for Lower head",
+    "position": "",
+    "description": "Robofil x030 Series"
+  },
+  {
+    "photo": "Image_114.png",
+    "itemNum": "C361",
+    "partNum": "200,422,631\n135,009,529",
+    "size": "",
+    "name": "Cover for mill",
+    "position": "",
+    "description": "Robofil 330F"
+  },
+  {
+    "photo": "Image_115.png",
+    "itemNum": "C362",
+    "partNum": "- - -.342.997",
+    "size": "",
+    "name": "Cover",
+    "position": "",
+    "description": "Robofil 3xx. 5xx. 1020. M series\n( 20pcs set ) for 444.820"
+  },
+  {
+    "photo": "Image_116.png",
+    "itemNum": "C363",
+    "partNum": "204.422.543",
+    "size": "27.75x\n34.5H",
+    "name": "",
+    "position": "Lower",
+    "description": "Robofil 3xx. 5xx series\nPlastic casing box"
+  },
+  {
+    "photo": "Image_117.png",
+    "itemNum": "C364",
+    "partNum": "200.422.543",
+    "size": "27.75 x34.5",
+    "name": "",
+    "position": "Lower",
+    "description": "Robofil 330F series Plastic casing box"
+  },
+  {
+    "photo": "Image_118.png",
+    "itemNum": "C365",
+    "partNum": "204,462,210",
+    "size": "L=1030",
+    "name": "Grounding Cable Upper-Right",
+    "position": "Upper",
+    "description": "Robofil 6020"
+  },
+  {
+    "photo": "Image_119.png",
+    "itemNum": "C366",
+    "partNum": "249,246",
+    "size": "",
+    "name": "Oil Filter cartridge for Erosion EDM-\nLayer Type",
+    "position": "",
+    "description": "Roboform Series FL-5"
+  },
+  {
+    "photo": "Image_120.png",
+    "itemNum": "C367",
+    "partNum": "100,340,820",
+    "size": "60x280",
+    "name": "Micro Filter cartridge 5 micron",
+    "position": "",
+    "description": "Robofil Series"
+  },
+  {
+    "photo": "Image_121.png",
+    "itemNum": "C368",
+    "partNum": "100,343,117",
+    "size": "",
+    "name": "Micro Filter cartridge 5 micron",
+    "position": "",
+    "description": "Robofil Series"
+  },
+  {
+    "photo": "Image_122.png",
+    "itemNum": "C369",
+    "partNum": "108,626,140",
+    "size": "",
+    "name": "Generator air filter 315x450x20",
+    "position": "",
+    "description": "Robofil 310,510"
+  },
+  {
+    "photo": "Image_123.png",
+    "itemNum": "C370",
+    "partNum": "108,626,260",
+    "size": "",
+    "name": "air filter 275x500x20",
+    "position": "",
+    "description": "Roboform Series"
+  },
+  {
+    "photo": "Image_124.png",
+    "itemNum": "C371",
+    "partNum": "108,732,900",
+    "size": "",
+    "name": "Air filter Generator Door 210x275x20",
+    "position": "",
+    "description": "Robofil 510"
+  },
+  {
+    "photo": "Image_125.png",
+    "itemNum": "C372",
+    "partNum": "200,992,004",
+    "size": "",
+    "name": "Generator air filter 373x497x20",
+    "position": "",
+    "description": "Robofil 310 Series\nRoboform 100 Series"
+  },
+  {
+    "photo": "Image_126.png",
+    "itemNum": "C373",
+    "partNum": "200,992,007",
+    "size": "",
+    "name": "Generator air filter 248x497x20",
+    "position": "",
+    "description": "Robofil x020 Series"
+  },
+  {
+    "photo": "Image_127.png",
+    "itemNum": "C401 C005-1",
+    "partNum": "130,003,359",
+    "size": "12x14",
+    "name": "Wire drive pinch roller for tim- head/Left",
+    "position": "Lower",
+    "description": "Robofil 290,300,310,500,510"
+  },
+  {
+    "photo": "Image_128.png",
+    "itemNum": "C401T",
+    "partNum": "130,003,359",
+    "size": "12x14",
+    "name": "",
+    "position": "",
+    "description": "Robofil 330,x40 Series"
+  },
+  {
+    "photo": "Image_129.png",
+    "itemNum": "C402 C006-1",
+    "partNum": "130,003,360",
+    "size": "12x14",
+    "name": "Wire drive pinch roller groove\nfor tim- head/Right",
+    "position": "Lower",
+    "description": "Robofil 290,300,310,500,510"
+  },
+  {
+    "photo": "Image_130.png",
+    "itemNum": "C402T",
+    "partNum": "130,003,360",
+    "size": "12x14",
+    "name": "",
+    "position": "",
+    "description": "Robofil x00,3x0,5x0,x020\nRobofil x30F,x40F"
+  },
+  {
+    "photo": "Image_131.png",
+    "itemNum": "C501",
+    "partNum": "",
+    "size": "",
+    "name": "Pulley",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_132.png",
+    "itemNum": "C501-1",
+    "partNum": "",
+    "size": "",
+    "name": "Bearing",
+    "position": "",
+    "description": "608RS"
+  },
+  {
+    "photo": "Image_133.png",
+    "itemNum": "C502",
+    "partNum": "206.411.380",
+    "size": "",
+    "name": "Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_134.png",
+    "itemNum": "C503",
+    "partNum": "200.641.638",
+    "size": "29x26\nx5t",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_132.png",
+    "itemNum": "",
+    "partNum": "200340780",
+    "size": "15x450",
+    "name": "Wire driving belt",
+    "position": "",
+    "description": "CH452/552"
+  },
+  {
+    "photo": "Image_133.png",
+    "itemNum": "",
+    "partNum": "200340781",
+    "size": "15x 3000",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_134.png",
+    "itemNum": "",
+    "partNum": "200341182",
+    "size": "15x 3050",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_135.png",
+    "itemNum": "",
+    "partNum": "200341253",
+    "size": "15x 3250",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_136.png",
+    "itemNum": "",
+    "partNum": "200342211",
+    "size": "15x 5040",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": "Robofil 452"
+  },
+  {
+    "photo": "Image_137.png",
+    "itemNum": "",
+    "partNum": "200342212",
+    "size": "15x 5450",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": "Robofil 552"
+  },
+  {
+    "photo": "Image_138.png",
+    "itemNum": "",
+    "partNum": "200440864",
+    "size": "15x 3030",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": "Robofil 200 serises"
+  },
+  {
+    "photo": "Image_139.png",
+    "itemNum": "",
+    "partNum": "200441192",
+    "size": "0.7x15 x3560",
+    "name": "Wire conveyer belt",
+    "position": "",
+    "description": "Robofil 100/400/600 serises"
+  },
+  {
+    "photo": "Image_140.png",
+    "itemNum": "",
+    "partNum": "200441192",
+    "size": "15 x3545",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": "Robofil 400/600"
+  },
+  {
+    "photo": "Image_141.png",
+    "itemNum": "",
+    "partNum": "200441949",
+    "size": "15 x3090",
+    "name": "High performance flat belt",
+    "position": "",
+    "description": "Robofil 200 serises"
+  },
+  {
+    "photo": "Image_142.png",
+    "itemNum": "",
+    "partNum": "200442546",
+    "size": "15 x2600",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": "Robofil 100"
+  },
+  {
+    "photo": "Image_143.png",
+    "itemNum": "",
+    "partNum": "200442937",
+    "size": "20x730",
+    "name": "Wire conveyer belt for brake",
+    "position": "",
+    "description": "Robofil 200"
+  },
+  {
+    "photo": "Image_144.png",
+    "itemNum": "",
+    "partNum": "200442938",
+    "size": "20x690",
+    "name": "Wire conveyer belt for brake",
+    "position": "",
+    "description": "Robofil 100/400/600"
+  },
+  {
+    "photo": "Image_145.png",
+    "itemNum": "",
+    "partNum": "200445231",
+    "size": "20x540",
+    "name": "Belt for motor wire drive",
+    "position": "",
+    "description": "Robofil 290/310/510"
+  },
+  {
+    "photo": "Image_146.png",
+    "itemNum": "",
+    "partNum": "200447768",
+    "size": "20 x5250",
+    "name": "Wire evacuation belt - one side black",
+    "position": "",
+    "description": "Robofil x000/x020 series"
+  },
+  {
+    "photo": "Image_147.png",
+    "itemNum": "",
+    "partNum": "200447769",
+    "size": "20x720",
+    "name": "Conveyer belt\n- one side black",
+    "position": "",
+    "description": "Robofil x020"
+  },
+  {
+    "photo": "Image_148.png",
+    "itemNum": "",
+    "partNum": "200447805",
+    "size": "20x485",
+    "name": "Belt for spool drive - one side black",
+    "position": "",
+    "description": "Robofil x000/x020 series"
+  },
+  {
+    "photo": "Image_149.png",
+    "itemNum": "",
+    "partNum": "200640664",
+    "size": "20 x3520",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": "Robofil 2030si"
+  },
+  {
+    "photo": "Image_150.png",
+    "itemNum": "",
+    "partNum": "200640665",
+    "size": "20 x4060",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": "Robofil 4030si/6030si"
+  },
+  {
+    "photo": "Image_151.png",
+    "itemNum": "",
+    "partNum": "341373",
+    "size": "15 x3350",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_152.png",
+    "itemNum": "",
+    "partNum": "341403",
+    "size": "15 x4580",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_153.png",
+    "itemNum": "",
+    "partNum": "341404",
+    "size": "15 x5180",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_154.png",
+    "itemNum": "",
+    "partNum": "341408",
+    "size": "15 x(3100, 3150,\n3300)",
+    "name": "Conveyer belt",
+    "position": "",
+    "description": ""
+  }
+]

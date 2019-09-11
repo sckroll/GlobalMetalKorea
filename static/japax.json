@@ -1,0 +1,452 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "J101",
+    "partNum": "SSZ1106",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "LS,LUX,LV,LXE,LXR\n,LDM\nManual / AF (S type)"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "J101",
+    "partNum": "SSZ1107",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "LS,LUX,LV,LXE,LXR\n,LDM\nManual / AF (S type)"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "J101",
+    "partNum": "SSZ1108",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "LS,LUX,LV,LXE,LXR\n,LDM\nManual / AF (S type)"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "J102",
+    "partNum": "SSZ2106",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS,LUX,LV,LXE,LXR\n,LDM\nManual / AF (S type)"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "J102",
+    "partNum": "SSZ2107",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS,LUX,LV,LXE,LXR\n,LDM\nManual / AF (S type)"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "J102",
+    "partNum": "SSZ2108",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS,LUX,LV,LXE,LXR\n,LDM\nManual / AF (S type)"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "J103",
+    "partNum": "SSZ1006",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "LS-A,LU3B\nManual (Float type)"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "J103",
+    "partNum": "SSZ1007",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "LS-A,LU3B\nManual (Float type)"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "J103",
+    "partNum": "SSZ1008",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "LS-A,LU3B\nManual (Float type)"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "J104A",
+    "partNum": "SSZ3006",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS-A  L=44mm\nManual (A type)"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "J104A",
+    "partNum": "SSZ3007",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS-A  L=44mm\nManual (A type)"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "J104A",
+    "partNum": "SSZ3008",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS-A  L=44mm\nManual (A type)"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "J104B",
+    "partNum": "SSZ2006",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS-A  L=28mm\nManual (A type)"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "J104B",
+    "partNum": "SSZ2007",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS-A  L=28mm\nManual (A type)"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "J104B",
+    "partNum": "SSZ2008",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "LS-A  L=28mm\nManual (A type)"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "J001",
+    "partNum": "MGK0001",
+    "size": "10x4\nx7",
+    "name": "Conductivity piece",
+    "position": "Upper & Lower",
+    "description": "LS-A,LXR AF3"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "J002",
+    "partNum": "MGK1122",
+    "size": "10.5x\n10.5x7",
+    "name": "Conductivity piece",
+    "position": "Upper & Lower",
+    "description": "LS-S,LSX,LU3B\n,LUX-3\nLV-3,LXE,LXR,LDM\n,ELVY"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "J003",
+    "partNum": "AF4G0003",
+    "size": "20x20\nx7",
+    "name": "Conductivity piece",
+    "position": "Upper & Lower",
+    "description": "LDM AF4"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "J004",
+    "partNum": "MGK0101",
+    "size": "12x6\nx6",
+    "name": "Sub Guide",
+    "position": "Upper",
+    "description": "LS-S,LSX,LU3B\n,LUX-3\nLV-3,LXE,LXR,LDM\n,ELVY"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "J201",
+    "partNum": "MGS113101",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LS-S,LU,LD Series"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "J202",
+    "partNum": "MGS1121",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LS-S,LU,LD Series"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "J203",
+    "partNum": "111G054",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LS-S,LU,LD Series"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "J205",
+    "partNum": "MGX5003",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LUX-3,LV-3,LXE,LXR\nManual / AF"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "J205",
+    "partNum": "MGX5003",
+    "size": "Ø5.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LUX-3,LV-3,LXE,LXR\nManual / AF"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "J205",
+    "partNum": "MGX5003",
+    "size": "Ø7.5",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LUX-3,LV-3,LXE,LXR\nManual / AF"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "J206",
+    "partNum": "MGX5013",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "LUX-3,LV-3,LXE,LXR\nManual / AF"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "J206",
+    "partNum": "MGX5013",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "LUX-3,LV-3,LXE,LXR\nManual / AF"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "J206",
+    "partNum": "MGX5013",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "LUX-3,LV-3,LXE,LXR\nManual / AF"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "J206",
+    "partNum": "MGX5013",
+    "size": "Ø9.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "LUX-3,LV-3,LXE,LXR\nManual / AF"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "J207",
+    "partNum": "MGX5006",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "LXE (Old type) Manual LS,LD,LU,LV"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "J208",
+    "partNum": "",
+    "size": "Ø4.0",
+    "name": "Water Nozzle Special long type",
+    "position": "Lower",
+    "description": "LS-A,LS,LD,LU,LV\nSeries"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "J209",
+    "partNum": "",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LS,LD,LU,LV"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "J210",
+    "partNum": "",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "LS-A,LS,LD,LU,LV\nSeries"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "J211",
+    "partNum": "A4G0001",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LDM AF4"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "J212",
+    "partNum": "A4G0002",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LDM AF5"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "J213",
+    "partNum": "LDM2346",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LDM,LUX\nIntertechno"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "J213",
+    "partNum": "LDM2306",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LDM,LUX\nIntertechno"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "J213-1 (J213)",
+    "partNum": "LDM2346",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LDM,LUX\nIntertechno"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "J213-1 (J213)",
+    "partNum": "LDM2306",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LDM,LUX\nIntertechno"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "J214",
+    "partNum": "",
+    "size": "",
+    "name": "Ajustment nut For Water Nozzle",
+    "position": "Lower",
+    "description": "LDM\nIntertechno"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "J214-1 (J214)",
+    "partNum": "",
+    "size": "",
+    "name": "Ajustment nut For Water Nozzle",
+    "position": "Lower",
+    "description": "LDM\nIntertechno"
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "J215",
+    "partNum": "LDM2010",
+    "size": "",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "LDM\nIntertechno"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "J215-1 (J215)",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "J301",
+    "partNum": "",
+    "size": "",
+    "name": "Ceramic Plate",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "J302",
+    "partNum": "80AR-LDM-\n100.50",
+    "size": "",
+    "name": "Ceramic Plate",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "J401C",
+    "partNum": "30RL-B-102",
+    "size": "",
+    "name": "Tension Roller",
+    "position": "",
+    "description": "Ceramic type"
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "J401",
+    "partNum": "30RL-B-103",
+    "size": "",
+    "name": "Tension Roller",
+    "position": "",
+    "description": "Stainless + Urethane"
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "J402",
+    "partNum": "",
+    "size": "",
+    "name": "Capstan Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "J403",
+    "partNum": "",
+    "size": "",
+    "name": "Pinch Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "J404",
+    "partNum": "",
+    "size": "",
+    "name": "Tension Roller",
+    "position": "",
+    "description": ""
+  }
+]

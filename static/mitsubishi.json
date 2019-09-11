@@ -1,0 +1,4583 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "M101-1",
+    "partNum": "X053C082G51",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "N,F\nManual"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "M101-1",
+    "partNum": "X053C082G56",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "N,F\nManual"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "M101-1",
+    "partNum": "X053C082G65",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "N,F\nManual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "M101-2",
+    "partNum": "X052B040G64",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "F1,G\nManual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "M101-2",
+    "partNum": "X052B040G65",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "F1,G\nManual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "M101-2",
+    "partNum": "X052B040G66",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "F1,G\nManual"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "M102",
+    "partNum": "X053C188G54",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "F1,G,H,H´\nManual"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "M102",
+    "partNum": "X053C188G55",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "F1,G,H,H´\nManual"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "M102",
+    "partNum": "X053C188G56",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "F1,G,H,H´\nManual"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "M103",
+    "partNum": "X052B054G53",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "H,H´,H1,HA,C\nManual"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "M103",
+    "partNum": "X052B054G54",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "H,H´,H1,HA,C\nManual"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "M103",
+    "partNum": "X052B054G55",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "H,H´,H1,HA,C\nManual"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "M104",
+    "partNum": "X052B092G54",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H´ SK3,AF"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "M104",
+    "partNum": "X052B092G55",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H´ SK3,AF"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "M104",
+    "partNum": "X052B092G56",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H´ SK3,AF"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "M105",
+    "partNum": "X053C137G64\nX053C137G54",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "F,F1,G SK1,AF"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "M105",
+    "partNum": "X053C137G65\nX053C137G55",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "F,F1,G SK1,AF"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "M105",
+    "partNum": "X053C137G66\nX053C137G56",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "F,F1,G SK1,AF"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "M106",
+    "partNum": "X052B102G53",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,H´,G SK1,SK2,SK3,AF"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "M106",
+    "partNum": "X052B102G54",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,H´,G SK1,SK2,SK3,AF"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "M106",
+    "partNum": "X052B102G55",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,H´,G SK1,SK2,SK3,AF"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "M106-1",
+    "partNum": "X053C431G51",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,H´,G SK1,SK2,SK3,AF\nDouble Diamond"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "M106-1",
+    "partNum": "X053C431G52",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,H´,G SK1,SK2,SK3,AF\nDouble Diamond"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "M106-1",
+    "partNum": "X053C431G53",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,H´,G SK1,SK2,SK3,AF\nDouble Diamond"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "M107",
+    "partNum": "X052B123G53",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "M107",
+    "partNum": "X052B123G54",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "M107",
+    "partNum": "X052B123G56",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "M107-1",
+    "partNum": "X052B240G52",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,HA,SA,SB,SZ AF1\nCeramic on coolant hole"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "M107-1",
+    "partNum": "X052B240G53",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,HA,SA,SB,SZ AF1\nCeramic on coolant hole"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "M107-1",
+    "partNum": "X052B240G54",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "H,HA,SA,SB,SZ AF1\nCeramic on coolant hole"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "M108",
+    "partNum": "X054D162G54",
+    "size": "0.4",
+    "name": "Set screw",
+    "position": "Upper",
+    "description": "N,F,F1,G\nManual/AF"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "M109",
+    "partNum": "X054D171G54",
+    "size": "",
+    "name": "Die guide A",
+    "position": "Upper",
+    "description": "H,H' SK1,SK2,SK3,AF"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "M110",
+    "partNum": "X053C136G54\n(For 0.2 /\n0.25)",
+    "size": "0.4",
+    "name": "Eccentric center dies",
+    "position": "Upper & Lower",
+    "description": "F,F1,G SK1,AF"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "M110",
+    "partNum": "X053C136G52 (For 0.3)",
+    "size": "0.6",
+    "name": "Eccentric center dies",
+    "position": "Upper & Lower",
+    "description": "F,F1,G SK1,AF"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "M111",
+    "partNum": "X053C245H02",
+    "size": "",
+    "name": "Die Holder",
+    "position": "Upper & Lower",
+    "description": "G,H,H´,H1,C SA,SB,SZ SK3,AF,AF1,Manual"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "M112",
+    "partNum": "X053C299G51",
+    "size": "",
+    "name": "Eccentric center dies",
+    "position": "Upper",
+    "description": "G,H,H' SK1,SK2,SK3,AF"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "M113",
+    "partNum": "X053C628G51",
+    "size": "0.4",
+    "name": "Set screw",
+    "position": "Lower",
+    "description": "H1,HA,C,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "M114",
+    "partNum": "X053C241G52",
+    "size": "0.4",
+    "name": "Set screw",
+    "position": "Upper & Lower",
+    "description": "H,H´,HA SA,SB,SZ,C\nManual"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "M117",
+    "partNum": "X052B176G53",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "M117",
+    "partNum": "X052B176G54",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "M117",
+    "partNum": "X052B176G55",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "M117-1",
+    "partNum": "X052B241G53",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nCeramic on coolant hole"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "M117-1",
+    "partNum": "X052B241G54",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nCeramic on coolant hole"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "M117-1",
+    "partNum": "X052B241G55",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nCeramic on coolant hole"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "M120",
+    "partNum": "X053C524G51",
+    "size": "0.4",
+    "name": "Set screw",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "M122",
+    "partNum": "X053C012G54",
+    "size": "0.21",
+    "name": "",
+    "position": "Common",
+    "description": "70,90,110,200\nOld Machine Manual/AF type"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "M122",
+    "partNum": "X053C012G56",
+    "size": "0.26",
+    "name": "",
+    "position": "Common",
+    "description": "70,90,110,200\nOld Machine Manual/AF type"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "M122",
+    "partNum": "X053C012G57",
+    "size": "0.31",
+    "name": "",
+    "position": "Common",
+    "description": "70,90,110,200\nOld Machine Manual/AF type"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "M124",
+    "partNum": "X053C104G54",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "F SK1/AF"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "M124",
+    "partNum": "X053C104G55",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "F SK1/AF"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "M124",
+    "partNum": "X053C104G56",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "F SK1/AF"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "M125",
+    "partNum": "X053C153G55",
+    "size": "0.4",
+    "name": "Sub guide",
+    "position": "Upper",
+    "description": "F,F1,G,H SK1,SK2,SK3,AF"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "M126",
+    "partNum": "X053C508G51",
+    "size": "0.35",
+    "name": "Sub Dies B",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ (AF1)"
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "M127",
+    "partNum": "X053C557G51",
+    "size": "0.5",
+    "name": "Sub Dies A",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ (AF1)"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "M129C",
+    "partNum": "X054D826H06",
+    "size": "0.5",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "NA Essence,BA,FA-S, FA-S Advance,FA-VS, FA-P,FA-V,PA20,\nHA,SA,SB,SZ,SX, CX,FX,QA,RA,FA (AF2/AF3/AT)"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "M129C",
+    "partNum": "X054D826H07",
+    "size": "0.75",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "NA Essence,BA,FA-S, FA-S Advance,FA-VS, FA-P,FA-V,PA20,\nHA,SA,SB,SZ,SX, CX,FX,QA,RA,FA (AF2/AF3/AT)"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "M129C",
+    "partNum": "X054D826H08",
+    "size": "1",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "NA Essence,BA,FA-S, FA-S Advance,FA-VS, FA-P,FA-V,PA20,\nHA,SA,SB,SZ,SX, CX,FX,QA,RA,FA (AF2/AF3/AT)"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "M129C",
+    "partNum": "X058D054H02",
+    "size": "1.5",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "NA Essence,BA,FA-S, FA-S Advance,FA-VS, FA-P,FA-V,PA20,\nHA,SA,SB,SZ,SX, CX,FX,QA,RA,FA (AF2/AF3/AT)"
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "M129",
+    "partNum": "X054D826H02",
+    "size": "0.5",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "HA.SA.SB,SZ,SX CX,FX,QA,FA (AF2/AF3/AT)\nStainless housing+ceramic insert"
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "M129",
+    "partNum": "X054D826H04",
+    "size": "1",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "HA.SA.SB,SZ,SX CX,FX,QA,FA (AF2/AF3/AT)\nStainless housing+ceramic insert"
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "M129",
+    "partNum": "X054D826H01",
+    "size": "1.5",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "HA.SA.SB,SZ,SX CX,FX,QA,FA (AF2/AF3/AT)\nStainless housing+ceramic insert"
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "M129-1",
+    "partNum": "X927D278H01",
+    "size": "",
+    "name": "Spring",
+    "position": "Upper",
+    "description": "Spring for M129C & M129\nOD19.5 x 18.5 mmT"
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "M130",
+    "partNum": "S684D823P14",
+    "size": "1",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "M130",
+    "partNum": "S684D898P61",
+    "size": "1.5",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "M130C",
+    "partNum": "S684D823P14",
+    "size": "1",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "M130C",
+    "partNum": "S684D898P61",
+    "size": "1.5",
+    "name": "Jet Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "M131",
+    "partNum": "X177B558H02",
+    "size": "26x54.5",
+    "name": "Die Holder",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "M132",
+    "partNum": "X053C834G53\n(X056C190G54)",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,CX,FX,R A\nQA,FA,FA-V,FA- P,FA-S\nFA-VS,FA-S Advance BA8\nAF2,AF3"
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "M132",
+    "partNum": "X053C834G54\n(X056C190G55)",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,CX,FX,R A\nQA,FA,FA-V,FA- P,FA-S\nFA-VS,FA-S Advance BA8\nAF2,AF3"
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "M132",
+    "partNum": "X053C834G56\n(X056C190G56)",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,CX,FX,R A\nQA,FA,FA-V,FA- P,FA-S\nFA-VS,FA-S Advance BA8\nAF2,AF3"
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "M132-1",
+    "partNum": "X056C833G51",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "FA-S Advance,FA-VS, FA-S,FA-V Series\nAT"
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "M132-1",
+    "partNum": "X056C833G52",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "M132-1",
+    "partNum": "X056C833G53",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "M133",
+    "partNum": "X052B243G61",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX,FX,\nQA,FA,FA-V,FA- P,FA-S,\nFA-VS,FA-S Advance, NA Essence,PA20 AF2/AF3"
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "M133",
+    "partNum": "X052B243G65",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "M133",
+    "partNum": "X052B243G62",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "M133-1",
+    "partNum": "X052B387G51",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "SX,FX,CX,RA,FA,FA- V,\nFA-P,FA-S.FA- VS,BA8,\nFA-S Advance,PA20 AT"
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "M133-1",
+    "partNum": "X052B387G52",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "M133-1",
+    "partNum": "X052B387G53",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_036.png",
+    "itemNum": "M134",
+    "partNum": "X204D293H02",
+    "size": "",
+    "name": "Ring",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ CX,FX,QA AF2,AF3"
+  },
+  {
+    "photo": "Image_037.png",
+    "itemNum": "M135",
+    "partNum": "X054D896G51",
+    "size": "0.5",
+    "name": "Sub Die A",
+    "position": "Upper",
+    "description": "CX,FX AF2,AF3\n*처음부터 육각 가공"
+  },
+  {
+    "photo": "Image_038.png",
+    "itemNum": "M136",
+    "partNum": "X054D897H01",
+    "size": "0.5",
+    "name": "Holder",
+    "position": "Upper",
+    "description": "CX,FX AF2,AF3"
+  },
+  {
+    "photo": "Image_039.png",
+    "itemNum": "M137",
+    "partNum": "X059D084G51",
+    "size": "0.5",
+    "name": "Sub Die A\nSet Screw top",
+    "position": "Upper",
+    "description": "RA,FA,FA-V,FA-\nP,FA-S\nFA-VS,BA,FA-S\nAdvance, NA Essence AT\n*1mm 밑에서 육각 가"
+  },
+  {
+    "photo": "Image_040.png",
+    "itemNum": "M138",
+    "partNum": "X058D963G51",
+    "size": "1",
+    "name": "Sub Die B Guide top",
+    "position": "Upper",
+    "description": "RA,FA,FA-V,FA- P,FA-S\nFA-VS,FA-S Advance AT"
+  },
+  {
+    "photo": "Image_041.png",
+    "itemNum": "M139",
+    "partNum": "X054D496G51",
+    "size": "0.5",
+    "name": "Guide Pipe A",
+    "position": "Upper",
+    "description": "H´,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_042.png",
+    "itemNum": "M140",
+    "partNum": "X054D504G51",
+    "size": "0.8",
+    "name": "Guide Pipe A",
+    "position": "Upper",
+    "description": "H´,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_043.png",
+    "itemNum": "M141",
+    "partNum": "X053D499G51",
+    "size": "0.5",
+    "name": "Guide Pipe B",
+    "position": "Upper",
+    "description": "H´,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_044.png",
+    "itemNum": "M142",
+    "partNum": "X054D424G56",
+    "size": "0.8",
+    "name": "Guide Pipe B",
+    "position": "Upper",
+    "description": "H´,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_045.png",
+    "itemNum": "M143",
+    "partNum": "X054D980G51",
+    "size": "",
+    "name": "Guide Pipe A",
+    "position": "",
+    "description": "HA,SA,SB,SZ AF2"
+  },
+  {
+    "photo": "Image_046.png",
+    "itemNum": "M143A",
+    "partNum": "",
+    "size": "",
+    "name": "Guide Pipe AT",
+    "position": "",
+    "description": "HA,SA,SB,SZ AF2"
+  },
+  {
+    "photo": "Image_047.png",
+    "itemNum": "M144",
+    "partNum": "X054D836G53",
+    "size": "",
+    "name": "Guide Pipe B",
+    "position": "",
+    "description": "HA,SA,SB,SZ AF2"
+  },
+  {
+    "photo": "Image_048.png",
+    "itemNum": "M145",
+    "partNum": "X058D975G52",
+    "size": "",
+    "name": "Guide Pipe",
+    "position": "",
+    "description": "RA,FA AT"
+  },
+  {
+    "photo": "Image_049.png",
+    "itemNum": "M146",
+    "partNum": "X056C507G51",
+    "size": "0.4",
+    "name": "Guide U",
+    "position": "Upper",
+    "description": "QA,FX-K AF3"
+  },
+  {
+    "photo": "Image_050.png",
+    "itemNum": "M147",
+    "partNum": "X053C884G52",
+    "size": "0.4",
+    "name": "Guide D",
+    "position": "Lower",
+    "description": "QA,FX AF3 Me701A"
+  },
+  {
+    "photo": "Image_051.png",
+    "itemNum": "M148",
+    "partNum": "X056C274G51",
+    "size": "0.4",
+    "name": "Guide U",
+    "position": "Upper",
+    "description": "FX AF3"
+  },
+  {
+    "photo": "Image_052.png",
+    "itemNum": "M149",
+    "partNum": "X056C846G51",
+    "size": "0.4",
+    "name": "Guide U",
+    "position": "Lower",
+    "description": "RA90,PA20,FA,FA- V,FA-P\nFA-S,FA-VS,\nFA-S Advance AT\nM605"
+  },
+  {
+    "photo": "Image_053.png",
+    "itemNum": "M150",
+    "partNum": "X053C884G55",
+    "size": "0.8",
+    "name": "Guide D",
+    "position": "Upper",
+    "description": "SZ,SA,SB Series AF2 RA90,PA20,FA,FA- V,FA-P\nFA-S,FA-VS,\nFA-S Advance AT\nMe701C"
+  },
+  {
+    "photo": "Image_054.png",
+    "itemNum": "Me151",
+    "partNum": "X053C902G51",
+    "size": "",
+    "name": "Guide U",
+    "position": "Upper",
+    "description": "HA,SA,SX Me702 UP"
+  },
+  {
+    "photo": "Image_055.png",
+    "itemNum": "Me152",
+    "partNum": "X056C146G51",
+    "size": "",
+    "name": "Guide U",
+    "position": "Upper",
+    "description": "HA,SA,SX AF3 Me705 UP"
+  },
+  {
+    "photo": "Image_056.png",
+    "itemNum": "Me153",
+    "partNum": "X055C631G52",
+    "size": "0.4",
+    "name": "Guide U",
+    "position": "Upper",
+    "description": "BA"
+  },
+  {
+    "photo": "Image_057.png",
+    "itemNum": "Me154",
+    "partNum": "X055C630G54",
+    "size": "0.8",
+    "name": "Guide D",
+    "position": "Lower",
+    "description": "BA"
+  },
+  {
+    "photo": "Image_058.png",
+    "itemNum": "Me155",
+    "partNum": "X085C079G53",
+    "size": "0.6",
+    "name": "Guide C",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_059.png",
+    "itemNum": "Me156",
+    "partNum": "X085C096G53",
+    "size": "0.6",
+    "name": "Guide C",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "Me160",
+    "partNum": "X052B627G66",
+    "size": "Ø0.10",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "Me160",
+    "partNum": "X052B627G65",
+    "size": "Ø0.15",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "Me160",
+    "partNum": "X052B627G64",
+    "size": "Ø0.20",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "Me160",
+    "partNum": "X052B627G63",
+    "size": "Ø0.25",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "Me160",
+    "partNum": "X052B627G62",
+    "size": "Ø0.30",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "Me161",
+    "partNum": "X052B609G66",
+    "size": "Ø0.10",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "Me161",
+    "partNum": "X052B609G65",
+    "size": "Ø0.15",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "Me161",
+    "partNum": "X052B609G64",
+    "size": "Ø0.20",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "Me161",
+    "partNum": "X052B609G63",
+    "size": "Ø0.25",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "Me161",
+    "partNum": "X052B609G62",
+    "size": "Ø0.30",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_062.png",
+    "itemNum": "Me162",
+    "partNum": "Neuer Eintrag",
+    "size": "0.36",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "FA-V,FA-S,FA-VS,\nFA-S Advance"
+  },
+  {
+    "photo": "Image_063.png",
+    "itemNum": "Me163",
+    "partNum": "X055C538G54",
+    "size": "0.2",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "NA Essence Series, BA24"
+  },
+  {
+    "photo": "Image_063.png",
+    "itemNum": "Me163",
+    "partNum": "X055C538G55",
+    "size": "0.25",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "NA Essence Series, BA24"
+  },
+  {
+    "photo": "Image_063.png",
+    "itemNum": "Me163",
+    "partNum": "X055C538G56",
+    "size": "0.3",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "NA Essence Series, BA24"
+  },
+  {
+    "photo": "Image_064.png",
+    "itemNum": "Me164",
+    "partNum": "X055B507G54",
+    "size": "0.2",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "NA Essence Series, BA24"
+  },
+  {
+    "photo": "Image_064.png",
+    "itemNum": "Me164",
+    "partNum": "X055B507G55",
+    "size": "0.25",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "NA Essence Series, BA24"
+  },
+  {
+    "photo": "Image_064.png",
+    "itemNum": "Me164",
+    "partNum": "X055B507G56",
+    "size": "0.3",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "NA Essence Series, BA24"
+  },
+  {
+    "photo": "Image_065.png",
+    "itemNum": "Me165",
+    "partNum": "X056C412G51",
+    "size": "0.05",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "NA Essence Series, PA20"
+  },
+  {
+    "photo": "Image_065.png",
+    "itemNum": "Me165",
+    "partNum": "X053C834G61",
+    "size": "0.07",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": "NA Essence Series, PA20"
+  },
+  {
+    "photo": "Image_066.png",
+    "itemNum": "Me166",
+    "partNum": "X052B243G67",
+    "size": "0.05",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "NA Essence Series, PA20"
+  },
+  {
+    "photo": "Image_066.png",
+    "itemNum": "Me166",
+    "partNum": "X052B243G66",
+    "size": "0.07",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "NA Essence Series, PA20"
+  },
+  {
+    "photo": "Image_067.png",
+    "itemNum": "Me167",
+    "partNum": "X059D247H01",
+    "size": "",
+    "name": "Set Screw top",
+    "position": "",
+    "description": "RA90,PA20,FA,FA- V,FA-P\nFA-S,FA-VS,\nFA-S Advance NA Essence AT"
+  },
+  {
+    "photo": "Image_068.png",
+    "itemNum": "Me168",
+    "partNum": "X088D339G51",
+    "size": "",
+    "name": "Set Screw low",
+    "position": "",
+    "description": "NA Essence, BA,PA20"
+  },
+  {
+    "photo": "Image_069.png",
+    "itemNum": "Me169",
+    "partNum": "X055C631G53",
+    "size": "",
+    "name": "Guide U",
+    "position": "",
+    "description": "NA Essence Series"
+  },
+  {
+    "photo": "Image_070.png",
+    "itemNum": "Me170",
+    "partNum": "",
+    "size": "",
+    "name": "Die Driver",
+    "position": "",
+    "description": "CX,SA,SX,FX.FA"
+  },
+  {
+    "photo": "Image_071.png",
+    "itemNum": "Me171",
+    "partNum": "X055C798G51",
+    "size": "",
+    "name": "Guide down",
+    "position": "",
+    "description": "NA Essence Series"
+  },
+  {
+    "photo": "Image_072.png",
+    "itemNum": "Me172",
+    "partNum": "X089D306H01",
+    "size": "0.5",
+    "name": "Jet Nozzle",
+    "position": "",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_072.png",
+    "itemNum": "Me172",
+    "partNum": "X089D306H02",
+    "size": "0.75",
+    "name": "Jet Nozzle",
+    "position": "",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_072.png",
+    "itemNum": "Me172",
+    "partNum": "X089D306H03",
+    "size": "1",
+    "name": "Jet Nozzle",
+    "position": "",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_072.png",
+    "itemNum": "Me172",
+    "partNum": "X089D279H01",
+    "size": "1.5",
+    "name": "Jet Nozzle",
+    "position": "",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_073.png",
+    "itemNum": "M001A",
+    "partNum": "X054D125H03",
+    "size": "7x22",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "N,F,G,H,HA,C\nManual"
+  },
+  {
+    "photo": "Image_074.png",
+    "itemNum": "M001-1",
+    "partNum": "X054D125H03",
+    "size": "7x22",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "N,F,G,H,HA,C\nManual Indexable Type"
+  },
+  {
+    "photo": "Image_075.png",
+    "itemNum": "M001B",
+    "partNum": "X054D125H03",
+    "size": "7x22",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "N,F,G,H,HA,C\nManual Unpolished"
+  },
+  {
+    "photo": "Image_076.png",
+    "itemNum": "M002",
+    "partNum": "X054D129H04",
+    "size": "7x22",
+    "name": "Power Feed Contact",
+    "position": "Lower",
+    "description": "F,G,H,HA,SA,SB,SZ SKAF1,AF2"
+  },
+  {
+    "photo": "Image_077.png",
+    "itemNum": "M002-1",
+    "partNum": "X054D129H04",
+    "size": "7x22",
+    "name": "Power Feed Contact",
+    "position": "Lower",
+    "description": "F,G,H,HA,SA,SB,SZ SK,AF1,AF2\nIndexable Type"
+  },
+  {
+    "photo": "Image_078.png",
+    "itemNum": "M003",
+    "partNum": "X054D199H01",
+    "size": "3x16",
+    "name": "Power Feed Contact",
+    "position": "Upper",
+    "description": "F,F1,G\nSK,AF  Upper A"
+  },
+  {
+    "photo": "Image_079.png",
+    "itemNum": "M004",
+    "partNum": "X054D216H01",
+    "size": "3x16",
+    "name": "Power Feed Contact",
+    "position": "Upper",
+    "description": "F,F1,G\nSK,AF  Upper B"
+  },
+  {
+    "photo": "Image_080.png",
+    "itemNum": "M005",
+    "partNum": "X054D345H01",
+    "size": "2.5 x27.5",
+    "name": "Power Feed Contact",
+    "position": "Upper",
+    "description": "G,H,HA,SA,SB,SZ SK,AF"
+  },
+  {
+    "photo": "Image_081.png",
+    "itemNum": "M005G",
+    "partNum": "X054D345H01",
+    "size": "2.5 x27.5",
+    "name": "Power Feed Contact",
+    "position": "Upper",
+    "description": "G,H,HA,SA,SB,SZ SK,AF\nLong Wear Life"
+  },
+  {
+    "photo": "Image_082.png",
+    "itemNum": "M008",
+    "partNum": "X054D186H03",
+    "size": "10x6\nx8",
+    "name": "Power feed contact for fine wire option",
+    "position": "Upper & Lower",
+    "description": "H1.HA\nManual type fine wire option"
+  },
+  {
+    "photo": "Image_083.png",
+    "itemNum": "M009",
+    "partNum": "X056C075H04\n(X056C075H01)",
+    "size": "24.8\nx20",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA,FA-V,\nFA-P,FA-S,FA-VS,\nFA-S Advance AF2,AF3,AT"
+  },
+  {
+    "photo": "Image_084.png",
+    "itemNum": "M009-A",
+    "partNum": "X059D448G52",
+    "size": "",
+    "name": "Plastic pin for M009",
+    "position": "",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA,FA-V,\nFA-P,FA-S,FA-VS,\nFA-S Advance AF2,AF3,AT"
+  },
+  {
+    "photo": "Image_085.png",
+    "itemNum": "M009-1",
+    "partNum": "X056C075H04",
+    "size": "24.8\nx20",
+    "name": "Power Feed Contact Non Polish Type",
+    "position": "Upper & Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA,FA-V,\nFA-P,FA-S,FA-VS,\nFA-S Advance AF2,AF3,AT\nNon Polish Type"
+  },
+  {
+    "photo": "Image_086.png",
+    "itemNum": "M009-2",
+    "partNum": "X056C075H05",
+    "size": "24.8\nx20",
+    "name": "Power Feed Contact\nAngular Type",
+    "position": "Upper & Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA,FA-V,\nFA-P,FA-S,FA-VS,\nFA-S Advance AF2,AF3,AT\nAngular Type"
+  },
+  {
+    "photo": "Image_087.png",
+    "itemNum": "M009-3",
+    "partNum": "X056C075H05",
+    "size": "24.8\nx20",
+    "name": "Power Feed Contact\nAngular Type",
+    "position": "Upper & Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA,FA-V,\nFA-P,FA-S,FA-VS,\nFA-S Advance AF2,AF3,AT\nAngular Type Non Polish Type"
+  },
+  {
+    "photo": "Image_088.png",
+    "itemNum": "M009V",
+    "partNum": "X055C118H02",
+    "size": "24.8\nx20",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "FA-V AT,AF1,2,3"
+  },
+  {
+    "photo": "Image_089.png",
+    "itemNum": "M009V-1",
+    "partNum": "X055C118H02",
+    "size": "24.8\nx20",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "FA-V series AT,AF1,2,3\nNon Polish Type"
+  },
+  {
+    "photo": "Image_090.png",
+    "itemNum": "M012",
+    "partNum": "X088D439H01",
+    "size": "5x18\nx38",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "BA,NA,NA-P"
+  },
+  {
+    "photo": "Image_091.png",
+    "itemNum": "M013",
+    "partNum": "X089D256H02",
+    "size": "5.2x18 x41.2",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_092.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_093.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_094.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_095.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_096.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_097.png",
+    "itemNum": "M200",
+    "partNum": "X183C443H01",
+    "size": "Ø4.5",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H,H´,H1,HA,C\nManual,AF Acryl"
+  },
+  {
+    "photo": "Image_098.png",
+    "itemNum": "M202",
+    "partNum": "X183C439H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H,H´,H2,HA,C\nWith Groove Black Acryl"
+  },
+  {
+    "photo": "Image_099.png",
+    "itemNum": "M202",
+    "partNum": "X183C439H02",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H,H´,H2,HA,C\nWith Groove Acryl"
+  },
+  {
+    "photo": "Image_099.png",
+    "itemNum": "M202",
+    "partNum": "X183C439H03",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H,H´,H2,HA,C\nWith Groove Acryl"
+  },
+  {
+    "photo": "Image_100.png",
+    "itemNum": "M202A",
+    "partNum": "X183C439H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H,H´,H2,HA,C\nWith Groove Acryl"
+  },
+  {
+    "photo": "Image_101.png",
+    "itemNum": "M202B",
+    "partNum": "X183C439H01",
+    "size": "Ø4.5",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H,H´,H2,HA,C\nWithout Groove Acryl"
+  },
+  {
+    "photo": "Image_101.png",
+    "itemNum": "M203B",
+    "partNum": "X183C439H02",
+    "size": "Ø6.0",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_101.png",
+    "itemNum": "M204B",
+    "partNum": "X183C439H03",
+    "size": "Ø8.0",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_102.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_103.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_104.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_105.png",
+    "itemNum": "M207",
+    "partNum": "X053C491H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual\nBlack Acryl of M2102 with Groove"
+  },
+  {
+    "photo": "Image_106.png",
+    "itemNum": "M207-1",
+    "partNum": "X053C491H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual Acryl+Brass type of M2102 with Groove"
+  },
+  {
+    "photo": "Image_107.png",
+    "itemNum": "M207A",
+    "partNum": "X054D209H11",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual\nBlack Acryl type of M2102 without Groove"
+  },
+  {
+    "photo": "Image_107.png",
+    "itemNum": "M207A",
+    "partNum": "X054D209H12",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual\nBlack Acryl type of M2102 without Groove"
+  },
+  {
+    "photo": "Image_107.png",
+    "itemNum": "M207A",
+    "partNum": "X054D209H13",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual\nBlack Acryl type of M2102 without Groove"
+  },
+  {
+    "photo": "Image_108.png",
+    "itemNum": "M207A-1",
+    "partNum": "X054D209H11",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual Acryl+Brass type of\nM2102 without Groove"
+  },
+  {
+    "photo": "Image_108.png",
+    "itemNum": "M207A-1",
+    "partNum": "X054D209H12",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual Acryl+Brass type of\nM2102 without Groove"
+  },
+  {
+    "photo": "Image_108.png",
+    "itemNum": "M207A-1",
+    "partNum": "X054D209H13",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual Acryl+Brass type of\nM2102 without Groove"
+  },
+  {
+    "photo": "Image_109.png",
+    "itemNum": "M210",
+    "partNum": "X053C621H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nBlack Acryl type of M2101 without Groove"
+  },
+  {
+    "photo": "Image_109.png",
+    "itemNum": "M210",
+    "partNum": "X053C621H02",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nBlack Acryl type of M2101 without Groove"
+  },
+  {
+    "photo": "Image_109.png",
+    "itemNum": "M210",
+    "partNum": "X053C621H03",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nBlack Acryl type of M2101 without Groove"
+  },
+  {
+    "photo": "Image_110.png",
+    "itemNum": "M210-1",
+    "partNum": "X053C621H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nAcryl+Brass type of M2101 without Groove"
+  },
+  {
+    "photo": "Image_110.png",
+    "itemNum": "M210-2",
+    "partNum": "X053C621H02",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nAcryl+Brass type of M2101 without Groove"
+  },
+  {
+    "photo": "Image_110.png",
+    "itemNum": "M210-3",
+    "partNum": "X053C621H03",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nAcryl+Brass type of M2101 without Groove"
+  },
+  {
+    "photo": "Image_111.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_112.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_113.png",
+    "itemNum": "M207C",
+    "partNum": "X053C491H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual Acryl type of\nM2102 with Groove Ceramic"
+  },
+  {
+    "photo": "Image_114.png",
+    "itemNum": "M2101",
+    "partNum": "X053C621H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nCeramic"
+  },
+  {
+    "photo": "Image_114.png",
+    "itemNum": "M2101",
+    "partNum": "X053C621H02",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nCeramic"
+  },
+  {
+    "photo": "Image_114.png",
+    "itemNum": "M2101",
+    "partNum": "X053C621H03",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1\nCeramic"
+  },
+  {
+    "photo": "Image_115.png",
+    "itemNum": "M2102",
+    "partNum": "X054D209H11",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,90PG\nManual Without Groove Ceramic"
+  },
+  {
+    "photo": "Image_115.png",
+    "itemNum": "M2102",
+    "partNum": "X054D209H12",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,90PG\nManual Without Groove Ceramic"
+  },
+  {
+    "photo": "Image_115.png",
+    "itemNum": "M2102",
+    "partNum": "X054D209H13",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,90PG\nManual Without Groove Ceramic"
+  },
+  {
+    "photo": "Image_116.png",
+    "itemNum": "M2103",
+    "partNum": "X054D881H03",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nCeramic"
+  },
+  {
+    "photo": "Image_116.png",
+    "itemNum": "M2103",
+    "partNum": "X054D881H04",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nCeramic"
+  },
+  {
+    "photo": "Image_116.png",
+    "itemNum": "M2103",
+    "partNum": "X054D881H05",
+    "size": "Ø12.0 Ø15",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nCeramic"
+  },
+  {
+    "photo": "Image_117.png",
+    "itemNum": "M2103-1",
+    "partNum": "",
+    "size": "19.5×\n18.5",
+    "name": "Spring",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_118.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_119.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_120.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_121.png",
+    "itemNum": "M211",
+    "partNum": "X183C378H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1\nBlack Acryl"
+  },
+  {
+    "photo": "Image_121.png",
+    "itemNum": "M211",
+    "partNum": "X183C378H03",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1\nBlack Acryl"
+  },
+  {
+    "photo": "Image_121.png",
+    "itemNum": "M211",
+    "partNum": "X183C378H04",
+    "size": "Ø10.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1\nBlack Acryl"
+  },
+  {
+    "photo": "Image_121.png",
+    "itemNum": "M211",
+    "partNum": "X183C378H05",
+    "size": "Ø12.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB,SZ AF1\nBlack Acryl"
+  },
+  {
+    "photo": "Image_122.png",
+    "itemNum": "M212",
+    "partNum": "X054D881H03",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nBlack Acryl type of M2103"
+  },
+  {
+    "photo": "Image_122.png",
+    "itemNum": "M212",
+    "partNum": "X054D881H04",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nBlack Acryl type of M2103"
+  },
+  {
+    "photo": "Image_122.png",
+    "itemNum": "M212",
+    "partNum": "X054D881H05",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nBlack Acryl type of M2103"
+  },
+  {
+    "photo": "Image_123.png",
+    "itemNum": "M212-1",
+    "partNum": "X054D881H03",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl+Brass type of M2103"
+  },
+  {
+    "photo": "Image_123.png",
+    "itemNum": "M212-1",
+    "partNum": "X054D881H04",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl+Brass type of M2103"
+  },
+  {
+    "photo": "Image_123.png",
+    "itemNum": "M212-1",
+    "partNum": "X054D881H05",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl+Brass type of M2103"
+  },
+  {
+    "photo": "Image_124.png",
+    "itemNum": "M212-2",
+    "partNum": "X054D881H03",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl type of M2103"
+  },
+  {
+    "photo": "Image_124.png",
+    "itemNum": "M212-2",
+    "partNum": "X054D881H04",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl type of M2103"
+  },
+  {
+    "photo": "Image_124.png",
+    "itemNum": "M212-2",
+    "partNum": "X054D881H05",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl type of M2103"
+  },
+  {
+    "photo": "Image_125.png",
+    "itemNum": "M215",
+    "partNum": "X186C793H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,SX CX,FX-30,FX-K QA,RA,FA AF2,AF3,AT\nBlack Acryl"
+  },
+  {
+    "photo": "Image_125.png",
+    "itemNum": "M215",
+    "partNum": "X186C793H02",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,SX CX,FX-30,FX-K QA,RA,FA AF2,AF3,AT\nBlack Acryl"
+  },
+  {
+    "photo": "Image_125.png",
+    "itemNum": "M215",
+    "partNum": "X186C793H03",
+    "size": "Ø12.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,SX CX,FX-30,FX-K QA,RA,FA AF2,AF3,AT\nBlack Acryl"
+  },
+  {
+    "photo": "Image_126.png",
+    "itemNum": "M215-1",
+    "partNum": "X186C793H01",
+    "size": "OD=73",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "CX,SX,FX Series AF2,AF3\nBlack Acryl"
+  },
+  {
+    "photo": "Image_127.png",
+    "itemNum": "M215-2",
+    "partNum": "",
+    "size": "OD=85",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "FX,FA Series AF2,AF3\nBlack Acryl"
+  },
+  {
+    "photo": "Image_128.png",
+    "itemNum": "M215L",
+    "partNum": "",
+    "size": "Ø4\n10mm, 20,30\nmm set",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "For M215 type\nLong nozzle set with L=20.30.40.50mm\nBlack Acryl+Acryl"
+  },
+  {
+    "photo": "Image_129.png",
+    "itemNum": "M216",
+    "partNum": "X182B458H02",
+    "size": "63 x15.5\nx20",
+    "name": "Nozzle Holder",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,SX CX,FX-30,FX-K QA,RA,FA AF2,AF3,AT"
+  },
+  {
+    "photo": "Image_130.png",
+    "itemNum": "M216-1",
+    "partNum": "X187B370H03",
+    "size": "73 x15.5\nx22",
+    "name": "Nozzle Holder",
+    "position": "Upper",
+    "description": "FX-K,QA,RA,FA AF2,AF3,AT"
+  },
+  {
+    "photo": "Image_131.png",
+    "itemNum": "M217",
+    "partNum": "X196C451H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "FX10,FX20 AF3"
+  },
+  {
+    "photo": "Image_131.png",
+    "itemNum": "M217",
+    "partNum": "X196C451H02",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "FX10,FX20 AF3"
+  },
+  {
+    "photo": "Image_132.png",
+    "itemNum": "M218",
+    "partNum": "",
+    "size": "75x 15.5x\n20",
+    "name": "Nozzle Holder",
+    "position": "Upper",
+    "description": "FX10,FX20 AF3"
+  },
+  {
+    "photo": "Image_133.png",
+    "itemNum": "M219",
+    "partNum": "X085C155H01",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_133.png",
+    "itemNum": "M219",
+    "partNum": "X085C155H02",
+    "size": "Ø7.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_134.png",
+    "itemNum": "M219-1",
+    "partNum": "X085C155H01",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_134.png",
+    "itemNum": "M219-1",
+    "partNum": "X085C155H02",
+    "size": "Ø7.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_135.png",
+    "itemNum": "M220",
+    "partNum": "X085C131H11",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_135.png",
+    "itemNum": "M220",
+    "partNum": "X085C131H12",
+    "size": "Ø7.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_136.png",
+    "itemNum": "M220-1",
+    "partNum": "X085C131H11",
+    "size": "Ø4.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_136.png",
+    "itemNum": "M220-1",
+    "partNum": "X085C131H12",
+    "size": "Ø7.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_137.png",
+    "itemNum": "M223",
+    "partNum": "X056C836H03",
+    "size": "Ø7.0",
+    "name": "Nozzle (Plastic)",
+    "position": "Upper",
+    "description": "NA Essence,BA, FA-S Advance"
+  },
+  {
+    "photo": "Image_138.png",
+    "itemNum": "M224",
+    "partNum": "X059D083H02",
+    "size": "Ø7.0",
+    "name": "Nozzle (Ceramic)",
+    "position": "Lower",
+    "description": "NA Essence,BA, FA-S Advance"
+  },
+  {
+    "photo": "Image_139.png",
+    "itemNum": "M301",
+    "partNum": "X053C162H01",
+    "size": "68 x100\nx33 mmT",
+    "name": "Isolator Plate",
+    "position": "Upper",
+    "description": "F1,G,H,H´H1,HA,C\nManual Taper Cut"
+  },
+  {
+    "photo": "Image_140.png",
+    "itemNum": "M302",
+    "partNum": "X054D185G51",
+    "size": "120 x105\nx11 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual"
+  },
+  {
+    "photo": "Image_141.png",
+    "itemNum": "M303",
+    "partNum": "X053C228G52",
+    "size": "120 x105\nx11 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "F1,G,H,H´ SK1,AF"
+  },
+  {
+    "photo": "Image_142.png",
+    "itemNum": "M303-1",
+    "partNum": "X183C065G52",
+    "size": "120 x104\nx10 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "F,G,H SK1,SK2"
+  },
+  {
+    "photo": "Image_143.png",
+    "itemNum": "M303-2",
+    "partNum": "X175C508H01",
+    "size": "120 x104\nx11 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "H SK3"
+  },
+  {
+    "photo": "Image_144.png",
+    "itemNum": "M303-3",
+    "partNum": "X175C508H01",
+    "size": "120 x104\nx11 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "H SK3"
+  },
+  {
+    "photo": "Image_145.png",
+    "itemNum": "M304",
+    "partNum": "X052B166G51",
+    "size": "106 x115\nx25 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_146.png",
+    "itemNum": "M305",
+    "partNum": "X053C443H01",
+    "size": "114\nx80 x30 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "110H1,200H1\n110HA,200HA\nManual AF2"
+  },
+  {
+    "photo": "Image_147.png",
+    "itemNum": "M306",
+    "partNum": "X053C314H01",
+    "size": "70x78\nx30 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "90H1,90HA,90C\nManual AF"
+  },
+  {
+    "photo": "Image_148.png",
+    "itemNum": "M307",
+    "partNum": "X056C110G51",
+    "size": "115\nx15 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "SX,CX,SZ,SA,SB AF2"
+  },
+  {
+    "photo": "Image_149.png",
+    "itemNum": "M308",
+    "partNum": "X056C273G51",
+    "size": "115\nx20 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "FX10,QA10,RA\nManual AF"
+  },
+  {
+    "photo": "Image_150.png",
+    "itemNum": "M309",
+    "partNum": "X056C356G51",
+    "size": "125 x118\nx20 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "FX20,FX30,QA20\nManual AF"
+  },
+  {
+    "photo": "Image_151.png",
+    "itemNum": "M310",
+    "partNum": "X056C968G51",
+    "size": "118 x106\nx20 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "FA10,FA10-P,FA10- V,\nFA10-S,FA10-VS,\nFA10-S Advance AT"
+  },
+  {
+    "photo": "Image_152.png",
+    "itemNum": "M311",
+    "partNum": "X056C356G52",
+    "size": "115 x110\nx20 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "FA20,FA20-P,FA20- V,\nFA20-S,FA20-VS,\nFA20-S Advance AT"
+  },
+  {
+    "photo": "Image_153.png",
+    "itemNum": "M312",
+    "partNum": "",
+    "size": "",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_154.png",
+    "itemNum": "M313",
+    "partNum": "",
+    "size": "38x74\nx4 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_155.png",
+    "itemNum": "M314",
+    "partNum": "X053C901G51",
+    "size": "82x51 x23.5\nmmT",
+    "name": "Isolator Plate",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_156.png",
+    "itemNum": "M315",
+    "partNum": "X056C356G53",
+    "size": "",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "FA30-V,PA20"
+  },
+  {
+    "photo": "Image_157.png",
+    "itemNum": "M316",
+    "partNum": "X085C130G51",
+    "size": "",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "MV- Series"
+  },
+  {
+    "photo": "Image_158.png",
+    "itemNum": "M320",
+    "partNum": "X056C072H01",
+    "size": "",
+    "name": "Sub Dise B Ceramic",
+    "position": "",
+    "description": "AF2 Auto-Threaded FX-K,FX,CX  AF3\nAuto- Threaded"
+  },
+  {
+    "photo": "Image_159.png",
+    "itemNum": "M321",
+    "partNum": "X059D247H01",
+    "size": "10*0.45\n*19",
+    "name": "Guide Die A",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_160.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_161.png",
+    "itemNum": "M400",
+    "partNum": "X198D838H01",
+    "size": "36x15.5",
+    "name": "Aspirator",
+    "position": "Lower",
+    "description": "H1,HA,C,SA,SB,SZ\nManual,AF1,AF2"
+  },
+  {
+    "photo": "Image_162.png",
+    "itemNum": "M400-1",
+    "partNum": "X194D998H02",
+    "size": "20x5",
+    "name": "Rectifier Ring",
+    "position": "Lower",
+    "description": "H´H1,HA,SA,SB,SZ,C SX,CX,FX,QA,RA,FA\nManual AF1,AF2,SK3,AT"
+  },
+  {
+    "photo": "Image_163.png",
+    "itemNum": "M401C",
+    "partNum": "X054D257G51",
+    "size": "57x18",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "F,F1,G,H,H´ SK1,SK2\nCeramic"
+  },
+  {
+    "photo": "Image_164.png",
+    "itemNum": "M401-1",
+    "partNum": "",
+    "size": "",
+    "name": "Roller Shaft For M401C",
+    "position": "Feed Section",
+    "description": "F,G,H"
+  },
+  {
+    "photo": "Image_165.png",
+    "itemNum": "M402C",
+    "partNum": "X054D256G51",
+    "size": "57x18",
+    "name": "Capstan Roller",
+    "position": "Feed Section",
+    "description": "F,F1,G,H,H´ SK1,SK2\nCeramic"
+  },
+  {
+    "photo": "Image_166.png",
+    "itemNum": "M402-1",
+    "partNum": "X176C305H02",
+    "size": "126x15",
+    "name": "Roller Shaft For M402C",
+    "position": "Feed Section",
+    "description": "F,G,H"
+  },
+  {
+    "photo": "Image_167.png",
+    "itemNum": "M402-2",
+    "partNum": "X194D152H01",
+    "size": "58.5x11",
+    "name": "Shaft Cover",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_168.png",
+    "itemNum": "M403C",
+    "partNum": "X054D413G51",
+    "size": "57x25",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "H,H1,HA,SA,SB,SZ,C SK3,AF1,AF2\nCeramic"
+  },
+  {
+    "photo": "Image_169.png",
+    "itemNum": "M403-1",
+    "partNum": "",
+    "size": "19x51",
+    "name": "Roller Shaft For M403C",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_170.png",
+    "itemNum": "M403-2",
+    "partNum": "",
+    "size": "18x24",
+    "name": "Collection spring\nFor M403C",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_171.png",
+    "itemNum": "M403-3",
+    "partNum": "",
+    "size": "20x12x 8x35",
+    "name": "Shaft",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_172.png",
+    "itemNum": "M404C",
+    "partNum": "X054D412G53",
+    "size": "25x57",
+    "name": "Capstan Roller For M404C",
+    "position": "Feed Section",
+    "description": "H´,H1,HA,SA,SB,SZ,C SK3,AF1,AF2\nCeramic"
+  },
+  {
+    "photo": "Image_173.png",
+    "itemNum": "M404-1",
+    "partNum": "X175C862H01",
+    "size": "112x12",
+    "name": "Roller Shaft For M404C",
+    "position": "",
+    "description": "H,H1"
+  },
+  {
+    "photo": "Image_174.png",
+    "itemNum": "M404-1A",
+    "partNum": "",
+    "size": "",
+    "name": "Bearing for Roller Shaft",
+    "position": "",
+    "description": "H,H2\n6201ZZ (Fe525)"
+  },
+  {
+    "photo": "Image_175.png",
+    "itemNum": "M404-2",
+    "partNum": "X183C679H01",
+    "size": "112x15",
+    "name": "Roller Shaft For M404C",
+    "position": "",
+    "description": "H,H1"
+  },
+  {
+    "photo": "Image_176.png",
+    "itemNum": "M404-2A",
+    "partNum": "S872N023P65",
+    "size": "",
+    "name": "Bearing for Roller Shaft",
+    "position": "",
+    "description": "H,H2 7202"
+  },
+  {
+    "photo": "Image_177.png",
+    "itemNum": "M404-3",
+    "partNum": "X198D458H02",
+    "size": "57x11 x16.5",
+    "name": "Shsft Cover For M404C",
+    "position": "",
+    "description": "H,H´,HA"
+  },
+  {
+    "photo": "Image_178.png",
+    "itemNum": "M405C",
+    "partNum": "X053C779G51",
+    "size": "32x57",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "H1,HA,SA,SB,SZ C,SX\nManual AF\nCeramic"
+  },
+  {
+    "photo": "Image_179.png",
+    "itemNum": "M405C SET",
+    "partNum": "X053C779G51",
+    "size": "",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "H1,HA,SA,SB,SZ C,SX\nManual,AF Ceramic+Gear"
+  },
+  {
+    "photo": "Image_180.png",
+    "itemNum": "M405-1",
+    "partNum": "",
+    "size": "51x19",
+    "name": "Roller Shaft For M405C",
+    "position": "",
+    "description": "H´,HA,SZ"
+  },
+  {
+    "photo": "Image_181.png",
+    "itemNum": "M406C",
+    "partNum": "X053C778G51",
+    "size": "32x57",
+    "name": "Capstan Roller",
+    "position": "Feed Section",
+    "description": "H1,HA,SA,SB,SZ C,SX\nManual,AF Ceramic"
+  },
+  {
+    "photo": "Image_182.png",
+    "itemNum": "M406C SET",
+    "partNum": "X053C778G51",
+    "size": ".",
+    "name": "Capstan Roller",
+    "position": "Feed Section",
+    "description": "H1,HA,SA,SB,SZ C,SX\nManual,AF Ceramic+Gear"
+  },
+  {
+    "photo": "Image_183.png",
+    "itemNum": "M406-1",
+    "partNum": "X185C963H01",
+    "size": "121x15",
+    "name": "Roller Shaft For M406C",
+    "position": "",
+    "description": "H´,HA"
+  },
+  {
+    "photo": "Image_184.png",
+    "itemNum": "M406-1B",
+    "partNum": "S862N023P10",
+    "size": "35x15\nx11",
+    "name": "Bearing (SUS)",
+    "position": "",
+    "description": "S6202Z\nFor M406-1 Shaft"
+  },
+  {
+    "photo": "Image_185.png",
+    "itemNum": "M406-2",
+    "partNum": "X186C827H01",
+    "size": "123x17",
+    "name": "Roller Shaft For M406C",
+    "position": "",
+    "description": "HA,SX"
+  },
+  {
+    "photo": "Image_186.png",
+    "itemNum": "M406-3",
+    "partNum": "X185C815H01",
+    "size": "20.5/15 x104",
+    "name": "Roller Shaft For M406C",
+    "position": "",
+    "description": "SZ"
+  },
+  {
+    "photo": "Image_187.png",
+    "itemNum": "M406-4",
+    "partNum": "X208D123H02",
+    "size": "16.6 x60.3",
+    "name": "Shaft Cover For M406C",
+    "position": "",
+    "description": "HA,SX"
+  },
+  {
+    "photo": "Image_188.png",
+    "itemNum": "M407C",
+    "partNum": "X058D340G51",
+    "size": "18x57",
+    "name": "Pinch Roller Without Gear",
+    "position": "Feed Section",
+    "description": "FX,QA,RA90,FA20\nManual,AF Ceramic"
+  },
+  {
+    "photo": "Image_189.png",
+    "itemNum": "M407-1",
+    "partNum": "",
+    "size": "19x12x 65mm",
+    "name": "Roller Shaft",
+    "position": "",
+    "description": "FX,QA,RA90,FA20\nManual,AF"
+  },
+  {
+    "photo": "Image_190.png",
+    "itemNum": "M407-2",
+    "partNum": "X258D058H02",
+    "size": "57x16",
+    "name": "Spacer",
+    "position": "",
+    "description": "FX,QA,RA90,FA20"
+  },
+  {
+    "photo": "Image_191.png",
+    "itemNum": "M407C SET",
+    "partNum": "X058D340G51",
+    "size": "",
+    "name": "Pinch Roller With Gear",
+    "position": "Feed Section",
+    "description": "FX,QA,RA90,FA20\nManual,AF M407C+M407-2+Gear"
+  },
+  {
+    "photo": "Image_192.png",
+    "itemNum": "M408C",
+    "partNum": "X058D339G51",
+    "size": "18x57",
+    "name": "Capstan Roller Without Gear",
+    "position": "Feed Section",
+    "description": "FX,QA,RA90,FA20\nManual,AF Ceramic"
+  },
+  {
+    "photo": "Image_193.png",
+    "itemNum": "M408C SET",
+    "partNum": "X058D340G51",
+    "size": "",
+    "name": "Capstan Roller With Gear",
+    "position": "Feed Section",
+    "description": "FX,QA,RA90,FA20\nManual,AF M408C+M407-2+Gear"
+  },
+  {
+    "photo": "Image_194.png",
+    "itemNum": "M408-1",
+    "partNum": "X186C827H04",
+    "size": "121x17",
+    "name": "Roller Shaft For M408C",
+    "position": "",
+    "description": "FX,QA,RA90,FA20\nManual,AF"
+  },
+  {
+    "photo": "Image_195.png",
+    "itemNum": "M409C",
+    "partNum": "X055C008G51",
+    "size": "26x57",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "FA AT\nCeramic"
+  },
+  {
+    "photo": "Image_196.png",
+    "itemNum": "M409C-1",
+    "partNum": "X269D144H01",
+    "size": "12X67",
+    "name": "Roller Shaft",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_197.png",
+    "itemNum": "M409C-2",
+    "partNum": "X268D846H01",
+    "size": "57x13.5",
+    "name": "Spacer",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_198.png",
+    "itemNum": "M409C SET",
+    "partNum": "X055C008G51",
+    "size": "",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "FA AT\nM409C+M409C-\n2+Gear"
+  },
+  {
+    "photo": "Image_199.png",
+    "itemNum": "M410C",
+    "partNum": "X055C009G51",
+    "size": "57x26",
+    "name": "Capstan Roller",
+    "position": "Feed Section",
+    "description": "FA AT\nCeramic"
+  },
+  {
+    "photo": "Image_200.png",
+    "itemNum": "M410C-1",
+    "partNum": "X205C499H01",
+    "size": "17x129",
+    "name": "Shaft",
+    "position": "Feed Section",
+    "description": "FA AT"
+  },
+  {
+    "photo": "Image_201.png",
+    "itemNum": "M410C-2",
+    "partNum": "X268D849H01",
+    "size": "57x13.5",
+    "name": "Spacer",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_202.png",
+    "itemNum": "M410C-3",
+    "partNum": "",
+    "size": "15x117",
+    "name": "",
+    "position": "",
+    "description": "FA AT"
+  },
+  {
+    "photo": "Image_203.png",
+    "itemNum": "M410C SET",
+    "partNum": "X055C009G51",
+    "size": "",
+    "name": "Capstan Roller",
+    "position": "Feed Section",
+    "description": "FA AT\nM410C+M410C-1+Gear"
+  },
+  {
+    "photo": "Image_204.png",
+    "itemNum": "M411C",
+    "partNum": "X055C662G51",
+    "size": "26x80",
+    "name": "Capstan Roller",
+    "position": "Feed Section",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_205.png",
+    "itemNum": "M411C-1",
+    "partNum": "X262D363H01",
+    "size": "17X129",
+    "name": "Shaft",
+    "position": "Lower",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_206.png",
+    "itemNum": "M411C-2",
+    "partNum": "P840K002P36",
+    "size": "",
+    "name": "Bearing\n6902-H-\n20TIXZZ1",
+    "position": "Lower",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_207.png",
+    "itemNum": "M411C-3",
+    "partNum": "",
+    "size": "Ø85 X22 X8.6\n/13.5",
+    "name": "Gear",
+    "position": "Lower",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_208.png",
+    "itemNum": "M412C",
+    "partNum": "X055C663G51",
+    "size": "26x80",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_209.png",
+    "itemNum": "M412C-1",
+    "partNum": "X255C008H02",
+    "size": "26x20 x136",
+    "name": "Shaft",
+    "position": "Lower",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_210.png",
+    "itemNum": "M412C-2",
+    "partNum": "P840K000P25",
+    "size": "",
+    "name": "Bearing 6204LLU CM/5K",
+    "position": "Lower",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_211.png",
+    "itemNum": "M413C",
+    "partNum": "",
+    "size": "80x47\n22",
+    "name": "Capstan Roller",
+    "position": "Feed Section",
+    "description": ""
+  },
+  {
+    "photo": "Image_212.png",
+    "itemNum": "M414C",
+    "partNum": "",
+    "size": "80x17\nx29",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": ""
+  },
+  {
+    "photo": "Image_213.png",
+    "itemNum": "M417C",
+    "partNum": "",
+    "size": "",
+    "name": "Roller",
+    "position": "Lower",
+    "description": "FA\nCeramic"
+  },
+  {
+    "photo": "Image_214.png",
+    "itemNum": "Me418C",
+    "partNum": "X089D258H02",
+    "size": "46x25\nx16",
+    "name": "Ceramic Roller",
+    "position": "Feed Section",
+    "description": "MV1200S"
+  },
+  {
+    "photo": "Image_215.png",
+    "itemNum": "Me419",
+    "partNum": "",
+    "size": "",
+    "name": "Bearing S6200ZZ",
+    "position": "Feed Section",
+    "description": "FA Advance,BA AT"
+  },
+  {
+    "photo": "Image_216.png",
+    "itemNum": "M420",
+    "partNum": "X058D501H01",
+    "size": "Ø28",
+    "name": "Gear",
+    "position": "Feed Section",
+    "description": "H1,HA,SA,SB,SZ,C SX,CX,FX,QA,RA,FA AF1,AF2,SK3,AT"
+  },
+  {
+    "photo": "Image_217.png",
+    "itemNum": "M420-1",
+    "partNum": "X058D437H01",
+    "size": "Ø23",
+    "name": "Gear",
+    "position": "Feed Section",
+    "description": "FX"
+  },
+  {
+    "photo": "Image_218.png",
+    "itemNum": "M420-2",
+    "partNum": "X088D449H02",
+    "size": "",
+    "name": "Gear",
+    "position": "Feed Section",
+    "description": "FA-S Advance,BA NA Essence\nAT"
+  },
+  {
+    "photo": "Image_219.png",
+    "itemNum": "M421C",
+    "partNum": "X203C607H03\n(X203C607H01)",
+    "size": "40x22\nx14t",
+    "name": "Roller\nGuide Pulley",
+    "position": "Lower",
+    "description": "PA20,FX,QA,RA,FA,FA-V,\nFA-P,FA-S,FA-VS,BA,\nFA-S Advance NA Essence AF3,AT\nCeramic"
+  },
+  {
+    "photo": "Image_220.png",
+    "itemNum": "Me421-1",
+    "partNum": "X196C131H01\n(X203C634H01)",
+    "size": "50x45.5",
+    "name": "Roller Shaft",
+    "position": "Lower",
+    "description": "FX,FA"
+  },
+  {
+    "photo": "Image_221.png",
+    "itemNum": "M422",
+    "partNum": "P840F000P69",
+    "size": "25/22\nx8x7",
+    "name": "Bearing",
+    "position": "Lower",
+    "description": "PA20,FX,QA,RA,FA,FA-V,\nFA-P,FA-S,FA-VS,BA,\nFA-S Advance NA Essence AF3,AT\nCeramic"
+  },
+  {
+    "photo": "Image_222.png",
+    "itemNum": "M423",
+    "partNum": "X053C920G51A\n(X053C829G54)",
+    "size": "",
+    "name": "Aspirator",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX,CX FX,PX,QA,RA,FA AF2,AF3,AT"
+  },
+  {
+    "photo": "Image_223.png",
+    "itemNum": "M424",
+    "partNum": "S601D899P01",
+    "size": "",
+    "name": "Wire feed DC motor\n16CL-2501G",
+    "position": "",
+    "description": "H'.HA.SA.SB.SZ. SX.CX.FX.FX-K SK3,AF2,AF3"
+  },
+  {
+    "photo": "Image_224.png",
+    "itemNum": "M425",
+    "partNum": "X058D912G51",
+    "size": "50x19\nx22",
+    "name": "Urethane Roller",
+    "position": "Upper",
+    "description": "RA,FA AT"
+  },
+  {
+    "photo": "Image_225.png",
+    "itemNum": "M426",
+    "partNum": "X193C196G51",
+    "size": "103x16\nx48",
+    "name": "Urethane Roller",
+    "position": "",
+    "description": "CX,FX"
+  },
+  {
+    "photo": "Image_226.png",
+    "itemNum": "M426B",
+    "partNum": "X053C559G52",
+    "size": "113x16\nx35mmT",
+    "name": "Tension Roller",
+    "position": "",
+    "description": "SX"
+  },
+  {
+    "photo": "Image_227.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_228.png",
+    "itemNum": "M445",
+    "partNum": "X199D297H02",
+    "size": "56x200\nx2",
+    "name": "Water Cover",
+    "position": "Upper",
+    "description": "H´,H1,HA,SA,SB,SZ For M202,M211"
+  },
+  {
+    "photo": "Image_229.png",
+    "itemNum": "M445-2",
+    "partNum": "X179D943H03",
+    "size": "60x150\nx2",
+    "name": "Water Cover",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,SX,C\nFX,FX-K,QA,RA,FA AF2/AF3/AT\nFor M215"
+  },
+  {
+    "photo": "Image_230.png",
+    "itemNum": "M451",
+    "partNum": "X179D323H02",
+    "size": "20x14.5\n15t",
+    "name": "Cap Screw",
+    "position": "Upper",
+    "description": "F,F1,G,H HA,H´,H1,C\nManual"
+  },
+  {
+    "photo": "Image_231.png",
+    "itemNum": "M451-1",
+    "partNum": "X179D323H02",
+    "size": "20x14.5\n15t",
+    "name": "Cap Screw (SUS)",
+    "position": "Upper",
+    "description": "N,F,F1,G,H HA,H´,H1,C\nManual"
+  },
+  {
+    "photo": "Image_232.png",
+    "itemNum": "M452",
+    "partNum": "X176C706G02",
+    "size": "59x56x 27/30",
+    "name": "Die Block",
+    "position": "Upper",
+    "description": "F1,G,H,H´,H1,C,HA\nManual Including M451 and Connector"
+  },
+  {
+    "photo": "Image_233.png",
+    "itemNum": "M452-1",
+    "partNum": "",
+    "size": "43x35\nx4.75t",
+    "name": "Plate",
+    "position": "Upper",
+    "description": "F1,G,H,H´,H1,C,HA\nManual Including M452 and Connector"
+  },
+  {
+    "photo": "Image_234.png",
+    "itemNum": "M453 SET",
+    "partNum": "",
+    "size": "40x69\nx50",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_235.png",
+    "itemNum": "M453-1",
+    "partNum": "X176C610H01",
+    "size": "40x69\nx43",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_236.png",
+    "itemNum": "M453-2",
+    "partNum": "X184D271H06",
+    "size": "40x48\nx13",
+    "name": "Stopper",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_237.png",
+    "itemNum": "M453-3",
+    "partNum": "X179D410H01",
+    "size": "",
+    "name": "",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_238.png",
+    "itemNum": "M453-4",
+    "partNum": "X179D406H04",
+    "size": "20x26.5",
+    "name": "Wire Guide For Lower",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_239.png",
+    "itemNum": "M454",
+    "partNum": "X177B046H03",
+    "size": "48x97\nx43",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "H1,HA\nManual AF"
+  },
+  {
+    "photo": "Image_240.png",
+    "itemNum": "M454 SET",
+    "partNum": "X177B046H03",
+    "size": "48x97\nx43",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "H1,HA\nManual AF"
+  },
+  {
+    "photo": "Image_241.png",
+    "itemNum": "M455",
+    "partNum": "X602B845G51",
+    "size": "45x48",
+    "name": "Pulley B",
+    "position": "Lower",
+    "description": "F,F1,G,H,H´\nManual"
+  },
+  {
+    "photo": "Image_242.png",
+    "itemNum": "M456",
+    "partNum": "X183C442H01",
+    "size": "40x31",
+    "name": "Lower Roller Guide Pulley",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual AF1/AF2"
+  },
+  {
+    "photo": "Image_243.png",
+    "itemNum": "M457",
+    "partNum": "S859N319P33",
+    "size": "22/19\nx7x7",
+    "name": "Bearing\nSSRF 1970 DD",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF1/AF2 For M456  R-1970"
+  },
+  {
+    "photo": "Image_244.png",
+    "itemNum": "M458",
+    "partNum": "S859N319P31",
+    "size": "22/19\nx8x7",
+    "name": "Bearing\nSSRF 1980 DD",
+    "position": "",
+    "description": "SB,SA,SZ\nAF1/AF2,PA20,SX,FX, CX,RA,FA,FA-V,FA-P,FA- S,FA-VS,\nBA,FA-S Advance,NA Essence,MV\nFor 401C,M403C,M405C For M407C,M409C\nManual\nAF (R-1980)"
+  },
+  {
+    "photo": "Image_245.png",
+    "itemNum": "M459",
+    "partNum": "X177B713H02",
+    "size": "",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_246.png",
+    "itemNum": "M459-1",
+    "partNum": "X198D777H01",
+    "size": "38/42\nx11t",
+    "name": "Plastic Cover",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_247.png",
+    "itemNum": "M459-2",
+    "partNum": "",
+    "size": "37x3.5",
+    "name": "Fixing Plate",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_248.png",
+    "itemNum": "M459-3",
+    "partNum": "X198D776H01",
+    "size": "37/16\nx25",
+    "name": "Holder",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_249.png",
+    "itemNum": "M459-3A",
+    "partNum": "",
+    "size": "37/16\nx24",
+    "name": "Holder",
+    "position": "Lower",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_250.png",
+    "itemNum": "M459-4",
+    "partNum": "S913N313P11",
+    "size": "16.3 x12.7",
+    "name": "Wave Washer",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_251.png",
+    "itemNum": "M459-5",
+    "partNum": "X194D873H01",
+    "size": "19x 10.5\n1.2t",
+    "name": "Spacer",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_252.png",
+    "itemNum": "M459-6",
+    "partNum": "S922N040P07",
+    "size": "7.7x9.2\n0.7t",
+    "name": "Retaining Ring",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_253.png",
+    "itemNum": "M459-7",
+    "partNum": "X208D601H01",
+    "size": "60 x21.5",
+    "name": "Cover",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_254.png",
+    "itemNum": "M459-8",
+    "partNum": "",
+    "size": "",
+    "name": "Pipe Fixed Plate",
+    "position": "",
+    "description": "H2,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_255.png",
+    "itemNum": "M459 SET(1)",
+    "partNum": "",
+    "size": "97x48 x115",
+    "name": "",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_256.png",
+    "itemNum": "M460",
+    "partNum": "X189D690H04",
+    "size": "35x 14.5\n7t",
+    "name": "Clamping",
+    "position": "",
+    "description": "Manual,AF For M454\n(Brass)"
+  },
+  {
+    "photo": "Image_257.png",
+    "itemNum": "M460-1",
+    "partNum": "X189D690H04",
+    "size": "35x 14.5\n7t",
+    "name": "Clamping (SUS)",
+    "position": "",
+    "description": "Manual,AF For M454\n(Stainless)"
+  },
+  {
+    "photo": "Image_258.png",
+    "itemNum": "M461",
+    "partNum": "X053C522G51",
+    "size": "20/21\nx16",
+    "name": "Pinch Roller",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB SZ,SX,CX,FX\nManual,AF With Gear Including M463"
+  },
+  {
+    "photo": "Image_259.png",
+    "itemNum": "M461-1",
+    "partNum": "X194D505H03",
+    "size": "10 x32.5",
+    "name": "Shaft",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX,FX"
+  },
+  {
+    "photo": "Image_260.png",
+    "itemNum": "M462",
+    "partNum": "X053C522G52",
+    "size": "20/21\nx16",
+    "name": "Feed Roller",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB SZ,SX,CX,FX\nManual,AF With Gear Including M463"
+  },
+  {
+    "photo": "Image_261.png",
+    "itemNum": "M463",
+    "partNum": "S811N724P02",
+    "size": "12x6\nx10",
+    "name": "Oneway Clutch",
+    "position": "Upper",
+    "description": "H1,HA,SA,SB SZ,SX,CX,FX\nManual,AF NF-06\nFor M461,M462"
+  },
+  {
+    "photo": "Image_262.png",
+    "itemNum": "M463-1 (=F400)",
+    "partNum": "SSRF-1260ZZ (XBRRD- SSL1260)",
+    "size": "12x6\nx4",
+    "name": "Bearing (SUS)",
+    "position": "",
+    "description": "H1,HA,SA,SB,SZ SX,CX,FX\nManual,AF\nFor M461,M462 (1260ZZ)"
+  },
+  {
+    "photo": "Image_263.png",
+    "itemNum": "M464",
+    "partNum": "X269D013G52",
+    "size": "14x6\nx18",
+    "name": "Roller",
+    "position": "",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_264.png",
+    "itemNum": "M465",
+    "partNum": "X261D421H01",
+    "size": "18x6\nx21",
+    "name": "Roller",
+    "position": "",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_265.png",
+    "itemNum": "M466",
+    "partNum": "X058D991G51",
+    "size": "14x21",
+    "name": "Roller",
+    "position": "",
+    "description": "RA"
+  },
+  {
+    "photo": "Image_266.png",
+    "itemNum": "M467",
+    "partNum": "X058D991G52",
+    "size": "14x13x 19mm",
+    "name": "Roller",
+    "position": "",
+    "description": "RA"
+  },
+  {
+    "photo": "Image_267.png",
+    "itemNum": "M468",
+    "partNum": "",
+    "size": "13x6x 21mm",
+    "name": "Roller",
+    "position": "",
+    "description": "RA"
+  },
+  {
+    "photo": "Image_268.png",
+    "itemNum": "M469",
+    "partNum": "",
+    "size": "10 x44.5",
+    "name": "Shaft",
+    "position": "",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_269.png",
+    "itemNum": "M470",
+    "partNum": "X209D212H01",
+    "size": "31 x23.5 x10.3",
+    "name": "Power Feed Holder",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,RA,FA AF2,AF3,AT"
+  },
+  {
+    "photo": "Image_270.png",
+    "itemNum": "M471",
+    "partNum": "X208D405H01",
+    "size": "20 x17.6\nx11",
+    "name": "Power Feed Holder",
+    "position": "Upper",
+    "description": "HA,SA,SB,SZ,SX,CX AF2,AF3"
+  },
+  {
+    "photo": "Image_271.png",
+    "itemNum": "Me481",
+    "partNum": "P421A030P00",
+    "size": "",
+    "name": "Limit Switch",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_272.png",
+    "itemNum": "Me481-1",
+    "partNum": "X054D027H02",
+    "size": "3x46",
+    "name": "Ceramic Tube",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_273.png",
+    "itemNum": "Me482",
+    "partNum": "X184D885H01",
+    "size": "62x9\nx47",
+    "name": "Pulley",
+    "position": "",
+    "description": "Ø60xØ9x44H\nWith Bearing"
+  },
+  {
+    "photo": "Image_274.png",
+    "itemNum": "Me483",
+    "partNum": "X054D121H02",
+    "size": "90x8\nx23",
+    "name": "Pulley",
+    "position": "",
+    "description": "Ø80xØ19x20H\nWith Bearing"
+  },
+  {
+    "photo": "Image_275.png",
+    "itemNum": "Me484",
+    "partNum": "",
+    "size": "65x8\nx6",
+    "name": "Pulley",
+    "position": "",
+    "description": "Ø66xØ19x6H\nWith Bearing"
+  },
+  {
+    "photo": "Image_276.png",
+    "itemNum": "Me484-1",
+    "partNum": "",
+    "size": "85x8\nx6",
+    "name": "Pulley",
+    "position": "",
+    "description": "With Bearing"
+  },
+  {
+    "photo": "Image_277.png",
+    "itemNum": "Me485",
+    "partNum": "X178D933H02",
+    "size": "45x10\nx10.5t",
+    "name": "Felt Plate",
+    "position": "",
+    "description": "Ø45xØ10x10t"
+  },
+  {
+    "photo": "Image_278.png",
+    "itemNum": "Me485-1",
+    "partNum": "X174D199H02",
+    "size": "44x10\nx9",
+    "name": "Felt Break",
+    "position": "",
+    "description": "Ø45xØ10x7t"
+  },
+  {
+    "photo": "Image_279.png",
+    "itemNum": "Me486",
+    "partNum": "X053C175G51",
+    "size": "103 x12.5\nx16",
+    "name": "Urethane Roller",
+    "position": "",
+    "description": "F,G,H,HA Ø100xØ16x16h"
+  },
+  {
+    "photo": "Image_280.png",
+    "itemNum": "Me487",
+    "partNum": "",
+    "size": "70x10 x8.5",
+    "name": "Felt Break",
+    "position": "",
+    "description": "Ø70xØ10x8t"
+  },
+  {
+    "photo": "Image_281.png",
+    "itemNum": "Me488 (M3712)",
+    "partNum": "X058D429H01",
+    "size": "90x19\nx20",
+    "name": "Pulley",
+    "position": "",
+    "description": "SA,SX,CX,FX\n(With Bearing)"
+  },
+  {
+    "photo": "Image_282.png",
+    "itemNum": "Me489",
+    "partNum": "X264D949H01",
+    "size": "90x23\nx25mm",
+    "name": "Pulley",
+    "position": "",
+    "description": "Ø90xØ23x25h\n(With Bearing)"
+  },
+  {
+    "photo": "Image_283.png",
+    "itemNum": "Me489-1",
+    "partNum": "",
+    "size": "",
+    "name": "Shaft",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_284.png",
+    "itemNum": "Me490C",
+    "partNum": "X053C851G51\n(X056C839G51)",
+    "size": "80x10\nx22",
+    "name": "Ceramic Roller",
+    "position": "",
+    "description": "FA\n(Tension)"
+  },
+  {
+    "photo": "Image_285.png",
+    "itemNum": "Me491",
+    "partNum": "",
+    "size": "90x19\nx32",
+    "name": "Pulley",
+    "position": "",
+    "description": "Ø90xØ19x32H\n(With Bearing)"
+  },
+  {
+    "photo": "Image_286.png",
+    "itemNum": "Me492",
+    "partNum": "X193C196G51",
+    "size": "103 x16.5\nx16",
+    "name": "Urethane Roller",
+    "position": "",
+    "description": "SA,SZ Ø103xØ16x16H"
+  },
+  {
+    "photo": "Image_287.png",
+    "itemNum": "Me493",
+    "partNum": "",
+    "size": "62X50 X64",
+    "name": "Pulley\nWith Bearing",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_288.png",
+    "itemNum": "Me494",
+    "partNum": "X188D208H02",
+    "size": "60x19 x104",
+    "name": "Pulley\nWith Bearing",
+    "position": "",
+    "description": "SB Ø60xØ19x104H\n(With Bearing)"
+  },
+  {
+    "photo": "Image_289.png",
+    "itemNum": "Me494-1",
+    "partNum": "",
+    "size": "8 x126",
+    "name": "Shaft",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_290.png",
+    "itemNum": "Me495",
+    "partNum": "",
+    "size": "49x19 x106",
+    "name": "Pulley\nWith Bearing",
+    "position": "",
+    "description": "P Ø49xØ19x106H\n(With Bearing)"
+  },
+  {
+    "photo": "Image_291.png",
+    "itemNum": "Me496",
+    "partNum": "",
+    "size": "62X6",
+    "name": "Pulley\nWith Bearing",
+    "position": "",
+    "description": "SK"
+  },
+  {
+    "photo": "Image_292.png",
+    "itemNum": "Me497",
+    "partNum": "",
+    "size": "38x19 x106",
+    "name": "Pulley\nWith Bearing",
+    "position": "",
+    "description": "P Ø38xØ19x106H\n(With Bearing)"
+  },
+  {
+    "photo": "Image_293.png",
+    "itemNum": "Me498",
+    "partNum": "",
+    "size": "49x19 x150",
+    "name": "Pulley\nWith Bearing",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_294.png",
+    "itemNum": "Me499",
+    "partNum": "",
+    "size": "66x31\nx6t",
+    "name": "Pulley",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_295.png",
+    "itemNum": "M501A",
+    "partNum": "X056C328G51",
+    "size": "0.1",
+    "name": "Cutter Unit",
+    "position": "Cutter",
+    "description": "CX (End period) FX,FA,RA\nAF3\n(0.1mm Wire)"
+  },
+  {
+    "photo": "Image_296.png",
+    "itemNum": "M501",
+    "partNum": "X056C326G51",
+    "size": "0.15\n-0.3",
+    "name": "Cutter Unit",
+    "position": "Cutter",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3"
+  },
+  {
+    "photo": "Image_297.png",
+    "itemNum": "M501-1",
+    "partNum": "X058D376H01",
+    "size": "13.2\n/10 x10.4t",
+    "name": "Fixed Blade",
+    "position": "Cutter",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3 (Carbide)"
+  },
+  {
+    "photo": "Image_298.png",
+    "itemNum": "M501-2",
+    "partNum": "X203C145H04",
+    "size": "30 x27.5\nx78",
+    "name": "Aspirator",
+    "position": "Cutter",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3"
+  },
+  {
+    "photo": "Image_299.png",
+    "itemNum": "M501-3",
+    "partNum": "X258D350H01",
+    "size": "6x18.7",
+    "name": "Detect Nozzle",
+    "position": "Cutter",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3"
+  },
+  {
+    "photo": "Image_300.png",
+    "itemNum": "M501-4",
+    "partNum": "X258D168G54",
+    "size": "",
+    "name": "Coupling",
+    "position": "Cutter",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3"
+  },
+  {
+    "photo": "Image_301.png",
+    "itemNum": "M501-5",
+    "partNum": "X258D320G51",
+    "size": "25x60",
+    "name": "Pipe End",
+    "position": "",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3"
+  },
+  {
+    "photo": "Image_302.png",
+    "itemNum": "M501-6",
+    "partNum": "X058D503G51",
+    "size": "35x40",
+    "name": "Pipe Holder",
+    "position": "",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3"
+  },
+  {
+    "photo": "Image_303.png",
+    "itemNum": "M501-7",
+    "partNum": "X254D700G52",
+    "size": "28x35",
+    "name": "Ceramic Nozzle",
+    "position": "",
+    "description": "CX (End period) FX,FA,RA,PA-20,FA- V,\nFA-P,FA-S,FA-VS,BA\nFA Advance AF3"
+  },
+  {
+    "photo": "Image_304.png",
+    "itemNum": "M501C",
+    "partNum": "",
+    "size": "",
+    "name": "Cap",
+    "position": "",
+    "description": "FX,FA,"
+  },
+  {
+    "photo": "Image_305.png",
+    "itemNum": "M501Be",
+    "partNum": "",
+    "size": "",
+    "name": "Bearing (6901)",
+    "position": "",
+    "description": "FX,FA,"
+  },
+  {
+    "photo": "Image_306.png",
+    "itemNum": "M501S",
+    "partNum": "",
+    "size": "",
+    "name": "Spacer",
+    "position": "",
+    "description": "FX,FA,"
+  },
+  {
+    "photo": "Image_307.png",
+    "itemNum": "M502",
+    "partNum": "X058D186G51",
+    "size": "",
+    "name": "Cutter Unit",
+    "position": "",
+    "description": "CX (Bearing period) AF3"
+  },
+  {
+    "photo": "Image_308.png",
+    "itemNum": "M502-1",
+    "partNum": "X058D376H01",
+    "size": "",
+    "name": "Fixed Blade",
+    "position": "",
+    "description": "CX (Bearing period) AF3"
+  },
+  {
+    "photo": "Image_309.png",
+    "itemNum": "M502Be",
+    "partNum": "",
+    "size": "",
+    "name": "Bearing",
+    "position": "",
+    "description": "CX"
+  },
+  {
+    "photo": "Image_310.png",
+    "itemNum": "M503",
+    "partNum": "S684D887P67",
+    "size": "",
+    "name": "Wire Cutter",
+    "position": "",
+    "description": "MV Series"
+  },
+  {
+    "photo": "Image_311.png",
+    "itemNum": "M600-1",
+    "partNum": "X182B893H01",
+    "size": "105 x69.5\nx47 x14",
+    "name": "Guide Block",
+    "position": "Upper",
+    "description": "FX10,FX20\nManual,AF (M207)"
+  },
+  {
+    "photo": "Image_312.png",
+    "itemNum": "M601",
+    "partNum": "X187B284H01",
+    "size": "80x69\nx47",
+    "name": "Guide Block",
+    "position": "Upper",
+    "description": "FX-K"
+  },
+  {
+    "photo": "Image_313.png",
+    "itemNum": "M601-1",
+    "partNum": "",
+    "size": "",
+    "name": "Door",
+    "position": "Upper",
+    "description": "FX-K"
+  },
+  {
+    "photo": "Image_314.png",
+    "itemNum": "M602 (=Me704)",
+    "partNum": "X181A280G51",
+    "size": "70x98\nx98",
+    "name": "Guide roller base\nFor M456\nRefer to Me704",
+    "position": "Lower",
+    "description": "SX\nManual,AF Me701A"
+  },
+  {
+    "photo": "Image_315.png",
+    "itemNum": "M603",
+    "partNum": "X181A735G51",
+    "size": "70x98\nx98",
+    "name": "Guide roller base\nFor M421",
+    "position": "",
+    "description": "FX,FX-K\nManual,AF Me701A"
+  },
+  {
+    "photo": "Image_316.png",
+    "itemNum": "M603 SET",
+    "partNum": "X181A735G51",
+    "size": "",
+    "name": "Guide roller base\nFor M421",
+    "position": "",
+    "description": "FX,FX-K\nManual,AF"
+  },
+  {
+    "photo": "Image_317.png",
+    "itemNum": "M603F SET",
+    "partNum": "",
+    "size": "",
+    "name": "Guide roller base\nFor M421",
+    "position": "",
+    "description": "FX,FX-K\nManual,AF"
+  },
+  {
+    "photo": "Image_318.png",
+    "itemNum": "M604",
+    "partNum": "X181A184G52",
+    "size": "6x2 M4x2",
+    "name": "Guide Dies Block Refer to Me701",
+    "position": "Lower",
+    "description": "RA.Some-FA Series AF2"
+  },
+  {
+    "photo": "Image_319.png",
+    "itemNum": "M605",
+    "partNum": "X187B580H02",
+    "size": "80x70\nx47",
+    "name": "Guide Block",
+    "position": "Upper",
+    "description": "FA Series"
+  },
+  {
+    "photo": "Image_320.png",
+    "itemNum": "M605 SET",
+    "partNum": "",
+    "size": "80x70\nx47",
+    "name": "Guide Block",
+    "position": "Upper",
+    "description": "FA Series"
+  },
+  {
+    "photo": "Image_321.png",
+    "itemNum": "M605-1",
+    "partNum": "X206C421H01",
+    "size": "",
+    "name": "Cover",
+    "position": "Upper",
+    "description": "FA Series"
+  },
+  {
+    "photo": "Image_322.png",
+    "itemNum": "M605-2 (M009-1)",
+    "partNum": "X059D448G52",
+    "size": "",
+    "name": "Hook",
+    "position": "Upper",
+    "description": "FA Series"
+  },
+  {
+    "photo": "Image_323.png",
+    "itemNum": "M605-3",
+    "partNum": "X268D104H01",
+    "size": "14x23\nx5",
+    "name": "Plate",
+    "position": "Upper",
+    "description": "FA Series"
+  },
+  {
+    "photo": "Image_324.png",
+    "itemNum": "M605-4",
+    "partNum": "X055C330G51",
+    "size": "22 x13.5\nx29",
+    "name": "Air Cylinder",
+    "position": "Upper",
+    "description": "FA Series"
+  },
+  {
+    "photo": "Image_325.png",
+    "itemNum": "M606 SET",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_326.png",
+    "itemNum": "M606A",
+    "partNum": "X187B532H01",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Upper",
+    "description": "RA Series"
+  },
+  {
+    "photo": "Image_327.png",
+    "itemNum": "M606B",
+    "partNum": "X187B532H01",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Upper",
+    "description": "RA Series"
+  },
+  {
+    "photo": "Image_326.png",
+    "itemNum": "Me701A",
+    "partNum": "X182B995H01\n(X182B684H01)",
+    "size": "1PT1/8\"\ntap",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "HA,SZ,SA,SX,CX 104.5x60x47"
+  },
+  {
+    "photo": "Image_328.png",
+    "itemNum": "Me701A SET",
+    "partNum": "",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "HA,SZ,SA,SX,CX"
+  },
+  {
+    "photo": "Image_329.png",
+    "itemNum": "Me701B",
+    "partNum": "X182B995H01\n(X182B684H01)",
+    "size": "1PT1/8\"\ntap",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "FX 104.5x60x47"
+  },
+  {
+    "photo": "Image_330.png",
+    "itemNum": "Me701B SET",
+    "partNum": "",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "FX"
+  },
+  {
+    "photo": "Image_331.png",
+    "itemNum": "Me701C",
+    "partNum": "X187B621H01",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "FA,RA 104.5x60x47"
+  },
+  {
+    "photo": "Image_332.png",
+    "itemNum": "Me701C SET",
+    "partNum": "",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "FA,RA"
+  },
+  {
+    "photo": "Image_333.png",
+    "itemNum": "Me701C-1",
+    "partNum": "",
+    "size": "50x30 x19.5",
+    "name": "",
+    "position": "Lower",
+    "description": "FA,RA"
+  },
+  {
+    "photo": "Image_334.png",
+    "itemNum": "Me701D",
+    "partNum": "X187B621H01",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "FA 104.5x60x47"
+  },
+  {
+    "photo": "Image_335.png",
+    "itemNum": "Me701D SET",
+    "partNum": "X187B621H01",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_336.png",
+    "itemNum": "Me701-1",
+    "partNum": "X208D528H01",
+    "size": "46x48\n12",
+    "name": "Nozzle Stopper",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,CX FX,QA,RA,FA"
+  },
+  {
+    "photo": "Image_337.png",
+    "itemNum": "Me701-2",
+    "partNum": "X186C819H01",
+    "size": "",
+    "name": "Block Door",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,CX FX,QA,RA,FA"
+  },
+  {
+    "photo": "Image_338.png",
+    "itemNum": "Me701-3",
+    "partNum": "X054D943H01",
+    "size": "7x40 x0.8",
+    "name": "Spring Plate",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,CX FX,QA,RA,FA"
+  },
+  {
+    "photo": "Image_339.png",
+    "itemNum": "Me701-4",
+    "partNum": "X927D266H01\n(X208D555H01)",
+    "size": "20x18",
+    "name": "Door Packing",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,CX FX,QA,RA,FA"
+  },
+  {
+    "photo": "Image_340.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_341.png",
+    "itemNum": "Me702",
+    "partNum": "X177B394G53",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Upper",
+    "description": "H1,A,B,Z"
+  },
+  {
+    "photo": "Image_340.png",
+    "itemNum": "Me702UP",
+    "partNum": "X177B394G53",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Upper",
+    "description": "A,B,Z AF\n(Rebuilding type)"
+  },
+  {
+    "photo": "Image_342.png",
+    "itemNum": "Me703",
+    "partNum": "X182A183G52",
+    "size": "97x74\nx70",
+    "name": "Guide Base",
+    "position": "Lower",
+    "description": "HA AF2"
+  },
+  {
+    "photo": "Image_343.png",
+    "itemNum": "Me703 SET",
+    "partNum": "X182A183G52",
+    "size": "",
+    "name": "Guide Base",
+    "position": "Lower",
+    "description": "HA AF2"
+  },
+  {
+    "photo": "Image_344.png",
+    "itemNum": "Me704 (=Me602)",
+    "partNum": "X181A280G51",
+    "size": "70x98\nx98",
+    "name": "Guide Base",
+    "position": "Lower",
+    "description": "SA,SX"
+  },
+  {
+    "photo": "Image_345.png",
+    "itemNum": "Me705A",
+    "partNum": "X182B373H04\n(X182B667H02)",
+    "size": "67 x62.5 x44.5",
+    "name": "Die Block",
+    "position": "Upper",
+    "description": "HA,SZ,CX"
+  },
+  {
+    "photo": "Image_346.png",
+    "itemNum": "Me705B",
+    "partNum": "X182B598H01",
+    "size": "67 x62.5 x44.5",
+    "name": "Die Block",
+    "position": "Upper",
+    "description": "SX,SA"
+  },
+  {
+    "photo": "Image_347.png",
+    "itemNum": "Me705UP",
+    "partNum": "",
+    "size": "",
+    "name": "Die Block",
+    "position": "Upper",
+    "description": "SX,SA\nSteel Door Type\n(EDM Rebuilding type)"
+  },
+  {
+    "photo": "Image_348.png",
+    "itemNum": "Me705-1",
+    "partNum": "",
+    "size": "",
+    "name": "Door",
+    "position": "Upper",
+    "description": "CX,SX,SA"
+  },
+  {
+    "photo": "Image_349.png",
+    "itemNum": "Me706",
+    "partNum": "X182A183G51",
+    "size": "",
+    "name": "Guide Base",
+    "position": "Lower",
+    "description": "SZ AF2"
+  },
+  {
+    "photo": "Image_350.png",
+    "itemNum": "Me706 SET",
+    "partNum": "X182A183G51",
+    "size": "",
+    "name": "Guide Base",
+    "position": "Lower",
+    "description": "SZ AF2"
+  },
+  {
+    "photo": "Image_351.png",
+    "itemNum": "Me707",
+    "partNum": "",
+    "size": "",
+    "name": "Guide Base",
+    "position": "Lower",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_352.png",
+    "itemNum": "Me707-1",
+    "partNum": "",
+    "size": "",
+    "name": "Pipe Holder",
+    "position": "Lower",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_353.png",
+    "itemNum": "Me708",
+    "partNum": "",
+    "size": "",
+    "name": "Die Block",
+    "position": "Upper",
+    "description": "CX\n(Steel Door)"
+  },
+  {
+    "photo": "Image_354.png",
+    "itemNum": "Me709",
+    "partNum": "X262D527H01",
+    "size": "",
+    "name": "Guide Housing",
+    "position": "Lower",
+    "description": "NA Series"
+  },
+  {
+    "photo": "Image_355.png",
+    "itemNum": "Me710",
+    "partNum": "X255C335H01",
+    "size": "",
+    "name": "Die Housing",
+    "position": "Lower",
+    "description": "NA Series"
+  },
+  {
+    "photo": "Image_356.png",
+    "itemNum": "Me801",
+    "partNum": "",
+    "size": "",
+    "name": "Power cable or discharge cable",
+    "position": "Upper & Lower",
+    "description": "90G,90H,90HA"
+  },
+  {
+    "photo": "Image_357.png",
+    "itemNum": "Me802",
+    "partNum": "",
+    "size": "",
+    "name": "Power cable or discharge cable",
+    "position": "Upper & Lower",
+    "description": "110G,110H,110HA\n90SB 600mm"
+  },
+  {
+    "photo": "Image_358.png",
+    "itemNum": "Me803",
+    "partNum": "",
+    "size": "",
+    "name": "Power cable or discharge cable",
+    "position": "Upper & Lower",
+    "description": "200G,200H,200HA"
+  },
+  {
+    "photo": "Image_360.png",
+    "itemNum": "Me804",
+    "partNum": "",
+    "size": "",
+    "name": "Power cable or discharge cable",
+    "position": "Upper & Lower",
+    "description": "FX-10"
+  },
+  {
+    "photo": "Image_361.png",
+    "itemNum": "Me840",
+    "partNum": "X182B501G51",
+    "size": "",
+    "name": "Collection Cover (Plastic)",
+    "position": "",
+    "description": "SA,SX"
+  },
+  {
+    "photo": "Image_362.png",
+    "itemNum": "Me841",
+    "partNum": "X182B371G51",
+    "size": "",
+    "name": "Collection Cover",
+    "position": "",
+    "description": "SZ,HA\nLeft"
+  },
+  {
+    "photo": "Image_363.png",
+    "itemNum": "Me842",
+    "partNum": "S684B898P30\n(S684B989P30)",
+    "size": "",
+    "name": "Collection Cover",
+    "position": "",
+    "description": "H,H1,H2,HA\nRight"
+  },
+  {
+    "photo": "Image_364.png",
+    "itemNum": "Me843",
+    "partNum": "X054D128H01",
+    "size": "60x10\nx12",
+    "name": "Collection Cover",
+    "position": "",
+    "description": "QA"
+  },
+  {
+    "photo": "Image_365.png",
+    "itemNum": "Me844",
+    "partNum": "X054D165H01",
+    "size": "25x19\nx9",
+    "name": "Collection Cover",
+    "position": "",
+    "description": "FA"
+  },
+  {
+    "photo": "Image_366.png",
+    "itemNum": "Me845",
+    "partNum": "X054D128H01",
+    "size": "57x10\nx12",
+    "name": "Lower Roller",
+    "position": "",
+    "description": "SK2"
+  },
+  {
+    "photo": "Image_367.png",
+    "itemNum": "Me845-1",
+    "partNum": "X054D165H03\n(X194D666H01)",
+    "size": "23x64",
+    "name": "Shaft",
+    "position": "",
+    "description": "SK2"
+  },
+  {
+    "photo": "Image_368.png",
+    "itemNum": "Me845-2",
+    "partNum": "X184D570K01",
+    "size": "47x10 x10.5",
+    "name": "Belt Gear",
+    "position": "",
+    "description": "SK2"
+  },
+  {
+    "photo": "Image_369.png",
+    "itemNum": "Me845-3",
+    "partNum": "X184D571K01",
+    "size": "47x16\nx3",
+    "name": "Belt Gear",
+    "position": "",
+    "description": "SK2"
+  },
+  {
+    "photo": "Image_370.png",
+    "itemNum": "Me845-4",
+    "partNum": "X183C107H01",
+    "size": "",
+    "name": "Roller Block",
+    "position": "Lower",
+    "description": "SK2 SUS"
+  },
+  {
+    "photo": "Image_371.png",
+    "itemNum": "Me845-5",
+    "partNum": "",
+    "size": "34x14\nx18",
+    "name": "Roller",
+    "position": "Lower",
+    "description": "SK2 SUS"
+  },
+  {
+    "photo": "Image_372.png",
+    "itemNum": "Me845-6",
+    "partNum": "",
+    "size": "20x47",
+    "name": "Roller Block",
+    "position": "Lower",
+    "description": "SK2"
+  },
+  {
+    "photo": "Image_373.png",
+    "itemNum": "Me846C",
+    "partNum": "X054D165H01",
+    "size": "25x19\nx9",
+    "name": "Lower Pinch Roller",
+    "position": "Lower",
+    "description": "SK2"
+  },
+  {
+    "photo": "Image_374.png",
+    "itemNum": "Me847",
+    "partNum": "X054D165H01",
+    "size": "",
+    "name": "Pipe Holder",
+    "position": "",
+    "description": "AF1"
+  },
+  {
+    "photo": "Image_375.png",
+    "itemNum": "Me848",
+    "partNum": "",
+    "size": "",
+    "name": "Collection Spring",
+    "position": "",
+    "description": "Manual"
+  },
+  {
+    "photo": "Image_376.png",
+    "itemNum": "Me849",
+    "partNum": "",
+    "size": "50x19\nx18",
+    "name": "Lower Roller",
+    "position": "",
+    "description": "H1 SK3"
+  },
+  {
+    "photo": "Image_377.png",
+    "itemNum": "Me849 SET",
+    "partNum": "",
+    "size": "50x19\nx18",
+    "name": "Lower Roller",
+    "position": "",
+    "description": "H1 SK3\nWith Shaft,Bearing"
+  },
+  {
+    "photo": "Image_378.png",
+    "itemNum": "Me849-1",
+    "partNum": "",
+    "size": "",
+    "name": "Shaft",
+    "position": "",
+    "description": "H1 SK3"
+  },
+  {
+    "photo": "Image_379.png",
+    "itemNum": "Me851",
+    "partNum": "X053C988G51",
+    "size": "",
+    "name": "Slide Plate",
+    "position": "",
+    "description": "SZ,SA,SX"
+  },
+  {
+    "photo": "Image_380.png",
+    "itemNum": "Me852 (M1353)",
+    "partNum": "X859N219P33",
+    "size": "",
+    "name": "Bearing",
+    "position": "",
+    "description": "6800zz"
+  },
+  {
+    "photo": "Image_381.png",
+    "itemNum": "Me853 (M1354)",
+    "partNum": "X859N219P06",
+    "size": "",
+    "name": "Bearing",
+    "position": "",
+    "description": "ss1760zz"
+  },
+  {
+    "photo": "Image_382.png",
+    "itemNum": "Me854 (M1712)",
+    "partNum": "X058D685H01",
+    "size": "",
+    "name": "Rubber Packing",
+    "position": "",
+    "description": "SZ,SA,SX10,FX10,Q"
+  },
+  {
+    "photo": "Image_383.png",
+    "itemNum": "Me855",
+    "partNum": "X054D588H01",
+    "size": "",
+    "name": "Teflon \"O\" Ring",
+    "position": "",
+    "description": "SZ,SA,SX(110)"
+  },
+  {
+    "photo": "Image_384.png",
+    "itemNum": "Me856",
+    "partNum": "X058D380H01",
+    "size": "",
+    "name": "Teflon \"O\" Ring",
+    "position": "",
+    "description": "SX10,FX10,QA10"
+  },
+  {
+    "photo": "Image_385.png",
+    "itemNum": "Me857",
+    "partNum": "",
+    "size": "14x10x 6x35",
+    "name": "Brass Bolt",
+    "position": "",
+    "description": "SZ,SA,SX\nFor Slide Plate (Me851)"
+  },
+  {
+    "photo": "Image_386.png",
+    "itemNum": "Me858",
+    "partNum": "",
+    "size": "M6 x69L",
+    "name": "Collection Shaft ‘B’",
+    "position": "",
+    "description": "16/14x12x69"
+  },
+  {
+    "photo": "Image_387.png",
+    "itemNum": "Me858-1",
+    "partNum": "",
+    "size": "M8 x80L",
+    "name": "Collection Shaft ‘B’",
+    "position": "",
+    "description": "18/14x12x80"
+  },
+  {
+    "photo": "Image_388.png",
+    "itemNum": "Me859",
+    "partNum": "",
+    "size": "14x10\nx73",
+    "name": "Collection Shaft ‘A’",
+    "position": "",
+    "description": "14x10x73"
+  },
+  {
+    "photo": "Image_389.png",
+    "itemNum": "Me860",
+    "partNum": "",
+    "size": "",
+    "name": "Bellow Circle For Work Tank",
+    "position": "",
+    "description": "SZ"
+  },
+  {
+    "photo": "Image_390.png",
+    "itemNum": "Me861",
+    "partNum": "",
+    "size": "",
+    "name": "Bellow Circle For Work Tank",
+    "position": "",
+    "description": "SA,SX"
+  },
+  {
+    "photo": "Image_391.png",
+    "itemNum": "Me862",
+    "partNum": "",
+    "size": "",
+    "name": "Bellow For Work Table",
+    "position": "",
+    "description": "90H"
+  },
+  {
+    "photo": "Image_392.png",
+    "itemNum": "Me863A",
+    "partNum": "",
+    "size": "",
+    "name": "Bellow For Work Table",
+    "position": "right",
+    "description": "110H"
+  },
+  {
+    "photo": "Image_393.png",
+    "itemNum": "Me863B",
+    "partNum": "",
+    "size": "",
+    "name": "Bellow For Work Table",
+    "position": "left",
+    "description": "110H"
+  },
+  {
+    "photo": "Image_394.png",
+    "itemNum": "Me871A",
+    "partNum": "",
+    "size": "20x27 x200",
+    "name": "Gip strip\nFor Axis-U,V",
+    "position": "",
+    "description": "Manual"
+  },
+  {
+    "photo": "Image_395.png",
+    "itemNum": "Me871B",
+    "partNum": "",
+    "size": "20x27 x160",
+    "name": "Gip strip\nFor Axis-U,V",
+    "position": "",
+    "description": "Manual"
+  },
+  {
+    "photo": "Image_396.png",
+    "itemNum": "Me872",
+    "partNum": "",
+    "size": "",
+    "name": "Solenoid Block For repair set",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_397.png",
+    "itemNum": "Me873",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "90F,90G,90G,90HA"
+  },
+  {
+    "photo": "Image_398.png",
+    "itemNum": "Me874",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "110H,110HA\n200H,200HA"
+  },
+  {
+    "photo": "Image_399.png",
+    "itemNum": "Me875",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "110HA"
+  },
+  {
+    "photo": "Image_400.png",
+    "itemNum": "Me875-1",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "110HA"
+  },
+  {
+    "photo": "Image_401.png",
+    "itemNum": "Me875-2",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "110HA"
+  },
+  {
+    "photo": "Image_402.png",
+    "itemNum": "Me875-3",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "110HA"
+  },
+  {
+    "photo": "Image_403.png",
+    "itemNum": "Me875-4",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "110HA"
+  },
+  {
+    "photo": "Image_404.png",
+    "itemNum": "Me876",
+    "partNum": "",
+    "size": "",
+    "name": "Cover\nFor Axis-U,V",
+    "position": "",
+    "description": "SA,SX"
+  },
+  {
+    "photo": "Image_405.png",
+    "itemNum": "Me877",
+    "partNum": "",
+    "size": "",
+    "name": "Stopper\nFor Axis-U,V",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_406.png",
+    "itemNum": "Me878",
+    "partNum": "",
+    "size": "",
+    "name": "Gear Shaft",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_407.png",
+    "itemNum": "Me879",
+    "partNum": "",
+    "size": "",
+    "name": "U.V Cover",
+    "position": "",
+    "description": "CR"
+  },
+  {
+    "photo": "Image_408.png",
+    "itemNum": "Me880",
+    "partNum": "",
+    "size": "",
+    "name": "Distribute Block (분배블럭)",
+    "position": "",
+    "description": "H,HA"
+  },
+  {
+    "photo": "Image_409.png",
+    "itemNum": "Me900",
+    "partNum": "X176C876G52",
+    "size": "110mm",
+    "name": "Curtain (Front)",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_410.png",
+    "itemNum": "Me900-1",
+    "partNum": "",
+    "size": "",
+    "name": "Curtain Rubber",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_411.png",
+    "itemNum": "Me901",
+    "partNum": "X176C626H01",
+    "size": "110mm",
+    "name": "Curtain (Back)",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_412.png",
+    "itemNum": "Me901-1",
+    "partNum": "",
+    "size": "",
+    "name": "Curtain Rubber",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_413.png",
+    "itemNum": "Me902",
+    "partNum": "",
+    "size": "",
+    "name": "Battery",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_414.png",
+    "itemNum": "Me903",
+    "partNum": "",
+    "size": "",
+    "name": "Solenoid Valve",
+    "position": "",
+    "description": "HPW 206(3/4)20K 110V"
+  }
+]

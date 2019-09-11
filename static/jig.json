@@ -1,0 +1,308 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "J-50",
+    "partNum": "",
+    "size": "50X22 X12",
+    "name": "Clamp",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "J-70",
+    "partNum": "",
+    "size": "70X22\n12",
+    "name": "Clamp",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "J-80",
+    "partNum": "",
+    "size": "80X22 X12",
+    "name": "Clamp",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "J-90",
+    "partNum": "",
+    "size": "90X22 X12",
+    "name": "Clamp",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "J-100",
+    "partNum": "",
+    "size": "100X2\n2\nX12",
+    "name": "Clamp",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "J-500",
+    "partNum": "",
+    "size": "50mm",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "J-1000",
+    "partNum": "",
+    "size": "100mm",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "J-1500",
+    "partNum": "",
+    "size": "150mm",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "J-2000",
+    "partNum": "",
+    "size": "200mm",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "G1",
+    "partNum": "",
+    "size": "20x8.4T",
+    "name": "Core Magnet",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "G2",
+    "partNum": "",
+    "size": "66x26 x8.8T",
+    "name": "Core Magnet",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "G3",
+    "partNum": "",
+    "size": "62.5x\n52x8.8 T",
+    "name": "Core Magnet",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "G4",
+    "partNum": "",
+    "size": "78x62\n8.8T",
+    "name": "Core Magnet",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "G5",
+    "partNum": "",
+    "size": "50mm",
+    "name": "Connetion Bolt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "G6",
+    "partNum": "",
+    "size": "80mm",
+    "name": "Connetion Bolt",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "G7",
+    "partNum": "",
+    "size": "25x25",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "G8",
+    "partNum": "",
+    "size": "25x20",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "G9",
+    "partNum": "",
+    "size": "25x40",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "G10",
+    "partNum": "",
+    "size": "25x60",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "G11",
+    "partNum": "",
+    "size": "54x15\n0T\n250T",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "F1",
+    "partNum": "",
+    "size": "",
+    "name": "Flower Meter",
+    "position": "",
+    "description": "Sodick"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "F2",
+    "partNum": "",
+    "size": "",
+    "name": "Flower Meter",
+    "position": "",
+    "description": "Mitsubishi Fanuc SPM\nAll Machine"
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "F3",
+    "partNum": "",
+    "size": "",
+    "name": "Flower Meter",
+    "position": "",
+    "description": "Sodick"
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "F4",
+    "partNum": "",
+    "size": "",
+    "name": "Grease Gun",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "F5",
+    "partNum": "",
+    "size": "",
+    "name": "Grease",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "C1",
+    "partNum": "",
+    "size": "",
+    "name": "YUKIWA\nDrill Chuck",
+    "position": "",
+    "description": "KTC & Enter"
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "C2",
+    "partNum": "",
+    "size": "in Ø3.5",
+    "name": "Chuck",
+    "position": "",
+    "description": "Enter"
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "C3",
+    "partNum": "",
+    "size": "in  Ø4",
+    "name": "Holder",
+    "position": "",
+    "description": "Enter"
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "C4",
+    "partNum": "",
+    "size": "in  Ø4",
+    "name": "Holder",
+    "position": "",
+    "description": "Enter"
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "C5",
+    "partNum": "",
+    "size": "in  Ø4",
+    "name": "Holder",
+    "position": "",
+    "description": "KTC"
+  },
+  {
+    "photo": "Image_036.png",
+    "itemNum": "C6",
+    "partNum": "",
+    "size": "in  Ø4",
+    "name": "Holder",
+    "position": "",
+    "description": "KTC"
+  },
+  {
+    "photo": "Image_037.png",
+    "itemNum": "C7",
+    "partNum": "",
+    "size": "",
+    "name": "Connect Bolt",
+    "position": "",
+    "description": "KTC"
+  },
+  {
+    "photo": "Image_039.png",
+    "itemNum": "O1",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_040.png",
+    "itemNum": "O2",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  }
+]

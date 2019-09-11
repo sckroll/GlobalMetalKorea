@@ -1,0 +1,776 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "SE111",
+    "partNum": "4440400-7",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-F,K,K1,K2\nManual / AWF"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "SE111",
+    "partNum": "4440400-9",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-F,K,K1,K2\nManual / AWF"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "SE111",
+    "partNum": "4440400-8",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-F,K,K1,K2\nManual / AWF"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "SE113",
+    "partNum": "4433681-4",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-B,E / EWP-300A2\nManual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "SE113",
+    "partNum": "4433681-5",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-B,E / EWP-300A2\nManual"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "SE113",
+    "partNum": "4433681-6",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-B,E / EWP-300A2\nManual"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "SE114",
+    "partNum": "",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "SE114",
+    "partNum": "3438115",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "SE114",
+    "partNum": "",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "SE115",
+    "partNum": "",
+    "size": "0.21",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "SE115",
+    "partNum": "4461551",
+    "size": "0.26",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "SE115",
+    "partNum": "",
+    "size": "0.31",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "SE116",
+    "partNum": "4458910",
+    "size": "0.25",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "SE116",
+    "partNum": "4458910",
+    "size": "0.4",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,C5S3 AWF"
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "SE022",
+    "partNum": "4456239\n(4435332)",
+    "size": "12x28",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EW-K,K1\nManual / AWF"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "SE023",
+    "partNum": "4469013",
+    "size": "7x20\nx20",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,A5S3 AWF"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "SE023G",
+    "partNum": "4469013G",
+    "size": "7x20\nx20",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EW-A5S,A7S,A5S3 AWF\n(Long Life)"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "SE024",
+    "partNum": "4463719\n(4469012)",
+    "size": "7x15\nx20",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EW-K2\nManual / AWF"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "SE024G",
+    "partNum": "4463719G",
+    "size": "7x15\nx20",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EW-K2\nManual / AWF (Long Life)"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "SE211",
+    "partNum": "",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-F3 AWF"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "SE211",
+    "partNum": "",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-F3 AWF"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "SE211",
+    "partNum": "5427089",
+    "size": "Ø5.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-F3 AWF"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "SE211",
+    "partNum": "",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-F3 AWF"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "SE212",
+    "partNum": "",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-K,K1,K2 Series AWF"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "SE212",
+    "partNum": "5428160",
+    "size": "Ø5.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-K,K1,K2 Series AWF"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "SE213",
+    "partNum": "",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-K,K1,K2 Series AWF"
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "SE213",
+    "partNum": "",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-K,K1,K2 Series AWF"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "SE215",
+    "partNum": "5428161",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-K,K1,K2 Series AWF"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "SE215",
+    "partNum": "5428161",
+    "size": "Ø5.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-K,K1,K2 Series AWF"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "SE216",
+    "partNum": "5424011",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Upper & Lower",
+    "description": "EW-B,E,P300"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "SE217",
+    "partNum": "",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "SE218",
+    "partNum": "4465970",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "EW-A5S,A7S AWF"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "SE218-1",
+    "partNum": "4465970",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "EW-A5S,A7S AWF"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "SE219",
+    "partNum": "4465971",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "EW-A5S,A7S AWF"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "SE219-1",
+    "partNum": "4465971",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "EW-A5S,A7S AWF"
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "SE220",
+    "partNum": "4465440",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "SE220-1",
+    "partNum": "4465440",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "SE221",
+    "partNum": "4204528",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "SE221",
+    "partNum": "4204528",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "SE221-1",
+    "partNum": "4204528",
+    "size": "Ø3.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "SE221-1",
+    "partNum": "4204528",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "SE222",
+    "partNum": "",
+    "size": "66x14\nx24",
+    "name": "Nozzle Horder",
+    "position": "Upper",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "SE222-1",
+    "partNum": "",
+    "size": "66x14\nx24",
+    "name": "Nozzle Horder cap",
+    "position": "Upper",
+    "description": "EW- A5S3,C5S,500S,700S AWF"
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "SE301",
+    "partNum": "",
+    "size": "80x140\nx20",
+    "name": "Ceramic Plate",
+    "position": "Upper",
+    "description": "EW-A5S M350S,M500S, M750S"
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "SE301-1",
+    "partNum": "",
+    "size": "80x137\nx20",
+    "name": "Ceramic Plate",
+    "position": "Upper",
+    "description": "EW-A5S M350S,M500S, M750S"
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "SE302",
+    "partNum": "",
+    "size": "88x165\nx20",
+    "name": "Ceramic Plate",
+    "position": "Upper",
+    "description": "EW-A7S"
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "SE304C",
+    "partNum": "",
+    "size": "115\nx 33.5",
+    "name": "Ceramic Plate",
+    "position": "",
+    "description": "EW-M Series"
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "SE305",
+    "partNum": "",
+    "size": "114\nx 33",
+    "name": "Plate",
+    "position": "",
+    "description": "EW-M Series"
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "SE306",
+    "partNum": "",
+    "size": "Ø7X1.5 x 9.2L",
+    "name": "Guide Pipe Ceramic",
+    "position": "",
+    "description": "EW-M Series"
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "SE306-1",
+    "partNum": "",
+    "size": "Ø7X1.5 x 9.2L",
+    "name": "Guide Pipe",
+    "position": "",
+    "description": "EW-M Series"
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "SE307",
+    "partNum": "",
+    "size": "Ø4X2.0 x 430L",
+    "name": "Guide Pipe",
+    "position": "",
+    "description": "EW-M Series"
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "SE314C",
+    "partNum": "BH214",
+    "size": "80x42\nx20",
+    "name": "Feed Roller Ceramic",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_036.png",
+    "itemNum": "SE314-1",
+    "partNum": "",
+    "size": "80.2x\n42x20",
+    "name": "Feed Roller Ceramic Tin wire",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_037.png",
+    "itemNum": "SE315",
+    "partNum": "4466186",
+    "size": "Ø160",
+    "name": "Brake Pulley",
+    "position": "Upper",
+    "description": "EW-F3,K,K1,K2,C5S"
+  },
+  {
+    "photo": "Image_038.png",
+    "itemNum": "SE316",
+    "partNum": "5427989",
+    "size": "35x22 x17.5",
+    "name": "Pinch Roller",
+    "position": "",
+    "description": "EW-K1 AWT"
+  },
+  {
+    "photo": "Image_039.png",
+    "itemNum": "SE317",
+    "partNum": "5427844",
+    "size": "50x10 x17.5",
+    "name": "Capstan Roller",
+    "position": "",
+    "description": "EW-K1 AWT"
+  },
+  {
+    "photo": "Image_040.png",
+    "itemNum": "SE318",
+    "partNum": "",
+    "size": "23x6\nx17",
+    "name": "Warm Gear",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_041.png",
+    "itemNum": "SE319",
+    "partNum": "",
+    "size": "10x4x1 0",
+    "name": "AR Roller Ceramic",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_042.png",
+    "itemNum": "SE320",
+    "partNum": "4449405",
+    "size": "33x17",
+    "name": "Roller",
+    "position": "",
+    "description": "EW-K2,K3"
+  },
+  {
+    "photo": "Image_043.png",
+    "itemNum": "SE321",
+    "partNum": "4465626",
+    "size": "",
+    "name": "Guide Holder",
+    "position": "Lower",
+    "description": "EW-K2"
+  },
+  {
+    "photo": "Image_044.png",
+    "itemNum": "SE600",
+    "partNum": "",
+    "size": "61x22\nx26",
+    "name": "Electric Brush Holder",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_045.png",
+    "itemNum": "SE601",
+    "partNum": "",
+    "size": "57x29\nx30",
+    "name": "Electric Brush Holder",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_046.png",
+    "itemNum": "SE602",
+    "partNum": "",
+    "size": "63x22\nx26",
+    "name": "Electric Brush Holder",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_047.png",
+    "itemNum": "SE603",
+    "partNum": "",
+    "size": "65x30\nx36",
+    "name": "Electric Brush Holder",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_048.png",
+    "itemNum": "SE604",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_049.png",
+    "itemNum": "SE801",
+    "partNum": "",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Upper",
+    "description": "EW-F,K Series"
+  },
+  {
+    "photo": "Image_050.png",
+    "itemNum": "SE801-1 SE802-1",
+    "partNum": "",
+    "size": "",
+    "name": "Nozzle Stopper",
+    "position": "Upper & Lower",
+    "description": "EW-F,K Series"
+  },
+  {
+    "photo": "Image_051.png",
+    "itemNum": "SE801-2 SE802-2",
+    "partNum": "",
+    "size": "",
+    "name": "Nozzle Spring",
+    "position": "",
+    "description": "EW-F,K Series"
+  },
+  {
+    "photo": "Image_052.png",
+    "itemNum": "SE801 SET",
+    "partNum": "",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Upper",
+    "description": "EW-F,K Series"
+  },
+  {
+    "photo": "Image_053.png",
+    "itemNum": "SE802",
+    "partNum": "",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "EW-F,K Series"
+  },
+  {
+    "photo": "Image_054.png",
+    "itemNum": "SE802 SET",
+    "partNum": "",
+    "size": "",
+    "name": "Dies Block",
+    "position": "Lower",
+    "description": "EW-F,K Series"
+  },
+  {
+    "photo": "Image_055.png",
+    "itemNum": "SE803",
+    "partNum": "",
+    "size": "33x13\nx17",
+    "name": "Ceramic Pulley",
+    "position": "Upper",
+    "description": "EW-F,K Series (Se318)"
+  },
+  {
+    "photo": "Image_056.png",
+    "itemNum": "SE804",
+    "partNum": "",
+    "size": "33x13\nx10",
+    "name": "Ceramic Pulley",
+    "position": "Lower",
+    "description": "EW-F,K Series (Se319)"
+  },
+  {
+    "photo": "Image_057.png",
+    "itemNum": "SE805",
+    "partNum": "",
+    "size": "50x20",
+    "name": "Capstan Roller Joint type",
+    "position": "",
+    "description": "EW-F,K Series (Se320)"
+  },
+  {
+    "photo": "Image_058.png",
+    "itemNum": "SE806",
+    "partNum": "",
+    "size": "50x20",
+    "name": "Pinch Roller",
+    "position": "",
+    "description": "EW-F,K Series (Se321)"
+  },
+  {
+    "photo": "Image_059.png",
+    "itemNum": "SE807",
+    "partNum": "4468314",
+    "size": "42.8x\n22x12",
+    "name": "Feed Roller",
+    "position": "",
+    "description": "EW-A5S2"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "SE807-1",
+    "partNum": "",
+    "size": "32x39",
+    "name": "Shaft",
+    "position": "",
+    "description": "EW-A5S2"
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "SE808",
+    "partNum": "",
+    "size": "43.8x\n22x12",
+    "name": "Feed Roller",
+    "position": "",
+    "description": "EW-A5S2"
+  },
+  {
+    "photo": "Image_062.png",
+    "itemNum": "SE809",
+    "partNum": "",
+    "size": "44x11\nx19",
+    "name": "Guide Roller",
+    "position": "Upper",
+    "description": "EW-A,M Series"
+  },
+  {
+    "photo": "Image_063.png",
+    "itemNum": "SE810",
+    "partNum": "",
+    "size": "",
+    "name": "Block",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_064.png",
+    "itemNum": "SE811",
+    "partNum": "",
+    "size": "66x14\n24",
+    "name": "Block Holder",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_065.png",
+    "itemNum": "SE812",
+    "partNum": "4439286",
+    "size": "",
+    "name": "cutter",
+    "position": "set",
+    "description": ""
+  },
+  {
+    "photo": "Image_066.png",
+    "itemNum": "SE813",
+    "partNum": "DS8021",
+    "size": "38x24\n16",
+    "name": "Guide Bush",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_067.png",
+    "itemNum": "SE814",
+    "partNum": "",
+    "size": "18x45 x1.1",
+    "name": "Ceramic Nozzle",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_068.png",
+    "itemNum": "SE815",
+    "partNum": "",
+    "size": "45x14\nx22",
+    "name": "Block Holder",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_069.png",
+    "itemNum": "SE816",
+    "partNum": "",
+    "size": "56x34.\n2\nx14",
+    "name": "Block Cap",
+    "position": "Upper",
+    "description": ""
+  }
+]

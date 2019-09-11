@@ -1,0 +1,767 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "AV102",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "AV102",
+    "partNum": "",
+    "size": "0.105",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "AV102",
+    "partNum": "",
+    "size": "0.155",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "AV102",
+    "partNum": "",
+    "size": "0.205",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "AV102",
+    "partNum": "",
+    "size": "0.255",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "AV102",
+    "partNum": "",
+    "size": "0.305",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "AV108",
+    "partNum": "X054D162G54",
+    "size": "0.4",
+    "name": "Set screw",
+    "position": "Upper",
+    "description": "N,F,F1,G\nManual/AF"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "AV117",
+    "partNum": "X052B176G53",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "AV117",
+    "partNum": "X052B176G54",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "AV117",
+    "partNum": "X052B176G55",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB,SZ AF1"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "AV111",
+    "partNum": "X053C245H02",
+    "size": "",
+    "name": "Die Holder",
+    "position": "Upper & Lower",
+    "description": "G,H,H´,H1,C SA,SB,SZ SK3,AF,AF1,Manual"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "AV132",
+    "partNum": "",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "AV132",
+    "partNum": "",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "AV132",
+    "partNum": "",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "AV133",
+    "partNum": "",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "AV133",
+    "partNum": "",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "AV133",
+    "partNum": "",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "AV001A",
+    "partNum": "X054D125H03",
+    "size": "7x22",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "N,F,G,H,HA,C\nManual"
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "AV001B",
+    "partNum": "X054D125H03",
+    "size": "7x22",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "N,F,G,H,HA,C\nManual Unpolished"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "AV002",
+    "partNum": "",
+    "size": "5.45x8",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "AV202",
+    "partNum": "X183C439H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Upper",
+    "description": "H,H´,H2,HA,C\nWith Groove Acryl"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "AV203",
+    "partNum": "",
+    "size": "Ø 4.0",
+    "name": "",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "AV206",
+    "partNum": "",
+    "size": "Ø 4.0",
+    "name": "",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "AV207",
+    "partNum": "X053C491H01",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "F1,G,H,H1,HA,C\nManual Acryl+Brass type of M2102 with Groove"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "AV212",
+    "partNum": "X054D881H03",
+    "size": "Ø4.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl+Brass type of M2103"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "AV212",
+    "partNum": "X054D881H04",
+    "size": "Ø6.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl+Brass type of M2103"
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "AV212",
+    "partNum": "X054D881H05",
+    "size": "Ø8.0",
+    "name": "Water Nozzle",
+    "position": "Lower",
+    "description": "HA,SA,SB,SZ,SX CX,FX,QA,RA,FA AF2,AF3,AT\nAcryl+Brass type of M2103"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "AV301",
+    "partNum": "X053C162H01",
+    "size": "100x68\nx33",
+    "name": "Isolator Plate",
+    "position": "Upper",
+    "description": "F1,G,H,H´H1,HA,C\nManual Taper Cut"
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "AV302",
+    "partNum": "",
+    "size": "100x68\nx24",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "AV306",
+    "partNum": "X053C314H01",
+    "size": "70x78\nx30 mmT",
+    "name": "Isolator Plate",
+    "position": "Lower",
+    "description": "90H1,90HA,90C\nManual AF"
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_037.png",
+    "itemNum": "AV403C",
+    "partNum": "X054D413G51",
+    "size": "57x25",
+    "name": "Pinch Roller",
+    "position": "Feed Section",
+    "description": "H,H1,HA,SA,SB,SZ,C SK3,AF1,AF2\nCeramic"
+  },
+  {
+    "photo": "Image_038.png",
+    "itemNum": "AV404C",
+    "partNum": "X054D412G53",
+    "size": "25x57",
+    "name": "Capstan Roller For M404C",
+    "position": "Feed Section",
+    "description": "H´,H1,HA,SA,SB,SZ,C SK3,AF1,AF2\nCeramic"
+  },
+  {
+    "photo": "Image_039.png",
+    "itemNum": "AV404-1",
+    "partNum": "X175C862H01",
+    "size": "112x12",
+    "name": "Roller Shaft For M404C",
+    "position": "",
+    "description": "H,H1"
+  },
+  {
+    "photo": "Image_040.png",
+    "itemNum": "AV404-2",
+    "partNum": "X183C679H01",
+    "size": "112x15",
+    "name": "Roller Shaft For M404C",
+    "position": "",
+    "description": "H,H1"
+  },
+  {
+    "photo": "Image_041.png",
+    "itemNum": "AV445",
+    "partNum": "X199D297H02",
+    "size": "56x200\nx2",
+    "name": "Water Cover",
+    "position": "Upper",
+    "description": "H´,H1,HA,SA,SB,SZ For M202,M211"
+  },
+  {
+    "photo": "Image_042.png",
+    "itemNum": "AV451",
+    "partNum": "X179D323H02",
+    "size": "20x14.5\n15t",
+    "name": "Cap Screw",
+    "position": "Upper",
+    "description": "F,F1,G,H HA,H´,H1,C\nManual"
+  },
+  {
+    "photo": "Image_043.png",
+    "itemNum": "AV452",
+    "partNum": "X176C706G02",
+    "size": "59x56x 27/30",
+    "name": "Die Block",
+    "position": "Upper",
+    "description": "F1,G,H,H´,H1,C,HA\nManual Including M451 and Connector"
+  },
+  {
+    "photo": "Image_044.png",
+    "itemNum": "AV452-1",
+    "partNum": "",
+    "size": "43x35\nx4.75t",
+    "name": "Plate",
+    "position": "Upper",
+    "description": "F1,G,H,H´,H1,C,HA\nManual Including M452 and Connector"
+  },
+  {
+    "photo": "Image_046.png",
+    "itemNum": "AV453 SET",
+    "partNum": "",
+    "size": "40x69\nx50",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_047.png",
+    "itemNum": "AV453-1",
+    "partNum": "X176C610H01",
+    "size": "40x69\nx43",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_048.png",
+    "itemNum": "AV453-2",
+    "partNum": "X184D271H06",
+    "size": "40x48\nx13",
+    "name": "Stopper",
+    "position": "Lower",
+    "description": "F1,G,H,H´\nManual AF"
+  },
+  {
+    "photo": "Image_049.png",
+    "itemNum": "AV454 SET",
+    "partNum": "X177B046H03",
+    "size": "48x97\nx43",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "H1,HA\nManual AF"
+  },
+  {
+    "photo": "Image_050.png",
+    "itemNum": "AV454",
+    "partNum": "X177B046H03",
+    "size": "48x97\nx43",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "H1,HA\nManual AF"
+  },
+  {
+    "photo": "Image_051.png",
+    "itemNum": "AV455",
+    "partNum": "",
+    "size": "",
+    "name": "Lower Roller",
+    "position": "",
+    "description": "Old Machine"
+  },
+  {
+    "photo": "Image_052.png",
+    "itemNum": "AV456",
+    "partNum": "",
+    "size": "40x7x14",
+    "name": "Lower Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_053.png",
+    "itemNum": "AV456-1",
+    "partNum": "",
+    "size": "40x8x10",
+    "name": "Lower Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_055.png",
+    "itemNum": "AV457",
+    "partNum": "S859N319P33",
+    "size": "22/19\nx7x7",
+    "name": "Bearing",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF\nFor M456  R-1970"
+  },
+  {
+    "photo": "Image_056.png",
+    "itemNum": "AV458",
+    "partNum": "S859N319P31",
+    "size": "22/19\nx8x7",
+    "name": "Bearing",
+    "position": "",
+    "description": "For 401C,M403C,M405C For M407C,M409C\nManual\nAF (R-1980)"
+  },
+  {
+    "photo": "Image_057.png",
+    "itemNum": "AV459",
+    "partNum": "X177B713H02",
+    "size": "",
+    "name": "Die Block",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_058.png",
+    "itemNum": "AV459-1",
+    "partNum": "X198D777H01",
+    "size": "38/42\nx11t",
+    "name": "Plastic Cover",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_059.png",
+    "itemNum": "AV459-2",
+    "partNum": "",
+    "size": "37x3.5",
+    "name": "Fixing Plate",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_060.png",
+    "itemNum": "AV459-3",
+    "partNum": "X198D776H01",
+    "size": "37/16\nx25",
+    "name": "Holder",
+    "position": "Lower",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_061.png",
+    "itemNum": "AV459-4",
+    "partNum": "S913N313P11",
+    "size": "16.3 x12.7",
+    "name": "Wave Washer",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_062.png",
+    "itemNum": "AV459-5",
+    "partNum": "X194D873H01",
+    "size": "19x10.5\n1.2t",
+    "name": "Spacer",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_064.png",
+    "itemNum": "AV459-6",
+    "partNum": "S922N040P07",
+    "size": "7.7x9.2\n0.7t",
+    "name": "Retaining Ring",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF (For M456)"
+  },
+  {
+    "photo": "Image_065.png",
+    "itemNum": "AV459-7",
+    "partNum": "X208D601H01",
+    "size": "60x21.5",
+    "name": "Cover",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_066.png",
+    "itemNum": "AV459-8",
+    "partNum": "",
+    "size": "",
+    "name": "Pipe Fixed Plate",
+    "position": "",
+    "description": "H2,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_067.png",
+    "itemNum": "AV459 SET(1)",
+    "partNum": "",
+    "size": "97x48 x115",
+    "name": "",
+    "position": "",
+    "description": "H1,HA,SA,SB SZ,SX,CX\nManual,AF"
+  },
+  {
+    "photo": "Image_068.png",
+    "itemNum": "AV460",
+    "partNum": "X189D690H04",
+    "size": "35x14.5\n7t",
+    "name": "Clamping",
+    "position": "",
+    "description": "Manual,AF For M454\n(Brass)"
+  },
+  {
+    "photo": "Image_069.png",
+    "itemNum": "AV461",
+    "partNum": "",
+    "size": "58x15\nx12",
+    "name": "dies  Holder",
+    "position": "UP",
+    "description": ""
+  },
+  {
+    "photo": "Image_070.png",
+    "itemNum": "AV462",
+    "partNum": "",
+    "size": "49x15\nx12",
+    "name": "dies  Holder",
+    "position": "Lo",
+    "description": ""
+  },
+  {
+    "photo": "Image_071.png",
+    "itemNum": "AV470 SET",
+    "partNum": "",
+    "size": "",
+    "name": "Block",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_073.png",
+    "itemNum": "AV470-1",
+    "partNum": "",
+    "size": "50x41x10",
+    "name": "입력마개판",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_074.png",
+    "itemNum": "AV470-2",
+    "partNum": "",
+    "size": "50x41x10",
+    "name": "입력마개판",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_075.png",
+    "itemNum": "AV470-3",
+    "partNum": "",
+    "size": "15x5.5\nx11",
+    "name": "배출감압링",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_076.png",
+    "itemNum": "AV470-4",
+    "partNum": "",
+    "size": "19x32",
+    "name": "배출가이드",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_077.png",
+    "itemNum": "AV470-5",
+    "partNum": "",
+    "size": "22x29",
+    "name": "입력가이드",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_078.png",
+    "itemNum": "AV470-6",
+    "partNum": "",
+    "size": "50x41x48",
+    "name": "Block",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_079.png",
+    "itemNum": "AV470-7",
+    "partNum": "",
+    "size": "50x41x2",
+    "name": "Silicone Pad",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_080.png",
+    "itemNum": "AV903",
+    "partNum": "",
+    "size": "",
+    "name": "Solenoid Valve",
+    "position": "",
+    "description": "HPW 206(3/4)20K 110V\nMe903"
+  }
+]

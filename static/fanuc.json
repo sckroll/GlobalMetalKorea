@@ -1,0 +1,2504 @@
+[
+    {
+      "photo": "Image_001.png",
+      "itemNum": "F101",
+      "partNum": "A290-8021-X765",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_001.png",
+      "itemNum": "F101",
+      "partNum": "A290-8021-X766",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_001.png",
+      "itemNum": "F101",
+      "partNum": "A290-8021-X767",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_002.png",
+      "itemNum": "F102",
+      "partNum": "A290-8021-X775",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_002.png",
+      "itemNum": "F102",
+      "partNum": "A290-8021-X776",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_002.png",
+      "itemNum": "F102",
+      "partNum": "A290-8021-X777",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_003.png",
+      "itemNum": "F103",
+      "partNum": "A290-8032-775",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "T,W AWF"
+    },
+    {
+      "photo": "Image_003.png",
+      "itemNum": "F103",
+      "partNum": "A290-8032-776",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "T,W AWF"
+    },
+    {
+      "photo": "Image_003.png",
+      "itemNum": "F103",
+      "partNum": "A290-8032-777",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "T,W AWF"
+    },
+    {
+      "photo": "Image_004.png",
+      "itemNum": "F104",
+      "partNum": "A290-8032-X735",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "T,W AWF"
+    },
+    {
+      "photo": "Image_004.png",
+      "itemNum": "F104",
+      "partNum": "A290-8032-X736",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "T,W AWF"
+    },
+    {
+      "photo": "Image_004.png",
+      "itemNum": "F104",
+      "partNum": "A290-8032-X737",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "T,W AWF"
+    },
+    {
+      "photo": "Image_005.png",
+      "itemNum": "F104T",
+      "partNum": "A290-8032-X765",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "T,W\nFor 30˚ Taper"
+    },
+    {
+      "photo": "Image_005.png",
+      "itemNum": "F104T",
+      "partNum": "A290-8032-X766",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "T,W\nFor 30˚ Taper"
+    },
+    {
+      "photo": "Image_005.png",
+      "itemNum": "F104T",
+      "partNum": "A290-8032-X767",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "T,W\nFor 30˚ Taper"
+    },
+    {
+      "photo": "Image_006.png",
+      "itemNum": "F105",
+      "partNum": "A290-8018-X443",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual"
+    },
+    {
+      "photo": "Image_006.png",
+      "itemNum": "F105",
+      "partNum": "A290-8018-X444",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual"
+    },
+    {
+      "photo": "Image_006.png",
+      "itemNum": "F105",
+      "partNum": "A290-8018-X445",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual"
+    },
+    {
+      "photo": "Image_007.png",
+      "itemNum": "F106",
+      "partNum": "A290-8011-X833",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual\n(300A Power Supply)"
+    },
+    {
+      "photo": "Image_007.png",
+      "itemNum": "F106",
+      "partNum": "A290-8011-X834",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual\n(300A Power Supply)"
+    },
+    {
+      "photo": "Image_007.png",
+      "itemNum": "F106",
+      "partNum": "A290-8011-X835",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual\n(300A Power Supply)"
+    },
+    {
+      "photo": "Image_008.png",
+      "itemNum": "F108",
+      "partNum": "A290-8011-X753",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual\n(60A Power Supply)"
+    },
+    {
+      "photo": "Image_008.png",
+      "itemNum": "F108",
+      "partNum": "A290-8011-X754",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual\n(60A Power Supply)"
+    },
+    {
+      "photo": "Image_008.png",
+      "itemNum": "F108",
+      "partNum": "A290-8011-X755",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Upper & Lower",
+      "description": "K,M,N,L\nManual\n(60A Power Supply)"
+    },
+    {
+      "photo": "Image_009.png",
+      "itemNum": "F110",
+      "partNum": "A290-8101-X733",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB\nManual"
+    },
+    {
+      "photo": "Image_009.png",
+      "itemNum": "F110",
+      "partNum": "A290-8101-X734",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB\nManual"
+    },
+    {
+      "photo": "Image_009.png",
+      "itemNum": "F110",
+      "partNum": "A290-8101-X735",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB\nManual"
+    },
+    {
+      "photo": "Image_010.png",
+      "itemNum": "F111",
+      "partNum": "A290-8101-X743",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC\nManual"
+    },
+    {
+      "photo": "Image_010.png",
+      "itemNum": "F111",
+      "partNum": "A290-8101-X744",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC\nManual"
+    },
+    {
+      "photo": "Image_010.png",
+      "itemNum": "F111",
+      "partNum": "A290-8101-X745",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC\nManual"
+    },
+    {
+      "photo": "Image_011.png",
+      "itemNum": "F112",
+      "partNum": "A290-8092-X705",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_011.png",
+      "itemNum": "F112",
+      "partNum": "A290-8092-X706",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_011.png",
+      "itemNum": "F112",
+      "partNum": "A290-8092-X707",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_012.png",
+      "itemNum": "F112T",
+      "partNum": "A290-8112-Z725",
+      "size": "0.205",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_012.png",
+      "itemNum": "F112T",
+      "partNum": "A290-8112-Z705",
+      "size": "0.205",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_012.png",
+      "itemNum": "F112T",
+      "partNum": "A290-8112-Z726",
+      "size": "0.255",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_012.png",
+      "itemNum": "F112T",
+      "partNum": "A290-8112-Z706",
+      "size": "0.255",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_013.png",
+      "itemNum": "F113",
+      "partNum": "A290-8092-X715",
+      "size": "0.205",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_013.png",
+      "itemNum": "F113",
+      "partNum": "A290-8092-X716",
+      "size": "0.255",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_013.png",
+      "itemNum": "F113",
+      "partNum": "A290-8092-X717",
+      "size": "0.305",
+      "name": "Wire Guide Dies",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_014.png",
+      "itemNum": "F113T",
+      "partNum": "A290-8112-Z735",
+      "size": "0.205",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_014.png",
+      "itemNum": "F113T",
+      "partNum": "A290-8112-Z715",
+      "size": "0.205",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_014.png",
+      "itemNum": "F113T",
+      "partNum": "A290-8112-Z736",
+      "size": "0.255",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_014.png",
+      "itemNum": "F113T",
+      "partNum": "A290-8112-Z716",
+      "size": "0.255",
+      "name": "Wire Guide Dies\n30˚~45˚ Taper",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC\nAWF"
+    },
+    {
+      "photo": "Image_015.png",
+      "itemNum": "F114",
+      "partNum": "A290-8104-Y705",
+      "size": "0.205",
+      "name": "Wire Guide Dies\n(High Accuracy Type)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_015.png",
+      "itemNum": "F114",
+      "partNum": "A290-8104-Y706",
+      "size": "0.255",
+      "name": "Wire Guide Dies\n(High Accuracy Type)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_015.png",
+      "itemNum": "F114",
+      "partNum": "A290-8104-Y707",
+      "size": "0.305",
+      "name": "Wire Guide Dies\n(High Accuracy Type)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_016.png",
+      "itemNum": "F114-1",
+      "partNum": "A290-8104-Y705",
+      "size": "0.202",
+      "name": "Wire Guide Dies Finish cut (High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_016.png",
+      "itemNum": "F114-1",
+      "partNum": "A290-8104-Y706",
+      "size": "0.252",
+      "name": "Wire Guide Dies Finish cut (High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_016.png",
+      "itemNum": "F114-1",
+      "partNum": "A290-8104-Y707",
+      "size": "0.302",
+      "name": "Wire Guide Dies Finish cut (High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_017.png",
+      "itemNum": "F114T- 30T",
+      "partNum": "A290-8114-Z275",
+      "size": "0.202",
+      "name": "Wire Guide Dies\n30˚ Taper",
+      "position": "Upper",
+      "description": "α-iC,ICP,ID\nAWF\nFor 30˚ Taper"
+    },
+    {
+      "photo": "Image_017.png",
+      "itemNum": "F114T- 30T",
+      "partNum": "A290-8114-Z276",
+      "size": "0.252",
+      "name": "Wire Guide Dies\n30˚ Taper",
+      "position": "Upper",
+      "description": "α-iC,ICP,ID\nAWF\nFor 30˚ Taper"
+    },
+    {
+      "photo": "Image_018.png",
+      "itemNum": "F114T- 45T",
+      "partNum": "A290-8112-Z705",
+      "size": "0.202",
+      "name": "Wire Guide Dies\n45˚ Taper",
+      "position": "Upper",
+      "description": "α-iC,ICP,ID\nAWF\nFor 45˚ Taper"
+    },
+    {
+      "photo": "Image_018.png",
+      "itemNum": "F114T- 45T",
+      "partNum": "A290-8112-Z706",
+      "size": "0.252",
+      "name": "Wire Guide Dies\n45˚ Taper",
+      "position": "Upper",
+      "description": "α-iC,ICP,ID\nAWF\nFor 45˚ Taper"
+    },
+    {
+      "photo": "Image_019.png",
+      "itemNum": "F115",
+      "partNum": "A290-8119-Y715",
+      "size": "0.205",
+      "name": "Wire Guide Dies\n(High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_019.png",
+      "itemNum": "F115",
+      "partNum": "A290-8119-Y716",
+      "size": "0.255",
+      "name": "Wire Guide Dies\n(High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_019.png",
+      "itemNum": "F115",
+      "partNum": "A290-8119-Y717",
+      "size": "0.305",
+      "name": "Wire Guide Dies\n(High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_020.png",
+      "itemNum": "F115-1",
+      "partNum": "A290-8119-Y705",
+      "size": "0.202",
+      "name": "Wire Guide Dies Finish cut (High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_020.png",
+      "itemNum": "F115-1",
+      "partNum": "A290-8119-Y706",
+      "size": "0.252",
+      "name": "Wire Guide Dies Finish cut (High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_020.png",
+      "itemNum": "F115-1",
+      "partNum": "A290-8119-Y707",
+      "size": "0.302",
+      "name": "Wire Guide Dies Finish cut (High Accuracy Type)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB,iC,iD,\nα-iD2 Level up α-iG,iE\nAWF"
+    },
+    {
+      "photo": "Image_021.png",
+      "itemNum": "F115T- 30T",
+      "partNum": "A290-8114-Z735",
+      "size": "0.21",
+      "name": "Wire Guide Dies\n30˚ Taper",
+      "position": "Lower",
+      "description": "α-iC,ICP,ID\nAWF\nFor 30˚ Taper"
+    },
+    {
+      "photo": "Image_021.png",
+      "itemNum": "F115T- 30T",
+      "partNum": "A290-8114-Z736",
+      "size": "0.26",
+      "name": "Wire Guide Dies\n30˚ Taper",
+      "position": "Lower",
+      "description": "α-iC,ICP,ID\nAWF\nFor 30˚ Taper"
+    },
+    {
+      "photo": "Image_022.png",
+      "itemNum": "F115T- 45T",
+      "partNum": "A290-8112-Z715",
+      "size": "0.21",
+      "name": "Wire Guide Dies\n45˚ Taper",
+      "position": "Lower",
+      "description": "α-iC,ICP,ID\nAWF\nFor 45˚ Taper"
+    },
+    {
+      "photo": "Image_022.png",
+      "itemNum": "F115T- 45T",
+      "partNum": "A290-8112-Z716",
+      "size": "0.26",
+      "name": "Wire Guide Dies\n45˚ Taper",
+      "position": "Lower",
+      "description": "α-iC,ICP,ID\nAWF\nFor 45˚ Taper"
+    },
+    {
+      "photo": "Image_023.png",
+      "itemNum": "F120",
+      "partNum": "A290-8110-Y726",
+      "size": "1",
+      "name": "Sub Die Guide",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB\nAWF"
+    },
+    {
+      "photo": "Image_024.png",
+      "itemNum": "F122",
+      "partNum": "A290-8101-X753",
+      "size": "",
+      "name": "Ruby Guide",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB\nAWF"
+    },
+    {
+      "photo": "Image_025.png",
+      "itemNum": "F123",
+      "partNum": "A290-8037-X645",
+      "size": "",
+      "name": "Die Guide",
+      "position": "Upper",
+      "description": "W"
+    },
+    {
+      "photo": "Image_026.png",
+      "itemNum": "F124C-A",
+      "partNum": "A290-8112-X774",
+      "size": "Ø11.0",
+      "name": "Jet Nozzle (Ceramic)",
+      "position": "Lower",
+      "description": "α-A,B,C,IA,iB\nAWF"
+    },
+    {
+      "photo": "Image_027.png",
+      "itemNum": "F124C-1",
+      "partNum": "A290-8110-Y774",
+      "size": "Ø12.0",
+      "name": "Jet Nozzle (Ceramic)",
+      "position": "Lower",
+      "description": ""
+    },
+    {
+      "photo": "Image_028.png",
+      "itemNum": "F125-1",
+      "partNum": "A290-8102-Y756",
+      "size": "Ø1.5",
+      "name": "Jet Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB,iC,iD\nAWF"
+    },
+    {
+      "photo": "Image_029.png",
+      "itemNum": "F125-2",
+      "partNum": "A290-8102-Y757",
+      "size": "Ø0.5",
+      "name": "Jet Nozzle",
+      "position": "Lower",
+      "description": "α-A,B,C,IA,iB\nAWF\n(Fine Wire)"
+    },
+    {
+      "photo": "Image_030.png",
+      "itemNum": "F125-3",
+      "partNum": "A290-8102-Y754",
+      "size": "Ø1.8",
+      "name": "Jet Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB,iC,iD\nAWF"
+    },
+    {
+      "photo": "Image_031.png",
+      "itemNum": "F125-4",
+      "partNum": "A290-8102-Y755",
+      "size": "Ø0.8",
+      "name": "Jet Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB,iC,iD\nAWF"
+    },
+    {
+      "photo": "Image_032.png",
+      "itemNum": "F125-5",
+      "partNum": "A290-8102-Y761",
+      "size": "Ø1.0",
+      "name": "Jet Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,IA,iB,iC,iD\nAWF"
+    },
+    {
+      "photo": "Image_033.png",
+      "itemNum": "F126",
+      "partNum": "A290-8102-X723",
+      "size": "",
+      "name": "Nozzle Base",
+      "position": "Upper",
+      "description": "α-B\nAWF"
+    },
+    {
+      "photo": "Image_034.png",
+      "itemNum": "F127",
+      "partNum": "A290-8110-Y723",
+      "size": "61x15.\n6\nx19t",
+      "name": "Nozzle Base",
+      "position": "Upper",
+      "description": "α-C,iA\nAWF"
+    },
+    {
+      "photo": "Image_035.png",
+      "itemNum": "F128",
+      "partNum": "A290-8104-X620",
+      "size": "Ø0.3",
+      "name": "Guide",
+      "position": "",
+      "description": "α-iB\nAWF"
+    },
+    {
+      "photo": "Image_035.png",
+      "itemNum": "F128",
+      "partNum": "A290-8102-X620",
+      "size": "Ø0.5",
+      "name": "Guide",
+      "position": "",
+      "description": "α-iB\nAWF"
+    },
+    {
+      "photo": "Image_036.png",
+      "itemNum": "F129",
+      "partNum": "A27L-0201-0490\n#80",
+      "size": "Ø1.5",
+      "name": "Jet Nozzle",
+      "position": "",
+      "description": "α-iA"
+    },
+    {
+      "photo": "Image_036.png",
+      "itemNum": "F129",
+      "partNum": "A27L-0201-0490\n#136",
+      "size": "Ø2.0",
+      "name": "Jet Nozzle",
+      "position": "",
+      "description": "α-iA"
+    },
+    {
+      "photo": "Image_037.png",
+      "itemNum": "F130",
+      "partNum": "",
+      "size": "58x15.\n2\nx19t",
+      "name": "Nozzle Base",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_038.png",
+      "itemNum": "Fe140",
+      "partNum": "A290-8021-Y701",
+      "size": "12x6\nx8L",
+      "name": "V-Ditch Guide",
+      "position": "",
+      "description": "Ceramic Roller"
+    },
+    {
+      "photo": "Image_039.png",
+      "itemNum": "Fe140-1",
+      "partNum": "A290-8021-Y712",
+      "size": "10x19.\n5",
+      "name": "Shaft",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_040.png",
+      "itemNum": "F141",
+      "partNum": "A290-8102-X764",
+      "size": "Ø11 xØ2.0\nx6",
+      "name": "Nozzle",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_041.png",
+      "itemNum": "F142",
+      "partNum": "",
+      "size": "18x1.0x\n25L",
+      "name": "ceramic Nozzle",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_042.png",
+      "itemNum": "F143",
+      "partNum": "",
+      "size": "80x63.\n5\nx1t",
+      "name": "Plate",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_043.png",
+      "itemNum": "F144",
+      "partNum": "",
+      "size": "54x7.6 x50L",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_044.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_045.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_046.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_047.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_048.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_049.png",
+      "itemNum": "F001",
+      "partNum": "A97L-0001-0664",
+      "size": "25x9\nx10t",
+      "name": "Power feed contact",
+      "position": "Lower",
+      "description": "E,H,K,L,M"
+    },
+    {
+      "photo": "Image_050.png",
+      "itemNum": "F002",
+      "partNum": "A97L-0126-0001",
+      "size": "16x6\nx6.3t",
+      "name": "Power feed contact",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W"
+    },
+    {
+      "photo": "Image_051.png",
+      "itemNum": "F003",
+      "partNum": "A290-8008-X107",
+      "size": "8x4 x10t",
+      "name": "Power feed contact",
+      "position": "Upper & Lower",
+      "description": "K,N,M"
+    },
+    {
+      "photo": "Image_052.png",
+      "itemNum": "F004",
+      "partNum": "A290-8032-Z882",
+      "size": "16x6\nx6.3t",
+      "name": "Power feed contact",
+      "position": "Upper & Lower",
+      "description": "W-1,2,3,4 AWF"
+    },
+    {
+      "photo": "Image_053.png",
+      "itemNum": "F005",
+      "partNum": "A290-8101-X750",
+      "size": "2.8x7.7\nx23",
+      "name": "Power feed contact",
+      "position": "Upper & Lower",
+      "description": "α-A,B\nManual / AWF"
+    },
+    {
+      "photo": "Image_054.png",
+      "itemNum": "F006",
+      "partNum": "A290-8110-X750",
+      "size": "4x12\nx23",
+      "name": "Power feed contact",
+      "position": "Upper & Lower",
+      "description": "α-c,iA,Ib, α OiD Manual / AWF"
+    },
+    {
+      "photo": "Image_055.png",
+      "itemNum": "F006L",
+      "partNum": "A290-8110-X750",
+      "size": "4x12\nx30",
+      "name": "Power feed contact",
+      "position": "Upper & Lower",
+      "description": "α-c,iA,iB Manual / AWF"
+    },
+    {
+      "photo": "Image_056.png",
+      "itemNum": "F007",
+      "partNum": "A290-8048-X759",
+      "size": "15x6\nx6t",
+      "name": "Power feed contact",
+      "position": "Upper",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_057.png",
+      "itemNum": "F008",
+      "partNum": "A290-8119-Z780",
+      "size": "4x10\nx26",
+      "name": "Power feed contact",
+      "position": "Lower",
+      "description": "α 1iD ,α OiD Manual / AWF"
+    },
+    {
+      "photo": "Image_058.png",
+      "itemNum": "F008L",
+      "partNum": "",
+      "size": "4x10\nx30",
+      "name": "Power feed contact",
+      "position": "Lower",
+      "description": "α 1iD ,α OiD Manual / AWF"
+    },
+    {
+      "photo": "Image_059.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_060.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_061.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_062.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_063.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_064.png",
+      "itemNum": "",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_065.png",
+      "itemNum": "F201",
+      "partNum": "",
+      "size": "Ø3.0",
+      "name": "Water Nozzle (3Hole type)",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W\nManual\n(3 hole type)"
+    },
+    {
+      "photo": "Image_065.png",
+      "itemNum": "F201",
+      "partNum": "",
+      "size": "Ø4.0",
+      "name": "Water Nozzle (3Hole type)",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W\nManual\n(3 hole type)"
+    },
+    {
+      "photo": "Image_065.png",
+      "itemNum": "F201",
+      "partNum": "A290-8021-Y745",
+      "size": "Ø5.5",
+      "name": "Water Nozzle (3Hole type)",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W\nManual\n(3 hole type)"
+    },
+    {
+      "photo": "Image_066.png",
+      "itemNum": "F201L",
+      "partNum": "",
+      "size": "",
+      "name": "Water Nozzle Lower Long type",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_066.png",
+      "itemNum": "F201L",
+      "partNum": "",
+      "size": "",
+      "name": "Water Nozzle Lower Long type",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_066.png",
+      "itemNum": "F201L",
+      "partNum": "",
+      "size": "",
+      "name": "Water Nozzle Lower Long type",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual"
+    },
+    {
+      "photo": "Image_067.png",
+      "itemNum": "F202",
+      "partNum": "",
+      "size": "Ø3.0",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual\n(1 hole type)"
+    },
+    {
+      "photo": "Image_067.png",
+      "itemNum": "F202",
+      "partNum": "",
+      "size": "Ø4.0",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual\n(1 hole type)"
+    },
+    {
+      "photo": "Image_067.png",
+      "itemNum": "F202",
+      "partNum": "A290-8021-Y755",
+      "size": "Ø5.5",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "O,P,Q,R,T,W\nManual\n(1 hole type)"
+    },
+    {
+      "photo": "Image_068.png",
+      "itemNum": "F203",
+      "partNum": "",
+      "size": "Ø5.5",
+      "name": "Water Nozzle",
+      "position": "",
+      "description": "W-3"
+    },
+    {
+      "photo": "Image_069.png",
+      "itemNum": "F204",
+      "partNum": "A290-8037-X879",
+      "size": "Ø5.5",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "W-1,2,3,4 AWF"
+    },
+    {
+      "photo": "Image_070.png",
+      "itemNum": "F205",
+      "partNum": "A290-8032-Y611",
+      "size": "Ø5.5",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "W-1,2,3,5 AWF"
+    },
+    {
+      "photo": "Image_071.png",
+      "itemNum": "F206",
+      "partNum": "A290-8021-V722",
+      "size": "36x21.\n5",
+      "name": "Nozzle Cap",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W For F201/F202"
+    },
+    {
+      "photo": "Image_072.png",
+      "itemNum": "F206-1",
+      "partNum": "A290-8021-V725",
+      "size": "",
+      "name": "Nozzle Cap (Stainless)",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W For F201/F202"
+    },
+    {
+      "photo": "Image_073.png",
+      "itemNum": "F206-2",
+      "partNum": "A290-8021-V722",
+      "size": "",
+      "name": "Nozzle Cap\n(SUS)",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W\nFor F206/F206-1"
+    },
+    {
+      "photo": "Image_074.png",
+      "itemNum": "F206 SET",
+      "partNum": "",
+      "size": "",
+      "name": "Dies Holder Assembly",
+      "position": "Upper & Lower",
+      "description": "O,P,Q,R,T,W"
+    },
+    {
+      "photo": "Image_075.png",
+      "itemNum": "F206-3",
+      "partNum": "",
+      "size": "",
+      "name": "Nozzle Caver",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_076.png",
+      "itemNum": "F206-4",
+      "partNum": "",
+      "size": "",
+      "name": "Nozzle Cap",
+      "position": "Upper & Lower",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_077.png",
+      "itemNum": "F207",
+      "partNum": "A290-8048-X771",
+      "size": "Ø7",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "W-0\nManual"
+    },
+    {
+      "photo": "Image_078.png",
+      "itemNum": "F208",
+      "partNum": "A290-8048-X772",
+      "size": "Ø7",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "W-0\nManual"
+    },
+    {
+      "photo": "Image_079.png",
+      "itemNum": "F209",
+      "partNum": "A290-8111-X772",
+      "size": "Ø2.0",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_079.png",
+      "itemNum": "F209",
+      "partNum": "A290-8111-X774",
+      "size": "Ø4.0",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_079.png",
+      "itemNum": "F209",
+      "partNum": "A290-8111-X776",
+      "size": "Ø6.5",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_080.png",
+      "itemNum": "F209-1",
+      "partNum": "A290-8111-X772",
+      "size": "Ø2.0",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_080.png",
+      "itemNum": "F209-1",
+      "partNum": "A290-8111-X774",
+      "size": "Ø4.0",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_080.png",
+      "itemNum": "F209-1",
+      "partNum": "A290-8111-X776",
+      "size": "Ø6.5",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_081.png",
+      "itemNum": "F210",
+      "partNum": "A290-8101-X755",
+      "size": "",
+      "name": "Nozzle Holder",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_082.png",
+      "itemNum": "F211",
+      "partNum": "A290-8103X774",
+      "size": "Ø2.0",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_082.png",
+      "itemNum": "F211",
+      "partNum": "A290-8101-X774",
+      "size": "Ø4.0",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_082.png",
+      "itemNum": "F211",
+      "partNum": "A290-8101-X756",
+      "size": "Ø6.5",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_082.png",
+      "itemNum": "F211",
+      "partNum": "A290-8101-X777",
+      "size": "Ø10.0",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nManual"
+    },
+    {
+      "photo": "Image_083.png",
+      "itemNum": "F212",
+      "partNum": "A290-8104X775",
+      "size": "Ø2.0",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF F214 : Ø4\nF216 : Ø12"
+    },
+    {
+      "photo": "Image_083.png",
+      "itemNum": "F212",
+      "partNum": "A290-8102-X751",
+      "size": "Ø6.5",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF F214 : Ø4\nF216 : Ø12"
+    },
+    {
+      "photo": "Image_084.png",
+      "itemNum": "F212-1",
+      "partNum": "A290-8104X775",
+      "size": "Ø2.0",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF F214 : Ø4\nF216 : Ø12"
+    },
+    {
+      "photo": "Image_084.png",
+      "itemNum": "F212-1",
+      "partNum": "A290-8102-X751",
+      "size": "Ø6.5",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF F214 : Ø4\nF216 : Ø12"
+    },
+    {
+      "photo": "Image_085.png",
+      "itemNum": "F212L",
+      "partNum": "A290-8102-X775",
+      "size": "L=69 Ø6.5",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_086.png",
+      "itemNum": "F213",
+      "partNum": "A290-8104-X774",
+      "size": "Ø2.0",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF F215 : Ø4\nF217 : Ø12"
+    },
+    {
+      "photo": "Image_086.png",
+      "itemNum": "F213",
+      "partNum": "A290-8102-X771",
+      "size": "Ø6.5",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF F215 : Ø4\nF217 : Ø12"
+    },
+    {
+      "photo": "Image_087.png",
+      "itemNum": "F213-1",
+      "partNum": "A290-8104-X774",
+      "size": "Ø2.0",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF F215 : Ø4\nF217 : Ø12"
+    },
+    {
+      "photo": "Image_087.png",
+      "itemNum": "F213-1",
+      "partNum": "A290-8102-X771",
+      "size": "Ø6.5",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF F215 : Ø4\nF217 : Ø12"
+    },
+    {
+      "photo": "Image_088.png",
+      "itemNum": "F213L",
+      "partNum": "A290-8102-X774",
+      "size": "L=50 Ø6.5",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_089.png",
+      "itemNum": "F214",
+      "partNum": "A290-8102-X775",
+      "size": "Ø4.0",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF F212 : Ø4"
+    },
+    {
+      "photo": "Image_090.png",
+      "itemNum": "F214-1",
+      "partNum": "A290-8102-X775",
+      "size": "Ø4.0",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF F212 : Ø4"
+    },
+    {
+      "photo": "Image_091.png",
+      "itemNum": "F215",
+      "partNum": "A290-8102-X774",
+      "size": "Ø4.0",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF F213 : Ø4"
+    },
+    {
+      "photo": "Image_092.png",
+      "itemNum": "F215-1",
+      "partNum": "A290-8102-X774",
+      "size": "Ø4.0",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF F213 : Ø4"
+    },
+    {
+      "photo": "Image_093.png",
+      "itemNum": "F216",
+      "partNum": "A290-8102-X752",
+      "size": "Ø12.0",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF\nF212 : Ø12"
+    },
+    {
+      "photo": "Image_094.png",
+      "itemNum": "F216-1",
+      "partNum": "A290-8102-X752",
+      "size": "Ø12.0",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Upper",
+      "description": "α-A,B,C,iA,iB\nAWF\nF212 : Ø12"
+    },
+    {
+      "photo": "Image_095.png",
+      "itemNum": "F217",
+      "partNum": "A290-8102-X772",
+      "size": "Ø12.0",
+      "name": "Water Nozzle (Acetal)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF\nF213 : Ø12"
+    },
+    {
+      "photo": "Image_096.png",
+      "itemNum": "F217-1",
+      "partNum": "A290-8102-X772",
+      "size": "Ø12.0",
+      "name": "Water Nozzle (Acryl)",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\nAWF\nF213 : Ø12"
+    },
+    {
+      "photo": "Image_097.png",
+      "itemNum": "F218",
+      "partNum": "A290-8109-X776",
+      "size": "Ø2.0",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-C Manual"
+    },
+    {
+      "photo": "Image_097.png",
+      "itemNum": "F218",
+      "partNum": "A290-8109-X776",
+      "size": "Ø3.0",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-C Manual"
+    },
+    {
+      "photo": "Image_097.png",
+      "itemNum": "F218",
+      "partNum": "A290-8109-X776",
+      "size": "Ø4.0",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-C Manual"
+    },
+    {
+      "photo": "Image_097.png",
+      "itemNum": "F218",
+      "partNum": "A290-8109-X776",
+      "size": "Ø6.5",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-C Manual"
+    },
+    {
+      "photo": "Image_098.png",
+      "itemNum": "F218",
+      "partNum": "A290-8109-X776",
+      "size": "Ø6.5",
+      "name": "Water Nozzle",
+      "position": "Upper",
+      "description": "α-C Manual"
+    },
+    {
+      "photo": "Image_099.png",
+      "itemNum": "F218L",
+      "partNum": "A290-8101-X779",
+      "size": "L=7 Ø4.0",
+      "name": "Water Nozzle",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_100.png",
+      "itemNum": "F219",
+      "partNum": "",
+      "size": "Ø4",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-iE"
+    },
+    {
+      "photo": "Image_101.png",
+      "itemNum": "F219L",
+      "partNum": "A290-8119-Z786",
+      "size": "L=7 Ø4",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-iE"
+    },
+    {
+      "photo": "Image_102.png",
+      "itemNum": "F220",
+      "partNum": "",
+      "size": "Ø5",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-iE"
+    },
+    {
+      "photo": "Image_103.png",
+      "itemNum": "F221",
+      "partNum": "A290-8119-Z787",
+      "size": "Ø6.5",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-iE"
+    },
+    {
+      "photo": "Image_104.png",
+      "itemNum": "F222",
+      "partNum": "A290-8119-Z788",
+      "size": "Ø10.0",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-iE"
+    },
+    {
+      "photo": "Image_105.png",
+      "itemNum": "F222",
+      "partNum": "A290-8119-Z788",
+      "size": "Ø12.0",
+      "name": "Water Nozzle",
+      "position": "Lower",
+      "description": "α-iE"
+    },
+    {
+      "photo": "Image_106.png",
+      "itemNum": "F251",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "Upper",
+      "description": "α-C Manual"
+    },
+    {
+      "photo": "Image_107.png",
+      "itemNum": "F301",
+      "partNum": "A290-8005-X722",
+      "size": "",
+      "name": "Isolator Plate",
+      "position": "Lower",
+      "description": "L\nManual"
+    },
+    {
+      "photo": "Image_108.png",
+      "itemNum": "F302",
+      "partNum": "A290-8021-X709",
+      "size": "56x73\nx10",
+      "name": "Isolator Plate",
+      "position": "Lower",
+      "description": "O,P,Q,R,T"
+    },
+    {
+      "photo": "Image_109.png",
+      "itemNum": "F303",
+      "partNum": "A290-8032-X334",
+      "size": "39x73.\n6\nx12",
+      "name": "Isolator Plate Belt type",
+      "position": "Lower",
+      "description": "W4 AWF"
+    },
+    {
+      "photo": "Image_110.png",
+      "itemNum": "F303W",
+      "partNum": "A209-8048-X333",
+      "size": "56x73\nx10",
+      "name": "Isolator Plate Suction type",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_111.png",
+      "itemNum": "F304",
+      "partNum": "A290-8021-X602",
+      "size": "51x33\nx30",
+      "name": "Isolator Plate",
+      "position": "Upper",
+      "description": "O,P,Q,R,T"
+    },
+    {
+      "photo": "Image_112.png",
+      "itemNum": "F304A",
+      "partNum": "A290-8037-X692",
+      "size": "51x31\nx30",
+      "name": "Isolator Plate",
+      "position": "Upper",
+      "description": "W0 Old Type"
+    },
+    {
+      "photo": "Image_113.png",
+      "itemNum": "F305",
+      "partNum": "A290-8101-X509",
+      "size": "40x40\nx34",
+      "name": "Isolator Plate",
+      "position": "Upper",
+      "description": "α-A,B"
+    },
+    {
+      "photo": "Image_114.png",
+      "itemNum": "F306",
+      "partNum": "A290-8110-X312",
+      "size": "72x15",
+      "name": "Isolator Plate",
+      "position": "Lower",
+      "description": "α-A,B,C\nType A"
+    },
+    {
+      "photo": "Image_115.png",
+      "itemNum": "F306-1",
+      "partNum": "A290-8110-Y312",
+      "size": "72X10",
+      "name": "Isolator Plate",
+      "position": "Lower",
+      "description": "α-A,B,C\nType B"
+    },
+    {
+      "photo": "Image_116.png",
+      "itemNum": "F307",
+      "partNum": "A290-8101-X761",
+      "size": "75x56\nx66",
+      "name": "Guide Base",
+      "position": "Lower",
+      "description": "α-A,B"
+    },
+    {
+      "photo": "Image_117.png",
+      "itemNum": "F307-1",
+      "partNum": "",
+      "size": "75x56\nx66",
+      "name": "Guide Base",
+      "position": "Lower",
+      "description": "α-C"
+    },
+    {
+      "photo": "Image_118.png",
+      "itemNum": "F307-2\nWith (F307-3)",
+      "partNum": "A290-8110-X761",
+      "size": "81x56\nx66",
+      "name": "Guide Base",
+      "position": "Lower",
+      "description": "α-iA,iB,iC"
+    },
+    {
+      "photo": "Image_119.png",
+      "itemNum": "F307-3\nWith (F307-2)",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_120.png",
+      "itemNum": "F307C",
+      "partNum": "A290-8102-X393",
+      "size": "",
+      "name": "Base Cover",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_121.png",
+      "itemNum": "F321",
+      "partNum": "",
+      "size": "64x42\nx23",
+      "name": "Isolator Plate",
+      "position": "Upper",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_122.png",
+      "itemNum": "F322",
+      "partNum": "",
+      "size": "56x43\nx15",
+      "name": "Isolator Plate",
+      "position": "Lower",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_123.png",
+      "itemNum": "F323",
+      "partNum": "A290-8110-X600",
+      "size": "27x70\nx35",
+      "name": "Isolator Plate",
+      "position": "Lower",
+      "description": "α-1iA\nRefer to F305-2"
+    },
+    {
+      "photo": "Image_124.png",
+      "itemNum": "F324",
+      "partNum": "A290-8102-X600",
+      "size": "27x70\nx48",
+      "name": "Isolator Plate",
+      "position": "Lower",
+      "description": "α-A,C\nRefer to F305-1"
+    },
+    {
+      "photo": "Image_125.png",
+      "itemNum": "F400 (=M463-1)",
+      "partNum": "A97L-0001-0670",
+      "size": "12x6\nx4",
+      "name": "Bearing\nFor F401 / F402 (1260ZZ)",
+      "position": "",
+      "description": "W"
+    },
+    {
+      "photo": "Image_126.png",
+      "itemNum": "F401",
+      "partNum": "A290-8004-X713",
+      "size": "49x 6.5x12",
+      "name": "Wire Sub Roler Stainless type",
+      "position": "Lower",
+      "description": "W"
+    },
+    {
+      "photo": "Image_127.png",
+      "itemNum": "F401BS",
+      "partNum": "A290-8004-X713",
+      "size": "49x 6.5x12",
+      "name": "Wire Sub Roller Brass type",
+      "position": "Lower",
+      "description": "W\n(Brass)"
+    },
+    {
+      "photo": "Image_128.png",
+      "itemNum": "F401-1",
+      "partNum": "A290-0124-X002 (A970-0124- X002)",
+      "size": "",
+      "name": "Axle for F401 Axle for F401C",
+      "position": "Lower",
+      "description": "W"
+    },
+    {
+      "photo": "Image_129.png",
+      "itemNum": "F401-2",
+      "partNum": "",
+      "size": "",
+      "name": "Bearing Cover",
+      "position": "Lower",
+      "description": "W"
+    },
+    {
+      "photo": "Image_130.png",
+      "itemNum": "F401-3",
+      "partNum": "A290-0124-X003 (A970-0124- X003)",
+      "size": "",
+      "name": "Nut for Wire Sub Roller",
+      "position": "Lower",
+      "description": "W"
+    },
+    {
+      "photo": "Image_131.png",
+      "itemNum": "F401\nSET",
+      "partNum": "A290-8004-V316",
+      "size": "49x 6.5x12",
+      "name": "Wire Sub Roller Stainless type With Axis & Bearing",
+      "position": "Lower",
+      "description": "W"
+    },
+    {
+      "photo": "Image_132.png",
+      "itemNum": "F401C",
+      "partNum": "A290-8004-X713",
+      "size": "49x 6.5x12",
+      "name": "Wire Sub Roller Ceramic Type",
+      "position": "Lower",
+      "description": "W\n(Ceramic)"
+    },
+    {
+      "photo": "Image_133.png",
+      "itemNum": "F401C SET",
+      "partNum": "A290-8004-V316",
+      "size": "49x 6.5x12",
+      "name": "Wire Sub Roller Ceramic type With Axis & Bearing",
+      "position": "Lower",
+      "description": "W\n(Ceramic)"
+    },
+    {
+      "photo": "Image_134.png",
+      "itemNum": "F401BS SET",
+      "partNum": "A290-8004-V316",
+      "size": "49x 6.5x12",
+      "name": "Wire Sub Roller Stainless type With Axis & Bearing",
+      "position": "Lower",
+      "description": "W\n(Brass)"
+    },
+    {
+      "photo": "Image_135.png",
+      "itemNum": "F402",
+      "partNum": "A290-8006-X707",
+      "size": "64 X6.5 X12",
+      "name": "Wire Sub Roler Stainless type",
+      "position": "Lower",
+      "description": "W"
+    },
+    {
+      "photo": "Image_136.png",
+      "itemNum": "F402\nSET",
+      "partNum": "A290-8006-X707",
+      "size": "64 X6.5 X12",
+      "name": "Wire Sub Roler Stainless type With Axis & Bearing",
+      "position": "Lower",
+      "description": "W\n(Stainless)"
+    },
+    {
+      "photo": "Image_137.png",
+      "itemNum": "F402C",
+      "partNum": "A290-8006-X707",
+      "size": "64 X6.5 X12",
+      "name": "Wire Sub Roler Ceramic type",
+      "position": "Lower",
+      "description": "W\n(Ceramic)"
+    },
+    {
+      "photo": "Image_138.png",
+      "itemNum": "F402C SET",
+      "partNum": "A290-8006-X707",
+      "size": "64 X6.5 X12",
+      "name": "Wire Sub Roler Ceramic type With Axis & Bearing",
+      "position": "Lower",
+      "description": "W\n(Ceramic)"
+    },
+    {
+      "photo": "Image_139.png",
+      "itemNum": "F402BS",
+      "partNum": "A290-8006-X707",
+      "size": "64 X6.5 X12",
+      "name": "Wire Sub Roler Brass type",
+      "position": "Lower",
+      "description": "W\n(Brass)"
+    },
+    {
+      "photo": "Image_140.png",
+      "itemNum": "F402BS SET",
+      "partNum": "A290-8006-X707",
+      "size": "64 X6.5 X12",
+      "name": "Wire Sub Roler Brass type With Axis & Bearing",
+      "position": "Lower",
+      "description": "W\n(Brass)"
+    },
+    {
+      "photo": "Image_141.png",
+      "itemNum": "F403",
+      "partNum": "A290-8103-X762",
+      "size": "40X40 X25",
+      "name": "Guide Base",
+      "position": "Lower",
+      "description": "α-A,B\n(Stainless)"
+    },
+    {
+      "photo": "Image_142.png",
+      "itemNum": "F403-1",
+      "partNum": "",
+      "size": "40x40\nx19",
+      "name": "Guide Base",
+      "position": "Lower",
+      "description": "α-B S\nAWF"
+    },
+    {
+      "photo": "Image_143.png",
+      "itemNum": "F404",
+      "partNum": "A290-8110-X770",
+      "size": "59.5x\n49x20",
+      "name": "Guide Block A",
+      "position": "Lower",
+      "description": "α-iA,iB,iC (Stainless) Manual / AWF"
+    },
+    {
+      "photo": "Image_144.png",
+      "itemNum": "F404B",
+      "partNum": "A290-8110-X770",
+      "size": "69x 51x20",
+      "name": "Guide Block A",
+      "position": "Lower",
+      "description": "α-iA,iB,iC (Stainless) Manual / AWF"
+    },
+    {
+      "photo": "Image_145.png",
+      "itemNum": "F404-1",
+      "partNum": "A97L-0201-0369",
+      "size": "38x22\nx12",
+      "name": "Lower Roller Stainless",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\n(Stainless)"
+    },
+    {
+      "photo": "Image_146.png",
+      "itemNum": "F404-1C",
+      "partNum": "A290-8101-X765",
+      "size": "38x22\nx12",
+      "name": "Lower Roller Ceramic",
+      "position": "Lower",
+      "description": "α-A,B,C,iA,iB\n(Ceramic)"
+    },
+    {
+      "photo": "Image_147.png",
+      "itemNum": "F404-2",
+      "partNum": "",
+      "size": "39x17\nx12",
+      "name": "Lower Roller",
+      "position": "Lower",
+      "description": "W3"
+    },
+    {
+      "photo": "Image_148.png",
+      "itemNum": "F405",
+      "partNum": "A290-8101-X394",
+      "size": "13x20\nx19",
+      "name": "Feed Guide\n(Plastic)",
+      "position": "Feed Section",
+      "description": "α-A,B,C\n(Plastic) Manual / AWF"
+    },
+    {
+      "photo": "Image_149.png",
+      "itemNum": "F406",
+      "partNum": "A290-8101-Z382",
+      "size": "40x20\nx18",
+      "name": "Pinch Roller",
+      "position": "Feed Section",
+      "description": "α-A,B\n(Ceramic) Manual / AWF"
+    },
+    {
+      "photo": "Image_150.png",
+      "itemNum": "F407",
+      "partNum": "A290-8101-Z383",
+      "size": "40x20\nx19",
+      "name": "Pinch Roller",
+      "position": "Feed Section",
+      "description": "α-A,B\n(Ceramic) Manual / AWF"
+    },
+    {
+      "photo": "Image_151.png",
+      "itemNum": "F408",
+      "partNum": "A290-8102-X393",
+      "size": "57x20\nx20",
+      "name": "Feed Guide",
+      "position": "Feed Section",
+      "description": "α-A,B,C\n(Polycarbonate) Manual / AWF"
+    },
+    {
+      "photo": "Image_152.png",
+      "itemNum": "F409",
+      "partNum": "A290-8101-X371",
+      "size": "140x22",
+      "name": "Brake Shoe",
+      "position": "Upper",
+      "description": "α-A,B,C\nManual / AWF"
+    },
+    {
+      "photo": "Image_153.png",
+      "itemNum": "F409i",
+      "partNum": "A290-8011-X371",
+      "size": "140x22",
+      "name": "Brake Shoe",
+      "position": "",
+      "description": "α-iA,iB"
+    },
+    {
+      "photo": "Image_154.png",
+      "itemNum": "F409W",
+      "partNum": "A290-8011-V352",
+      "size": "",
+      "name": "Brake Shoe",
+      "position": "",
+      "description": "O,P,Q,T,W"
+    },
+    {
+      "photo": "Image_155.png",
+      "itemNum": "F409WO",
+      "partNum": "A290-8039-V352",
+      "size": "100x22",
+      "name": "Brake Shoe",
+      "position": "",
+      "description": "W0 AWF"
+    },
+    {
+      "photo": "Image_156.png",
+      "itemNum": "F410",
+      "partNum": "A290-8110-X382",
+      "size": "40x28\nx30",
+      "name": "Pinch Roller Without Bearing (F502)",
+      "position": "Feed Section",
+      "description": "α-C Ceramic\nManual / AWF"
+    },
+    {
+      "photo": "Image_157.png",
+      "itemNum": "F411",
+      "partNum": "A290-8110-X383",
+      "size": "40x12\nx30",
+      "name": "Feed Roller",
+      "position": "Feed Section",
+      "description": "α-C Ceramic\nManual / AWF"
+    },
+    {
+      "photo": "Image_158.png",
+      "itemNum": "F412",
+      "partNum": "A290-8110-X762",
+      "size": "46x40 x24.5",
+      "name": "Guide Base",
+      "position": "Lower",
+      "description": "α-C,iA,iB Stainless Manual / AWF"
+    },
+    {
+      "photo": "Image_159.png",
+      "itemNum": "F412B",
+      "partNum": "",
+      "size": "42x42\nx33",
+      "name": "Guide Base",
+      "position": "Lower",
+      "description": ""
+    },
+    {
+      "photo": "Image_160.png",
+      "itemNum": "F413",
+      "partNum": "A290-8112-X382",
+      "size": "80x22",
+      "name": "Pinch Roller",
+      "position": "Feed Section",
+      "description": "α-0iA,1iA,0iB,1iB\nCeramic Manual / AWF"
+    },
+    {
+      "photo": "Image_161.png",
+      "itemNum": "F413-1",
+      "partNum": "",
+      "size": "80x22",
+      "name": "",
+      "position": "Feed Section",
+      "description": "α-0iA,1iA,0iB,1iB\nCeramic Manual / AWF"
+    },
+    {
+      "photo": "Image_162.png",
+      "itemNum": "F414",
+      "partNum": "A290-8112-X383",
+      "size": "80x22",
+      "name": "Feed Roller",
+      "position": "Feed Section",
+      "description": "α-0iA,1iA,0iB,1iB\nCeramic Manual / AWF"
+    },
+    {
+      "photo": "Image_163.png",
+      "itemNum": "F414-1",
+      "partNum": "",
+      "size": "17X95",
+      "name": "Shaft",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_164.png",
+      "itemNum": "Fe415",
+      "partNum": "A290-8037-X331",
+      "size": "80x28 /\n20x18",
+      "name": "Feed Roller Stainless",
+      "position": "Feed Section",
+      "description": "O,P,Q,T,W"
+    },
+    {
+      "photo": "Image_165.png",
+      "itemNum": "Fe415C",
+      "partNum": "A290-8037-X331",
+      "size": "80x28 /\n20x18",
+      "name": "Feed Roller Ceramic",
+      "position": "Feed Section",
+      "description": "O,P,Q,T,W"
+    },
+    {
+      "photo": "Image_166.png",
+      "itemNum": "Fe416",
+      "partNum": "A290-8037-X330",
+      "size": "80x11\nx18/24",
+      "name": "Feed Roller Stainless",
+      "position": "Feed Section",
+      "description": "O,P,Q,T,W"
+    },
+    {
+      "photo": "Image_167.png",
+      "itemNum": "Fe416C",
+      "partNum": "A290-8037-X330",
+      "size": "80x11\nx18/24",
+      "name": "Feed Roller Ceramic",
+      "position": "Feed Section",
+      "description": "O,P,Q,T,W"
+    },
+    {
+      "photo": "Image_168.png",
+      "itemNum": "Fe416C-1",
+      "partNum": "A290-8037-X330",
+      "size": "80x15\nx18/24",
+      "name": "Feed Roller Ceramic",
+      "position": "Feed Section",
+      "description": "O,P,Q,T,W"
+    },
+    {
+      "photo": "Image_169.png",
+      "itemNum": "Fe417",
+      "partNum": "A290-8037-X805",
+      "size": "60x28\nx18",
+      "name": "Pinch Roller",
+      "position": "Feed Section",
+      "description": "W0 AWF"
+    },
+    {
+      "photo": "Image_170.png",
+      "itemNum": "Fe418",
+      "partNum": "A290-8037-X806",
+      "size": "60x11\nx24",
+      "name": "Feed Roller",
+      "position": "Feed Section",
+      "description": "W0 AWF"
+    },
+    {
+      "photo": "Image_171.png",
+      "itemNum": "Fe419",
+      "partNum": "A290-8011-X470",
+      "size": "23x12\nx12",
+      "name": "Ceramic Roller",
+      "position": "",
+      "description": "W3\nSemi-Auto"
+    },
+    {
+      "photo": "Image_172.png",
+      "itemNum": "Fe420",
+      "partNum": "A290-8032-V742",
+      "size": "Ø70",
+      "name": "Roller Assembly Right",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_173.png",
+      "itemNum": "Fe421",
+      "partNum": "",
+      "size": "39x17\nx12",
+      "name": "Roller Ceramic",
+      "position": "Feed Section",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_174.png",
+      "itemNum": "Fe421-1",
+      "partNum": "",
+      "size": "17.2X2\n3\nX6X8",
+      "name": "Shaft",
+      "position": "Feed Section",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_175.png",
+      "itemNum": "Fe421-2",
+      "partNum": "",
+      "size": "19x6\n6",
+      "name": "Bearing\n(626ZZ)",
+      "position": "Feed Section",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_176.png",
+      "itemNum": "Fe422",
+      "partNum": "",
+      "size": "40x14\nx12",
+      "name": "Lower Roller",
+      "position": "",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_177.png",
+      "itemNum": "Fe422-1",
+      "partNum": "",
+      "size": "14x7 X5T",
+      "name": "Bearing\n(687ZZ)",
+      "position": "",
+      "description": "W0"
+    },
+    {
+      "photo": "Image_178.png",
+      "itemNum": "Fe423",
+      "partNum": "",
+      "size": "38x14\nx12",
+      "name": "Lower Roller",
+      "position": "",
+      "description": "3-Ø3.5 hole"
+    },
+    {
+      "photo": "Image_179.png",
+      "itemNum": "Fe424",
+      "partNum": "",
+      "size": "",
+      "name": "lower Roller",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_180.png",
+      "itemNum": "Fe425C",
+      "partNum": "",
+      "size": "80x22",
+      "name": "Feed Section",
+      "position": "",
+      "description": "α-0iA,1iA,0iB,1iB\nCeramic Manual / AWF"
+    },
+    {
+      "photo": "Image_181.png",
+      "itemNum": "Fe426C",
+      "partNum": "",
+      "size": "80x17\nx22/29",
+      "name": "Feed Roller Ceramic",
+      "position": "",
+      "description": "α-0iA,1iA,0iB,1iB\nCeramic Manual / AWF"
+    },
+    {
+      "photo": "Image_182.png",
+      "itemNum": "Fe490",
+      "partNum": "A290-8102-X622",
+      "size": "17X6 X33",
+      "name": "Guide end",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_183.png",
+      "itemNum": "Fe491",
+      "partNum": "",
+      "size": "3X0.8 X30",
+      "name": "Ceramic Tube",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_184.png",
+      "itemNum": "Fe501",
+      "partNum": "A97L-0001-0670",
+      "size": "25/22x 8x7",
+      "name": "Bearing (608)\nM422 (608-\nsus)\n(non-rubber)",
+      "position": "Lower",
+      "description": "α-0iA,1iA,0iB,1iB\nFor F404-1\nManual / AWF"
+    },
+    {
+      "photo": "Image_185.png",
+      "itemNum": "Fe502",
+      "partNum": "A97L-0201-0369",
+      "size": "28x12\nx8",
+      "name": "Bearing\n(SS6001LLU)",
+      "position": "Lower",
+      "description": "α-A,B,C\nFor F406 / F410 / F417"
+    },
+    {
+      "photo": "Image_186.png",
+      "itemNum": "Fe503",
+      "partNum": "A97L-0201-0369",
+      "size": "40x17\nx12",
+      "name": "Bearing\n(SS6203LLU)",
+      "position": "Lower",
+      "description": "α-A,B"
+    },
+    {
+      "photo": "Image_187.png",
+      "itemNum": "Fe504",
+      "partNum": "A97L-0201-0910",
+      "size": "35x17\nx10",
+      "name": "Bearing\n(SS6003LLU)",
+      "position": "",
+      "description": "α-iA,IB,iC,iD\nFor F413,F414"
+    },
+    {
+      "photo": "Image_188.png",
+      "itemNum": "Fe505",
+      "partNum": "A290-8110-X751",
+      "size": "",
+      "name": "Screw",
+      "position": "Upper",
+      "description": "α-0iA,1iA,0iB"
+    },
+    {
+      "photo": "Image_189.png",
+      "itemNum": "Fe506",
+      "partNum": "A290-8112-X752 A290-8110-X752",
+      "size": "",
+      "name": "Screw",
+      "position": "Lower",
+      "description": "α-C"
+    },
+    {
+      "photo": "Image_190.png",
+      "itemNum": "Fe507",
+      "partNum": "A290-8102-X657",
+      "size": "6x6x10 id=2.5",
+      "name": "Cutting Electrode",
+      "position": "",
+      "description": "for F510B"
+    },
+    {
+      "photo": "Image_191.png",
+      "itemNum": "Fe508",
+      "partNum": "A98L-0001-0973",
+      "size": "6 Inch",
+      "name": "V-Packing",
+      "position": "",
+      "description": "α-1iA"
+    },
+    {
+      "photo": "Image_192.png",
+      "itemNum": "Fe509",
+      "partNum": "A98L-0001-0972",
+      "size": "4 Inch",
+      "name": "V-Packing",
+      "position": "",
+      "description": "α-0iA,0iB"
+    },
+    {
+      "photo": "Image_193.png",
+      "itemNum": "Fe510",
+      "partNum": "A290-8102-X656",
+      "size": "10x7.5 x24.5",
+      "name": "Chuck",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_194.png",
+      "itemNum": "Fe510 A",
+      "partNum": "",
+      "size": "10x6.2 x13.5",
+      "name": "Chuck",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_195.png",
+      "itemNum": "Fe510 B",
+      "partNum": "A290-8119-X691",
+      "size": "24x10\nx7t",
+      "name": "Chuck",
+      "position": "",
+      "description": "for F507"
+    },
+    {
+      "photo": "Image_196.png",
+      "itemNum": "Fe511",
+      "partNum": "A97L-0201-0911",
+      "size": "47x35\nx7",
+      "name": "Bearing\n(SS6807LLU)",
+      "position": "",
+      "description": "α-iA,IB,iC,iD\nFor F413"
+    },
+    {
+      "photo": "Image_197.png",
+      "itemNum": "Fe512",
+      "partNum": "A290-8102-X684",
+      "size": "38x20\nx13",
+      "name": "Cutter Spring",
+      "position": "",
+      "description": "α-A"
+    },
+    {
+      "photo": "Image_198.png",
+      "itemNum": "Fe513",
+      "partNum": "A290-8102-X684",
+      "size": "38x20\nx9",
+      "name": "Cutter Spring",
+      "position": "",
+      "description": "α-iC"
+    },
+    {
+      "photo": "Image_199.png",
+      "itemNum": "Fe514",
+      "partNum": "A290-8110-X721",
+      "size": "70x55\nx28",
+      "name": "Block",
+      "position": "Upper",
+      "description": "α-C"
+    },
+    {
+      "photo": "Image_200.png",
+      "itemNum": "Fe514-1",
+      "partNum": "A290-8102-X722",
+      "size": "31x9.5",
+      "name": "Guide Base",
+      "position": "Upper",
+      "description": "α-C,iC"
+    },
+    {
+      "photo": "Image_201.png",
+      "itemNum": "Fe515",
+      "partNum": "",
+      "size": "",
+      "name": "Block",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_202.png",
+      "itemNum": "Fe516",
+      "partNum": "A290-8102-X722",
+      "size": "",
+      "name": "Die Guide\nBase",
+      "position": "Upper",
+      "description": "α-A,B"
+    },
+    {
+      "photo": "Image_203.png",
+      "itemNum": "Fe517",
+      "partNum": "",
+      "size": "",
+      "name": "Bobbin Scrap",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_204.png",
+      "itemNum": "Fe518",
+      "partNum": "A290-8102-X721",
+      "size": "70x55\nx28",
+      "name": "Block",
+      "position": "Upper",
+      "description": "α-A,B"
+    },
+    {
+      "photo": "Image_205.png",
+      "itemNum": "Fe518-1",
+      "partNum": "A290-8102-X722",
+      "size": "31x9.5",
+      "name": "Guide Base",
+      "position": "Upper",
+      "description": "α-C,iC\nFe514-1"
+    },
+    {
+      "photo": "Image_206.png",
+      "itemNum": "Fe519",
+      "partNum": "A290-8102-X656",
+      "size": "",
+      "name": "Electrode",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_207.png",
+      "itemNum": "F520",
+      "partNum": "A290-8032-V742",
+      "size": "",
+      "name": "Right",
+      "position": "",
+      "description": "W-0\nCeramic roller"
+    },
+    {
+      "photo": "Image_208.png",
+      "itemNum": "F521",
+      "partNum": "A290-8032-V746",
+      "size": "",
+      "name": "Left",
+      "position": "",
+      "description": "W-0\nCeramic roller"
+    },
+    {
+      "photo": "Image_209.png",
+      "itemNum": "Fe522",
+      "partNum": "",
+      "size": "",
+      "name": "",
+      "position": "Upper",
+      "description": "W"
+    },
+    {
+      "photo": "Image_210.png",
+      "itemNum": "Fe523",
+      "partNum": "",
+      "size": "19x6x6",
+      "name": "Bearing\n(606ZZ)",
+      "position": "",
+      "description": "W4"
+    },
+    {
+      "photo": "Image_211.png",
+      "itemNum": "Fe524",
+      "partNum": "",
+      "size": "17x6x6",
+      "name": "Bearing\n(606ZZ)",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_212.png",
+      "itemNum": "Fe525",
+      "partNum": "P97L-0201-0673",
+      "size": "19x6x8",
+      "name": "Bearing\n(6201Z)",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_213.png",
+      "itemNum": "Fe526",
+      "partNum": "",
+      "size": "",
+      "name": "Bearing\n(6000ZZ)",
+      "position": "",
+      "description": ""
+    },
+    {
+      "photo": "Image_214.png",
+      "itemNum": "Fe527",
+      "partNum": "",
+      "size": "",
+      "name": "Insulating Seat",
+      "position": "",
+      "description": "For F412"
+    }
+]

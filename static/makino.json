@@ -1,0 +1,569 @@
+[
+  {
+    "photo": "Image_001.png",
+    "itemNum": "A101",
+    "partNum": "6EC80B403",
+    "size": "0.205",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "U,EC32,EC64,EU64 SP43"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "A101",
+    "partNum": "6EC80B404",
+    "size": "0.255",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "U,EC32,EC64,EU64 SP43"
+  },
+  {
+    "photo": "Image_001.png",
+    "itemNum": "A101",
+    "partNum": "11EC80A401",
+    "size": "0.305",
+    "name": "Wire Guide Dies",
+    "position": "Upper & Lower",
+    "description": "U,EC32,EC64,EU64 SP43"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "A102",
+    "partNum": "",
+    "size": "0.205",
+    "name": "Press Guide",
+    "position": "Upper & Lower",
+    "description": "U,EC32,EC64,EU64 SP43"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "A102",
+    "partNum": "",
+    "size": "0.255",
+    "name": "Press Guide",
+    "position": "Upper & Lower",
+    "description": "U,EC32,EC64,EU64 SP43"
+  },
+  {
+    "photo": "Image_002.png",
+    "itemNum": "A102",
+    "partNum": "",
+    "size": "0.305",
+    "name": "Press Guide",
+    "position": "Upper & Lower",
+    "description": "U,EC32,EC64,EU64 SP43"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "A103",
+    "partNum": "23EC085A222",
+    "size": "0.15",
+    "name": "Guide",
+    "position": "Upper",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "A103",
+    "partNum": "23EC085A209",
+    "size": "0.2",
+    "name": "Guide",
+    "position": "Upper",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "A103",
+    "partNum": "23EC085A212",
+    "size": "0.25",
+    "name": "Guide",
+    "position": "Upper",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_003.png",
+    "itemNum": "A103",
+    "partNum": "23EC085A215",
+    "size": "0.305",
+    "name": "Guide",
+    "position": "Upper",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "A104",
+    "partNum": "20EC090A201",
+    "size": "0.15",
+    "name": "Guide",
+    "position": "Lower",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "A104",
+    "partNum": "20EC090A203",
+    "size": "0.205",
+    "name": "Guide",
+    "position": "Lower",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "A104",
+    "partNum": "20EC090A207",
+    "size": "0.255",
+    "name": "Guide",
+    "position": "Lower",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_004.png",
+    "itemNum": "A104",
+    "partNum": "20EC090A211",
+    "size": "0.305",
+    "name": "Guide",
+    "position": "Lower",
+    "description": "SP43,SP64,U"
+  },
+  {
+    "photo": "Image_005.png",
+    "itemNum": "MA129",
+    "partNum": "",
+    "size": "Ø1.0",
+    "name": "Jet Nozzle",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_006.png",
+    "itemNum": "A001",
+    "partNum": "1EC80A715",
+    "size": "3.2x9.2 x9.2",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EC3025,EC3040,EC70 50\nWith Ⅲ Type head"
+  },
+  {
+    "photo": "Image_007.png",
+    "itemNum": "A002",
+    "partNum": "Z248W0\n/100100",
+    "size": "4x10\nx19",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EC3025,EC3040,EC70 50\nEC-3141,EC-32,EC- 64\nECQ-53,EE-3"
+  },
+  {
+    "photo": "Image_008.png",
+    "itemNum": "A004",
+    "partNum": "Z248W0\n/200100",
+    "size": "4x10\nx19",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "U Series"
+  },
+  {
+    "photo": "Image_009.png",
+    "itemNum": "A005",
+    "partNum": "Z248W0\n/200200",
+    "size": "4x8.2\nx19",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": "EU64,U32K,U53K"
+  },
+  {
+    "photo": "Image_010.png",
+    "itemNum": "A006",
+    "partNum": "Z248W0\n/200300",
+    "size": "4x8.2\nx19",
+    "name": "Power Feed Contact",
+    "position": "Upper & Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_011.png",
+    "itemNum": "A007",
+    "partNum": "Z248W0\n/200400",
+    "size": "8.2x16\nx22",
+    "name": "Power Feed Contact",
+    "position": "",
+    "description": "SP43,SP64,U\nCenter Hole = 4.3 L-R Hole = 3.3"
+  },
+  {
+    "photo": "Image_012.png",
+    "itemNum": "A007-1",
+    "partNum": "",
+    "size": "",
+    "name": "Shaft",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_013.png",
+    "itemNum": "A201",
+    "partNum": "6EC80A418=1",
+    "size": "L=4",
+    "name": "Nozzle Guard",
+    "position": "Lower",
+    "description": "EE,EH,EC,U,EU Series SP-43,SP-64,U-53i\nType-0 (M42 Tap)"
+  },
+  {
+    "photo": "Image_014.png",
+    "itemNum": "A202",
+    "partNum": "6EC130A402",
+    "size": "L=12",
+    "name": "Nozzle Guard",
+    "position": "Upper & Lower",
+    "description": "EE,EH,EC,U,EU Series SP-43,SP-64,U-53i\nType-8"
+  },
+  {
+    "photo": "Image_015.png",
+    "itemNum": "A202A",
+    "partNum": "",
+    "size": "",
+    "name": "Nozzle Guard",
+    "position": "Upper & Lower",
+    "description": "EE,EH,EC,U,EU Series SP-43,SP-64,U-53i\nType-8 (M36 Tap)"
+  },
+  {
+    "photo": "Image_016.png",
+    "itemNum": "A203",
+    "partNum": "4EC130A701=\n1",
+    "size": "Ø8.0",
+    "name": "Nozzle (For A202)",
+    "position": "Upper",
+    "description": "EE,EH,EC,U,EU Series SP-43,SP-64,U-53i\nType-8"
+  },
+  {
+    "photo": "Image_017.png",
+    "itemNum": "A204",
+    "partNum": "4EC80A708=1",
+    "size": "Ø8.0",
+    "name": "Nozzle (For A201)",
+    "position": "Lower",
+    "description": "EE,EH,EC,U,EU Series SP-43,SP-64,U-53i\nType-0 (For Taper)"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "A205",
+    "partNum": "15EC80C401",
+    "size": "Ø5.0",
+    "name": "Laminar Nozzle",
+    "position": "Upper & Lower",
+    "description": "EE,EH,EC,U,EU Series U53I"
+  },
+  {
+    "photo": "Image_018.png",
+    "itemNum": "A205",
+    "partNum": "15EC130C401\n=1",
+    "size": "Ø7.0",
+    "name": "Laminar Nozzle",
+    "position": "Upper & Lower",
+    "description": "EE,EH,EC,U,EU Series U53I"
+  },
+  {
+    "photo": "Image_019.png",
+    "itemNum": "A206",
+    "partNum": "6EC80A419",
+    "size": "50x40\nx5",
+    "name": "Rock Nut",
+    "position": "Lower",
+    "description": "EE,EH,EC,U,EU Series For A201,A202,A205"
+  },
+  {
+    "photo": "Image_020.png",
+    "itemNum": "A206-1",
+    "partNum": "20EC130A401",
+    "size": "50x36\nx5",
+    "name": "Rock Nut",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_021.png",
+    "itemNum": "A207",
+    "partNum": "20EC130A401",
+    "size": "Ø5.0",
+    "name": "Laminar Nozzle",
+    "position": "Lower",
+    "description": "SP-43 (M42 Tap)"
+  },
+  {
+    "photo": "Image_022.png",
+    "itemNum": "A207-1",
+    "partNum": "",
+    "size": "",
+    "name": "",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_023.png",
+    "itemNum": "A208",
+    "partNum": "18EC130B401",
+    "size": "Ø12.0",
+    "name": "Nozzle Guard",
+    "position": "Upper",
+    "description": "SP43,SP64 M42\nS/T"
+  },
+  {
+    "photo": "Image_024.png",
+    "itemNum": "A208-1",
+    "partNum": "18EC80A719",
+    "size": "",
+    "name": "Nozzle Spacer",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_025.png",
+    "itemNum": "A208-2",
+    "partNum": "20EC080A702",
+    "size": "",
+    "name": "Insulation Bushing",
+    "position": "Upper & Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_026.png",
+    "itemNum": "A208-3",
+    "partNum": "18EC130B705",
+    "size": "",
+    "name": "Nozzle Spacer",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_027.png",
+    "itemNum": "A208-4",
+    "partNum": "",
+    "size": "",
+    "name": "Nozzle Spacer",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_028.png",
+    "itemNum": "A209",
+    "partNum": "18EC80A717",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "For High Speed Nozzle For A211"
+  },
+  {
+    "photo": "Image_029.png",
+    "itemNum": "A210",
+    "partNum": "18EC130B706",
+    "size": "",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "For High Speed Nozzle For A208"
+  },
+  {
+    "photo": "Image_030.png",
+    "itemNum": "A211",
+    "partNum": "23EC085A410\n=1",
+    "size": "Ø12.0 23 T",
+    "name": "Nozzle Guard",
+    "position": "Lower",
+    "description": "M36 Tap In Grooved"
+  },
+  {
+    "photo": "Image_031.png",
+    "itemNum": "A211-1",
+    "partNum": "",
+    "size": "",
+    "name": "Nozzle Spacer",
+    "position": "Lower",
+    "description": ""
+  },
+  {
+    "photo": "Image_032.png",
+    "itemNum": "A211A",
+    "partNum": "",
+    "size": "Ø12.0\n23.5 T",
+    "name": "Nozzle Spacer",
+    "position": "Lower",
+    "description": "M36 Tap in S/T"
+  },
+  {
+    "photo": "Image_033.png",
+    "itemNum": "A212",
+    "partNum": "",
+    "size": "Ø21.0",
+    "name": "Nozzle Guard",
+    "position": "Lower",
+    "description": "M42 Tap"
+  },
+  {
+    "photo": "Image_034.png",
+    "itemNum": "A213",
+    "partNum": "23EC085A418",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "Upper",
+    "description": "M36 Tap"
+  },
+  {
+    "photo": "Image_035.png",
+    "itemNum": "A214",
+    "partNum": "",
+    "size": "Ø6.0",
+    "name": "Nozzle",
+    "position": "Lower",
+    "description": "M42 Tap"
+  },
+  {
+    "photo": "Image_036.png",
+    "itemNum": "A217",
+    "partNum": "23EC085A418",
+    "size": "22x8.7\nx6*7",
+    "name": "",
+    "position": "Upper",
+    "description": ""
+  },
+  {
+    "photo": "Image_037.png",
+    "itemNum": "A401",
+    "partNum": "6EC100A747",
+    "size": "33.5 x11.5",
+    "name": "Urethane Roller",
+    "position": "",
+    "description": "U Series EC32,EC64,EU64, SP43"
+  },
+  {
+    "photo": "Image_038.png",
+    "itemNum": "A402",
+    "partNum": "1EC100B703",
+    "size": "32x9\nx5",
+    "name": "Felt pad for B-axis",
+    "position": "",
+    "description": "U Series EC32,EC64,EU64, SP43,U53i"
+  },
+  {
+    "photo": "Image_039.png",
+    "itemNum": "A403",
+    "partNum": "6EC100A761",
+    "size": "15x6\nx2",
+    "name": "Felt pad for H-axis",
+    "position": "",
+    "description": "U Series EC32,EC64,EU64, SP43,U53i"
+  },
+  {
+    "photo": "Image_040.png",
+    "itemNum": "A404",
+    "partNum": "6EC220B714=\n1",
+    "size": "16x3\nx2",
+    "name": "Felt pad\nfor Both side wire guide unit upper 1",
+    "position": "",
+    "description": "U Series EU64,SP43"
+  },
+  {
+    "photo": "Image_041.png",
+    "itemNum": "A405",
+    "partNum": "6EC220B716=\n1",
+    "size": "17x4\nx2",
+    "name": "Felt pad\nfor wire guide unit upper 2",
+    "position": "",
+    "description": "U Series EU64,SP43,U53i"
+  },
+  {
+    "photo": "Image_042.png",
+    "itemNum": "A406",
+    "partNum": "6EC100B404",
+    "size": "104x30\nx14",
+    "name": "Urethane Roller\nU-Type",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_043.png",
+    "itemNum": "A407",
+    "partNum": "15EC100F411",
+    "size": "104x30\nx14",
+    "name": "Urethane Roller\nV-Type",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_044.png",
+    "itemNum": "A408",
+    "partNum": "18EC100A701",
+    "size": "70x38\nx16",
+    "name": "Ceramic Roller",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_045.png",
+    "itemNum": "A409",
+    "partNum": "",
+    "size": "",
+    "name": "Pulley SET",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_046.png",
+    "itemNum": "A409-1",
+    "partNum": "",
+    "size": "35x30x 8x25",
+    "name": "Pulley",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_047.png",
+    "itemNum": "A409-2",
+    "partNum": "",
+    "size": "11x9.3x\n30",
+    "name": "Spring",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_048.png",
+    "itemNum": "A409-3",
+    "partNum": "",
+    "size": "15x8x 52.5",
+    "name": "Shaft Short",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_049.png",
+    "itemNum": "A409-4",
+    "partNum": "",
+    "size": "15x8x 102.5",
+    "name": "Shaft Long",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_050.png",
+    "itemNum": "A409-5",
+    "partNum": "",
+    "size": "35X5.4 X6",
+    "name": "Washa",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_051.png",
+    "itemNum": "A410",
+    "partNum": "",
+    "size": "95.5x2\n2",
+    "name": "Pulley",
+    "position": "",
+    "description": ""
+  },
+  {
+    "photo": "Image_052.png",
+    "itemNum": "A501",
+    "partNum": "",
+    "size": "19*22/ xØ6x6t",
+    "name": "Bearing",
+    "position": "",
+    "description": "F627ZZ(SF626)"
+  }
+]
